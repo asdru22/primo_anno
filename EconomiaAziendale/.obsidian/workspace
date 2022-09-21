@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "472d8e6c0793991c",
+    "type": "split",
+    "children": [
+      {
+        "id": "caa4dbee55585788",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Bilancio/01_Destinatari del Bilancio.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9177306a35968c6e",
+    "type": "split",
+    "children": [
+      {
+        "id": "58b3623346c18680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1089f20f2393f5c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5269b730a1b80e46",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "54e24391465f1829",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f10513d9fdc1dcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "35bd3f58a0eb8283",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "63f0ba9ec948867f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Bilancio/01_Destinatari del Bilancio.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8e3e020d5b917ee2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Bilancio/01_Destinatari del Bilancio.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6ded4bff0c558257",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "04b1019d8d4fc1d7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Bilancio/01_Destinatari del Bilancio.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "caa4dbee55585788",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "Bilancio/01_Destinatari del Bilancio.md",
+    "Techniche di costruzione di piani pluriennali/01_Introduzione.md",
+    "01_Bilancio.md",
+    "02_Analisi di Bilancio.md"
+  ]
+}
