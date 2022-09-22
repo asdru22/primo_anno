@@ -1,0 +1,1 @@
+Il rating aziendale è un indicatore sintetico dell'affidabilità di un'azienda e della sua capacità di far fronte agli impegni finanziari assunti.

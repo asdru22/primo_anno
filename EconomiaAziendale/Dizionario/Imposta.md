@@ -1,0 +1,1 @@
+Un'imposta è un tributo ovvero un prelievo coattivo di reddito effettuato dallo Stato per sostenere la spesa pubblica. Le imposte si differenziano dalle tasse in quanto non corrispondono ad una prestazione ma sono un'entrata del bilancio statale.
