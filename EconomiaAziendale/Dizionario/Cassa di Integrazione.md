@@ -1,0 +1,1 @@
+Una persona è in cassa integrazione se ha smesso di lavorare per un'azienda ma riceve comunque da essa uno stipendio parziale.

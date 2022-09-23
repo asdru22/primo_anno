@@ -1,0 +1,1 @@
+Spese per ospitare clienti, pagare loro vitto e alloggio

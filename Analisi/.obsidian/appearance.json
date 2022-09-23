@@ -1,1 +1,5 @@
-{}
+{
+  "theme": "system",
+  "cssTheme": "Atom",
+  "translucency": true
+}

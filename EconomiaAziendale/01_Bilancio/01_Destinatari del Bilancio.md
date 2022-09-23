@@ -1,4 +1,5 @@
 ## Stakeholder Interni
+## Stakeholder Interni
 ### I Propietari delle imprese
 Gli interessati sono i propietari di un impresa. Coloro che hanno deciso di costruire l'impresa per avviare un'attività.
 Dal momento che compri un titolo azionario di un'azienda sei diventato (piccolo) propietario di un'impresa. Lo stesso vale per le carte soci. Nella vita quotidiana diventiamo propietari di un impresa. Per esempio dalla COOP viene fatto verso primavera un invito per partecipare al bilancio annuale della COOP, perche i soci, in quanto propietari, possono essere interessati a sapere il bilancio.
@@ -42,31 +43,28 @@ Il [[Rating di un'azienda|Rating]] è un parametro sintetico di valutazione di u
 Più il bilancio dell'impresa è ottimo, meno costa l'investimento, questo perchè è più rischioso.
 Ad esempio il settore alimentare è poco rischioso, mentre quello tecnologico è a rischio alto.
 Il bilancio serve anche per declinare il costo del denaro dato in investimento dalle banche.
-
 Il rating può variare in base alle banche. Nel 2010 le grandi banche hanno iniziato a diversificare il rischio, così nel caso parte dell'investimento dato non ritorni le banche non subivano grandi perdite.
 Quindi le banche hanno iniziato a investire anche nelle PMI.
 Anche le banche medie hanno iniziato a investire verso le medie imprese più piccole.
 Quindi anche le banche hanno un punteggio in quanto aziende.
 Quando si apre un nuovo business se una banca non offre denaro si può andare da un'altra che necessitava di diversificare proprio nel settore del richiedente.
 I bilanci devono essere approvati entro 120 giorni dalla chiusura dei bilanci (31 dicembre).
-L'assegnazione del rating ha una validità sfalsata.
+L'assegnazione del rating ha una [[Validità Sfalsata|validità sfalsata]].
 
-## I Fornitori
+### I Fornitori
 Sono anch'essi interessati ai dati di bilancio. Devono sapere quando e quanto il loro ricavo gli arriverà. Una volta non c'era la preoccupazione di assicurarsi che l'azienda alla quale si stava fornendo beni materiali fosse in grado di ripagare ciò che li era stato dato.
 Ci sono PMI che assegnano un rating (massima esposizione economica) ai propri clienti. Declinano quanto possono vendere a loro. Se restituiscono 30.000 il loro rating sarà 30.000.
 
-## I Clienti
+### I Clienti
 I clienti si recano ad una azienda perchè solo là possono trovare un determinato prodotto. Anche i clienti sono stakeholder perche necessitano di quel determinato prodotto. Se osservano il bilancio e vedono che sta andando male, iniziano a riorganizzare gli interessi (cercare altri prodotti simili o più vantaggiosi).
 
-## La Pubblica Amministrazione
+### La Pubblica Amministrazione
 Se una persona richiede spesso i servizi dello Stato è contenta dei servizi offerti da esso, pagati comunque dai cittadini.
 Pagando le [[Imposta|imposte]] ricevi delle servizi dei quali può capitare che un anno non vengano mai utilizzati e l'anno dopo molto spesso.
-
 Dal bilancio si vede il reddito prodotto da ogni azienda. Ogni azienda deve pagare imposte dirette (direttamente collegate al denaro prodotto, una percentuale del guadagno).
-
 Lo Stato può dare aiuti provenienti sia dalla comunità europea che dalla pubblica amministrazione. Lo stato è interessato dare soldi a coloro che hanno un azienda sana, non a rischio di fallimento.  Gli investimenti non vegnono più dati in base ai piani delle aziende nelle quali si vuole investire.
 
-## I Competitori
+### I Competitori
 Un competitore vuole vendere il proprio prodotto ad un determinato cliente, facendosi strada tra le altre aziende che vendono gli stessi prodotti.
 Si guarda dove sta investendo un competitore, in base a dove sta investendo si possono trarre informazioni sui competiori, sia per sgomitare con gli avversari, che per trovare modi per migliorarsi.
 Gli stakeholder interni hanno meno informazioni di quelli esterni. Possono conoscrere solamente il bilancio pubblico, informazioni succinte e standardizzate. Lo standard con il quale deve essere rappresentato il bilancio deve avere la stessa struttura, specialmente per grandi aziende che hanno piu sedi o settori.

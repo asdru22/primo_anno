@@ -1,0 +1,1 @@
+Strumenti piccoli, usa e getta, cartelloni pubblicitari per eventi speciali.

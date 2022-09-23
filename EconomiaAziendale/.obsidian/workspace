@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "caa4dbee55585788",
+        "id": "e8c9690cbf4ab1f7",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f1089f20f2393f5c",
+  "active": "e8c9690cbf4ab1f7",
   "lastOpenFiles": [
-    "Techniche di costruzione di piani pluriennali/01_Introduzione.md",
-    "camera del commercio.md",
+    "Dizionario/Attrezzature minute.md",
+    "01_Bilancio/Mappa a T bilancio.md",
+    "01_Bilancio/02_Informazioni nel bilancio.md",
     "01_Bilancio/01_Destinatari del Bilancio.md",
-    "Dizionario/Camera di Commercio.md",
-    "Dizionario/Imposta.md",
-    "Dizionario/Euribor.md",
-    "Untitled.md",
-    "Dizionario/Rating di un'azienda.md",
-    "01_Bilancio.md",
-    "02_Analisi di Bilancio.md"
+    "Excalidraw/Drawing 2022-09-23 23.00.19.excalidraw.md",
+    "Excalidraw/Drawing 2022-09-23 22.58.46.excalidraw.md",
+    "Dizionario/Cassa di Integrazione.md",
+    "Dizionario/Validità Sfalsata.md",
+    "Dizionario/Spese di Rapperesentanza.md",
+    "Dizionario/Rating di un'azienda.md"
   ]
 }
