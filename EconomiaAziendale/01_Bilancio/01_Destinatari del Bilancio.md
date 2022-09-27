@@ -1,21 +1,19 @@
 ## Stakeholder Interni
-## Stakeholder Interni
 ### I Propietari delle imprese
 Gli interessati sono i propietari di un impresa. Coloro che hanno deciso di costruire l'impresa per avviare un'attività.
-Dal momento che compri un titolo azionario di un'azienda sei diventato (piccolo) propietario di un'impresa. Lo stesso vale per le carte soci. Nella vita quotidiana diventiamo propietari di un impresa. Per esempio dalla COOP viene fatto verso primavera un invito per partecipare al bilancio annuale della COOP, perche i soci, in quanto propietari, possono essere interessati a sapere il bilancio.
+Dal momento che compri un titolo azionario di un'azienda sei diventato (piccolo) propietario di un'impresa. Lo stesso vale per le carte soci. Nella vita quotidiana diventiamo propietari di un impresa. Per esempio dalla COOP viene fatto verso primavera un invito per partecipare al [[bilancio]] annuale della COOP, perche i soci, in quanto propietari, possono essere interessati a sapere il bilancio.
 Il propietario di una piccola azienda è interessato a sapere il propio bilancio.
 Lo stesso vale nel caso si compra un titolo azionario, ma nella realtà dei fatti non siamo interessati al bilancio di un azienda, ma solo se si può trarre guadagno dal proprio investimento. Si può capire se un investimento è vantaggioso in base al bilancio.
 
 ### Investitori Istituzionali
 Chi è nato negli anni 30-40 ha una grande pensione in quanto gli è riconosciuto il denaro guadagnato degli ultimi anni lavorativi. La pensione è correlata al denato guadagnato negli ultimi anni lavorativi. Il guadagno di 60-70 anni fa aveva un incremento esponenziale, ma al giorno d'oggi questo incremento è sempre più lento, risultante in pensioni sempre più basse.
-Quindi si viene invitati a creare dei fondi pensionistici, derivata da risparmi "forzati" del nostro stipendio. I fondi pensionistici vengono investiti dagli investitori istituzionari in titoli.
-Gli investitori muovono una quantità di denaro maggiore di un ordine di 1000 a quella investita da un lavoratore comune.
-Gli investitori istituzionali si gettano in massa su i titoli che pargono più vantaggiosi e si tirano via appena vedono che il valore di un titolo sta andando in calo (mordi e fuggi).
+Quindi si viene invitati a creare dei fondi pensionistici, derivati da risparmi "forzati" del nostro stipendio. I fondi pensionistici vengono investiti dagli investitori istituzionari in titoli.
+Gli investitori istituzionali si gettano in massa sui titoli che paiono più vantaggiosi e si tirano via appena vedono che il valore di un titolo sta andando in calo ("mordi e fuggi").
 Il propietario di una piccola azienda ha un interesse lungo quanto la sua vita del bilancio della sua azienda, in quanto si auspica che possa trarne guadagno fino a quando resta in vita.
-Agli investitori istituzionali interessa il piano pluriannale, sono interessati a vedere non solo il bilancio passato e presente, ma anche quello futuro, in quanto devono sapere se devono tirarsi via.
+Agli investitori istituzionali interessa il piano pluriennale, sono interessati a vedere non solo il bilancio passato e presente, ma anche quello futuro, in quanto devono sapere se devono tirarsi indietro.
 
 ### Le P.M.I.
-PMI: Piccola media impresa. Ci sono dei parametri che qualificano una piccola media impresa.
+[[PMI]]: Piccola media impresa. Ci sono dei parametri che qualificano una piccola media impresa.
 I concorsi (a premio) per denaro, creati dal ministero dello sviluppo economico possono vedere come vincitori le piccole imprese e le grandi imprese. La quantità di denaro dato a una piccola impresa deve essere diverso da quello dato a una grande impresa, dal momento che il denaro richiesto in ritorno varia. Questo perchè il ritorno di un investimento che può derivare da una grande impresa è maggiore rispetto a quello delle PMI.
 I soci delle PMI sono persone fisiche. Ad esempio il fondatore, un imprenditore e un commerciale che ha saputo vendere l'impresa. Gli investitori amministrativi sono avversi al rischio; preferiscono il rischio calcolato. L'investitore commerciale è più propenso al rischio.
 
@@ -25,8 +23,8 @@ Nelle PMI i propietari sono persone fisiche o imprese ancora più piccole. Le mu
 Il bilancio interessa alla propietà: possono essere persone fisiche o altre propietà. Alle multinazionali interessa perchè in base a questo vengono riorganizzate le strategie/dimensioni aziendali.
 
 ### I Manager
-Nelle imprese anche i manager/direttori amministrativi sono interessati al bilancio. Sono loro che gestiscono le loro imprese e le aree di cui sono composte. Nelle PMI il manager è l'operativo nel rispetto degli obiettivi dati a lui dalle propietà.
-Nelle grandi imprese le attività devono essere parcellizzate, ai referenti delle quali vegnono dati obiettivi da raggiungere. Questo viene fatto con il controllo del bilancio.
+Nelle imprese anche i [[manager]]/direttori amministrativi sono interessati al bilancio. Sono loro che gestiscono le imprese e le aree di cui sono composte. Nelle PMI il manager è l'operativo nel rispetto degli obiettivi dati a lui dalla propietà.
+Nelle grandi imprese le attività devono essere parcellizzate, ai cui dirigenti vegnono dati obiettivi da raggiungere. Questo viene fatto con il controllo del bilancio.
 Alle figure manageriali interessa l'efficacia dell'area da lui gestita (una specie di sottobilancio).
 Nell'analisi a livello di manager interessa in parte i dati di sottobilancio.
 
@@ -74,3 +72,4 @@ Gli stakeholder o i potenziali dipendenti possono anche ricercare online informa
 Un dipendente nel settore IT che ha accesso al bilancio sarà tra i primi a sapere l'andamento di un'impresa. Se vede che sta andando male, sarà tra i primi ad andarsene.
 La proprietà ha accesso a tutte le informazioni, tutti i dettagli informativi per sapere l'andamento della propria azienda.
 Nell analisi di bilancio si ha sia l'occhio dell'analsita esterno che di quello interno.
+![[Destinatari del Bilancio.svg]]

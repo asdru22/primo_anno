@@ -1,0 +1,1 @@
+Piccole Imprese e Medie Imprese (PMI) quelle che: hanno meno di 250 occupati. hanno un fatturato annuo non superiore a 50.000.000 €, oppure un totale di bilancio annuo non superiore a 43.000.000 €

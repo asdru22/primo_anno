@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Atom"
+  "cssTheme": "Atom",
+  "baseFontSize": 22,
+  "theme": "moonstone"
 }

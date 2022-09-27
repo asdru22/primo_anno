@@ -1,0 +1,1 @@
+Il conto economico è uno dei documenti che compone, insieme allo stato patrimoniale, al rendiconto finanziario e alla nota integrativa, il bilancio d'esercizio di un'impresa. Il conto economico, in particolare, evidenzia il risultato economico d'esercizio del periodo di riferimento del bilancio ("utile o perdita d'esercizio")

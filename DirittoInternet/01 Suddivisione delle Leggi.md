@@ -1,6 +1,6 @@
 ### Fonte di diritto
 Una fonte di diritto è un atto normativo o comportamento o consuetudine che produce una regola.
-Giurisdizione: Sentenza(precedente). Il sistema americano, indiano, australiano.
+Giurisdizione: Sentenza (precedente). Il sistema americano, indiano, australiano.
 Tutti i giudici che scelgono una causa simile a quella in considerazione, deve adattarsi al precedente (regola del presidente, solo nei stati di *common law*). Questa regola non c'è in italia.
 Due giudici possono decidere esiti diversi per casi analoghi.
 Un avvocato studia le sentenze precedenti dei giudici e in base alle sentenze precedenti informa i clienti dei possibili esiti.
@@ -24,7 +24,7 @@ I regolamenti sono norme direttamente applicabili per ogni individuo dell'unione
 Il regolamento europeo per la privacy afferma che ogni stato deve in modo proprio occuparsi di far rispettare le leggi.
 Trattato sulla costituzione dell'unione europea: le costituzioni dei singoli paesi seguono in linee di logica i trattati dell'unione europea.
 ### 4. Legge/ Decreti Legge (D.L) / Decreti Legislativi (D.L.G.S.)
-La legge è un atto adottato dal parlamento (adottato dal governo) su iniziativa del parlamento. 
+La legge è un atto adottato dal parlamento (proposto dal governo) su iniziativa del parlamento. 
 Il decreto legge e decreto legislativo sono prodotti dal governo (potere esecutivo), senza il "rimpallo" delle due camere. (stessa dinamica nel consiglio e parlamento europeo).
 Tutta via sono sullo stesso gradino. Nel caso 2 leggi entrino in contrasto, prevale quella più recente.
 I decreti legislativi vengono adottati dal governo in seguito a linee guida del parlamento.
@@ -32,7 +32,7 @@ Il decreto legge è emanato dal governo in momento di emergenza ed è controllat
 Passati 60 giorni dal decreto legge o viene retificato dal parlamento (convertito in legge) o decade retroattivamente (non ha più valenza, neanche nei 60 giorni prima). Nulla vieta al termine dei 60 giorni la creazione di un decreto legge identico al precedente.
 Normazione a cascata: norma rivista e perfezionata da vari organi
 ### 5. Regolamenti (D.P.C.M.)
-DPCM : decreto del presidente del consiglio dei ministri: sempre applicato ad urgenza, ma non ce lo stesso meccanismo di controllo, perchè è inferiore alla legge.
+DPCM : decreto del presidente del consiglio dei ministri: sempre applicato ad urgenza, ma non c'è lo stesso meccanismo di controllo, perchè sono a un livello inferiore alla legge.
 Per i DPCM il meccanimso di controllo (delle leggi) sono le leggi sovrastanti. Non può essere contrario alle L, DL, DLGS, altrimenti decade. Il DPCM è un atto esecutivo più veloce.
 ### 6. Leggi regionali/Regolamenti comunali/Leggi delle province autonome
 Queste vengono votate da parti diverse della popolazione.
@@ -41,17 +41,19 @@ Su determinate materie deve legiferare il governo, su altre le regioni. A volte 
 ### 7. Usi e Consuetudini
 Sono leggi non scritte ma rispettate dalla popolazione. Spesso punite con pene pubbliche (isolamento sociale, ... ).
 Consuetudine: comportamento ripetuto nel tempo che i consociati ritengono corretto. Le consuetudini variano in base al contesto storico e ai luoghi.
+![[Suddivisione delle leggi.svg]]
+
 ---
 
-Una legge posteriore deroga una legge anteriore. Se due leggi sono in contrasto su un determinato argomento, prevale il più recente.
+Una legge posteriore deroga una legge anteriore. Se due leggi sono in contrasto su un determinato argomento, prevale la più recente.
 Questo per :
 - rendere piu semplice un processo di abrogazione (cancellazione di leggi)
 - la legge più recente è quella più adatta al determinato contesto storico. Documenti diversi sono stati interpretati in modo diverso dai giudici a seconda del periodo storico.
 Il diritto cambia inanzitutto alle basi della società. La necessità di una nuova legge nasce dai bisogni della popolazione. Dopo un determinato tempo, la legge si adegua.
 
-### Illecito (comportamento scorretto)
-Sanzioni (conseguenza)
+### [[Illecito]]
+[[Sanzioni]]:
 - Civile (controversia tra due privati): danno economico tra due persone, lesione quantificabile in denaro. (lesione patrimoniale, morale). Il processo si inizia con un azione penale.
-	Ce un attore, un convenuto, l'assicuratore (terzo)
+	C'è un attore, un convenuto, l'assicuratore (terzo)
 - Penale (reato), per cui si può andare in prigione, può accompagnare lesioni civilistiche
-- Amministrativo (multa, sanzione pecunaria): es, trattemanto illecito di dati personali. 
+- Amministrativo (multa, sanzione pecunaria): es, trattemanto illecito di dati personali.  

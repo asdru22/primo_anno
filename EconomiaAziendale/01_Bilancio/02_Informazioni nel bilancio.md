@@ -1,12 +1,12 @@
-### Il risultato di esercizio
+### [[Risultato di Esercizio]]
 Differenza fra i ricavi e i costi ($\Delta es=R-C$)
-Se i ricavi sono maggiori dei costi -> l'utile di ex (esercizio).
-Se i ricavi sono minori dei costi -> perdita di ex.
+Se i ricavi sono maggiori dei costi -> l'**utile** di ex (esercizio).
+Se i ricavi sono minori dei costi -> **perdita** di ex.
 Le realtà aziendali vendono una varietà di elementi.
 
-### Cauto Economico
-Lista di ricavi e costi di un'esercizio (indelebili); aperti l'1/01 e chiusi il 31/12. Dopo non possono più essere modificati. Il cauto economico ha una valenza annuale, ma lo stato patrimoniale (bilancio crediti e debiti) ha durata pari alla vita dell'azienda. Viene tuttavia differenziato di anno in anno per ricordarsi i valori di partenza e di chiusura. è una fotografia della situazione patrimoniale in un determinato anno.
-Tu hai un credito nei confronti della banca (che ha un conto corrente attivo) dal momento che depositi denaro (stato patrimoniale attivo)
+### [[Conto Economico]]
+Lista di ricavi e costi di un'esercizio (indelebili); aperti l'1/01 e chiusi il 31/12. Dopo non possono più essere modificati. Il conto economico ha una valenza annuale, ma lo stato patrimoniale (bilancio crediti e debiti) ha durata pari alla vita dell'azienda. Viene tuttavia differenziato di anno in anno per ricordarsi i valori di partenza e di chiusura. è una fotografia della situazione patrimoniale in un determinato anno.
+Tu hai un credito nei confronti della banca (che ha un tuo conto corrente attivo) dal momento che depositi denaro (stato patrimoniale attivo)
 
 ### Ricavi
 - Per la vendita di beni (sia materiali che immateriali, ad esempio software);
@@ -20,12 +20,12 @@ Tu hai un credito nei confronti della banca (che ha un conto corrente attivo) da
 - Personale
 	- Stipendio per i dipendenti;
 	- Salario per gli operai;
-	- Oneri contributivi: INPS (pensioni) e INAIL (assicurazioni);
-	- TFR: Trattamento di Fine Rapporto (liquidato solamente quando una persona smette di lavorare in un'azienda);
-	- DPI: Dispositivi Protezione Individuale (per la salvaguardia o identificazione personale) e abbigliamento;
+	- Oneri contributivi: INPS (pensioni e prestazioni) e INAIL (assicurazioni);
+	- TFR: Trattamento di Fine Rapporto (liquidato al dipendente quando cessa il rapporto di lavoro);
+	- DPI: Dispositivi Protezione Individuale (per la sicurezza o identificazione personale) e abbigliamento;
 	- Premi produzione in base ai risultati conseguiti dall'azienda;
 	- Corsi di formazione;
-	- Vitto e alloggio nel caso di uscite lavorative;
+	- Vitto e alloggio nel caso di missioni fuori sede;
 	- Visite mediche per l'idoneità del lavoro;
 	- Omaggi
 - Consulenze 
@@ -33,13 +33,12 @@ Tu hai un credito nei confronti della banca (che ha un conto corrente attivo) da
 	- Amministrative: associazioni che sono nate per venire in aiuto alle piccole realtà aziendali e gestire la loro contabilità. Le grandi imprese non si avvarranno di queste associazioni, bensì di personale interno.
 	- Fiscali: problematiche di vendite, all'estero...;
 	- Tecniche: per realizzare specifiche strutture/macchinari funzionali all'azienda;
-	- Commerciali: per sapere al meglio il target del prodotto venduto dall'azienda;
-	- Notarili: nel caso si voglia modificare lo statuto per cambiare le modalità di organizzazione dell'azienda o variare il prodotto venduto;
-Queste spese avranno un codice che sarà poi visibile nelle liste dei costi
-- Imposte fiscali dirette (direttamente legate al andamento dell'azienda):
-	- IRES: risorse alle casse centrali (dello stato);
-	- IRAP: imposte incassate solamente dalle realtà regionali;
--  IMU: imposte pagate sulle propietà immobiliare in base alla rendita catastale. Indirettamente collegata al reddito, ma alla propietà di strutture fisse;
+	- Commerciali: per individuare al meglio il target del prodotto venduto dall'azienda;
+	- [[Consulenze Notarili|Notarili]]: nel caso si voglia modificare lo statuto per cambiare le modalità di organizzazione dell'azienda o variare il prodotto venduto;
+- Imposte fiscali dirette (direttamente legate all'andamento dell'azienda):
+	- IRES (imposta sui redditi delle società): risorse versate alle casse centrali (dello stato);
+	- IRAP (imposta regionale sulle attività produttive, introdotta dal d. legisl. 446/1997): imposte incassate solamente dalle regioni;
+-  IMU (imposta municipale propria): imposte pagate al comune sulle propietà immobiliare in base alla rendita catastale. Indirettamente collegata al reddito, dipende dalla proprietà di strutture fisse;
 - Tasse: diverse dalle imposte in quanto vengono corrisposte in funzione di un servizio pubblico ottenuto
 	- Tassa sui rifiuti in proporzione ai rifiuti prodotti;
 	- Tassa pubblicitaria in relazione al tipo di pubblicità fatta;
@@ -47,9 +46,9 @@ Queste spese avranno un codice che sarà poi visibile nelle liste dei costi
 	- Incendio;
 	- Furto;
 	- RC: responsabilità civile;
-	- Contro il rischio di mancato incasso: copre un'eventuale non incasso legato a un bene non ricevuto. Le assicurazioni coprono solo le aziende che hanno una ragionevole capacità di pagamento. Da un'primo screening se un potenziale cliente è un investimento rischioso.
-	- Contro il fermo impianti: aziende con lavorazione a ciclo continuo, se una parte si ferma, per riattivare tutto l'impianto può richiedere ore o giorni e questo può risultare in grandi perdite;
-	- Infortuni e malattie del personale: diffusione di malattie che possono bloccare un determinato reparto. Con il covid sono nate polizze apposta che ristormano le difficoltà sia dell'azienda che del singolo lavoratore;
+	- Contro il rischio di mancato incasso: copre un'eventuale mancato incasso legato a una fornitura non ricevuta. Le assicurazioni coprono solo le aziende che hanno una ragionevole capacità di pagamento. Da un'primo screening se un potenziale cliente è un investimento rischioso.
+	- Contro il fermo impianti: aziende con lavorazione a ciclo continuo, se una parte si ferma, riattivare tutto l'impianto può richiedere ore o giorni e questo può risultare in grandi perdite economiche;
+	- Infortuni e malattie del personale: diffusione di malattie che possono bloccare un determinato reparto. Con il covid sono nate polizze specifiche che fanno fronte alle difficoltà sia dell'azienda sia del singolo lavoratore;
 - Affitti (capannoni, fabbricati, ...);
 - Noleggi (gru, auto, ...) richieste solamente nel momento del bisogno;
 - Partecipazione a fiere (stand, attrezzature "[[Attrezzature minute|minute]]", [[Spese di Rapperesentanza|spese di rapperesentanza]], traduttori, buffet);
@@ -65,14 +64,11 @@ I costi e i ricavi vengono ordinati nel conto economico.
 ---
 La differenza tra costi e ricavi è il guadagno dell'esercizio.
 Si cerca un modo standardizzato per tenere la contabilità
-Piano dei conti: elenco ordinato dei conti contabili nel quale è presente una lista ordinata e sequenziale per ogni voce di costi. A ognuna di questa voce è associata un codice alfanumerico.
+**[[Piano dei conti]]**: elenco ordinato dei conti contabili nel quale è presente una lista ordinata e sequenziale per ogni voce di costi. A ognuna di questa voce è associata un codice alfanumerico.
 
 |Costi|Ricavi|
 |---|---|
-|78.35.15 (materiale)||
-|||
-|||
-|||
+|78.35.15 (materiale)|Vendita pere|
 Struttura ad albero
 - Mastro (80 ricavi)
 	- Conto (80.10 Ricavi borsette, 80.20 ricavi borsoni) 
@@ -90,7 +86,7 @@ Conto economico: CE (costi a sinistra, ricavi a destra)
 
 Le imprese necessitano di risorse dalle banche, e dal momento che queste erogano un prestito, esigono una remunerazione (interesse). Se una banca presta $1000, vuole ricevere assieme ai $1000 dati un interesse ($100).
 
-Solitamente il fornitore di un materiale viene pagato dopo 1-2 mesi, probabilmente perchè anche l'entità a cui ho dato il bene guadagna dopo 1-2 mesi. Dal momento in cui scambi il bene hai fatto il ricavo (dal momento in cui avviene il passaggio di propietà).
+Solitamente il fornitore di un materiale viene pagato dopo 1-2 mesi, probabilmente perchè anche l'entità a cui ha dato il bene guadagna dopo 1-2 mesi. Dal momento in cui scambi il bene hai fatto il ricavo (dal momento in cui avviene il passaggio di propietà).
 Con la crisi il tempo d'incasso è aumentato sempre di più. Le PMI sono forti venditori, ma hanno incassi bassi che arrivano sempre molto dopo il momento dell'guadagno: gli eventi di acquisto e di ottenimento del bene non coincidono (non è come andare a prendere il latte al supermercato).
 
 ### Stato patrimoniale
@@ -109,3 +105,6 @@ Con la crisi il tempo d'incasso è aumentato sempre di più. Le PMI sono forti v
 	- Personale;
 	- INPS, INAIL;
 	- Dare acconti quando si ordina qualcosa in persona (debito cliente): il denaro per il prodotto aquistato dall'azienda non viene dato subito, spesso possono passare mesi.
+
+![[Informazioni Bilancio.svg]]
+![[Mappa a T bilancio]]

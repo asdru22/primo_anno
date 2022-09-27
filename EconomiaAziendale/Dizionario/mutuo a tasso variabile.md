@@ -1,0 +1,1 @@
+E' un finanziamento a tasso variabile dove l'importo delle rate mensili resta invariato per tutta la durata del mutuo. A subire variazioni è la durata del rimborso in base alle oscillazioni di mercato. Le fluttuazioni dei tassi di interesse possono allungare la scadenza del mutuo.

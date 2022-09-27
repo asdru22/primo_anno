@@ -1,0 +1,2 @@
+Persona che coordina un'azienda o un suo settore avendo spesso anche mansioni di direzione e organizzazione nei confronti dell'attività di altri e potere decisionale nella conduzione dell'impresa.
+All'interno di un'azienda, il manager è il responsabile dell'attuazione delle politiche e degli obiettivi decisi dai proprietari o dal consiglio di amministrazione. Il manager lavora spesso a diretto contatto con i dipendenti e ha la responsabilità di assicurare il regolare svolgimento di tutte le attività operative.

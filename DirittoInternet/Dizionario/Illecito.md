@@ -1,0 +1,1 @@
+Illecito (o illegale), nel diritto, indica un comportamento umano contrario all'ordinamento giuridico, in quanto costituisce violazione di un dovere o di un obbligo posto da una norma giuridica (detta primaria), al quale un'altra norma (detta secondaria) ricollega una sanzione.

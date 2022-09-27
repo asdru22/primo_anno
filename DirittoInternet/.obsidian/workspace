@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8ef8b0818288bec3",
+        "id": "b690d18d62ac6246",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "01 Suddivisione delle Leggi.md",
-            "mode": "source",
+            "mode": "preview",
             "source": false
           }
         }
@@ -27,14 +27,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "832d87221a675940",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {}
-            }
-          },
-          {
             "id": "d5ac89e2b62e8f1e",
             "type": "leaf",
             "state": {
@@ -48,12 +40,21 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "9bb3f38e3d293e5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 257.5
   },
   "right": {
     "id": "376225e97223247d",
@@ -87,12 +88,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8ef8b0818288bec3",
+  "active": "b690d18d62ac6246",
   "lastOpenFiles": [
-    "MLEC/Capitolo 1.md",
-    "Untitled.md",
+    "Apputi.svg",
     "01 Suddivisione delle Leggi.md",
-    "Link.md",
-    "Lezioni 1-2.md"
+    "02_Diritto applicato ad Intenet.md",
+    "Dizionario/Illecito.md",
+    "Dizionario/Sanzioni.md",
+    "Diritto applicato ad internet.svg",
+    "Diagram.svg.md",
+    "Suddivisione delle leggi.svg",
+    "Suddivisione delle leggi.drawio.svg",
+    "Diagram.svg"
   ]
 }

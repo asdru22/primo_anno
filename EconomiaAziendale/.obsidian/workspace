@@ -4,14 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "e8c9690cbf4ab1f7",
+        "id": "81c0a98357ef326b",
         "type": "leaf",
         "state": {
-          "type": "markdown",
+          "type": "image",
           "state": {
-            "file": "01_Bilancio/01_Destinatari del Bilancio.md",
-            "mode": "source",
-            "source": false
+            "file": "01_Bilancio/Destinatari del Bilancio.svg"
           }
         }
       }
@@ -77,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Bilancio/01_Destinatari del Bilancio.md",
+                "file": "01_Bilancio/Destinatari del Bilancio.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +92,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Bilancio/01_Destinatari del Bilancio.md",
+                "file": "01_Bilancio/Destinatari del Bilancio.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +115,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Bilancio/01_Destinatari del Bilancio.md"
+                "file": "01_Bilancio/Destinatari del Bilancio.svg"
               }
             }
           }
@@ -128,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e8c9690cbf4ab1f7",
+  "active": "81c0a98357ef326b",
   "lastOpenFiles": [
-    "Dizionario/Attrezzature minute.md",
+    "01_Bilancio/Informazioni Bilancio.svg",
     "01_Bilancio/Mappa a T bilancio.md",
     "01_Bilancio/02_Informazioni nel bilancio.md",
+    "Consulenze Notarili.md",
     "01_Bilancio/01_Destinatari del Bilancio.md",
-    "Excalidraw/Drawing 2022-09-23 23.00.19.excalidraw.md",
-    "Excalidraw/Drawing 2022-09-23 22.58.46.excalidraw.md",
-    "Dizionario/Cassa di Integrazione.md",
-    "Dizionario/Validità Sfalsata.md",
-    "Dizionario/Spese di Rapperesentanza.md",
-    "Dizionario/Rating di un'azienda.md"
+    "01_Bilancio/Apputi.svg.md",
+    "01_Bilancio/Apputi.svg",
+    "01_Bilancio/Destinatari del Bilancio.svg",
+    "Piano dei conti.md",
+    "Dizionario/Attrezzature minute.md"
   ]
 }

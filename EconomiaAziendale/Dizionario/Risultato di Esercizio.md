@@ -1,0 +1,1 @@
+Numero che sintetizza l'andamento della gestione in un determinato periodo di tempo. è il [[saldo]] del [[conto economico]] che viene riportato anche nello [[stato patrimoniale]]. Può essere un utile netto, oppure una perdita netta (raramente un pareggio).

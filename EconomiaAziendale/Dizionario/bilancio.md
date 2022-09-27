@@ -1,0 +1,1 @@
+Il Bilancio d'esercizio è l'insieme dei documenti contabili che un’impresa deve redigere periodicamente, ai sensi di legge, allo scopo di perseguire il principio di verità ed accertare in modo chiaro, veritiero e corretto la propria situazione patrimoniale e finanziaria, al termine del periodo amministrativo di riferimento, nonché il risultato economico dell'esercizio stesso.

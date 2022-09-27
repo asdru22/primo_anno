@@ -1,0 +1,1 @@
+La sanzione è la conseguenza giuridica negativa che l'ordinamento riconnette a un'azione antigiuridica, qualificata come illecita.
