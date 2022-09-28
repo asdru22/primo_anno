@@ -1,16 +1,35 @@
-import java.lang.Math;
-class ciao {
+/*class ciao {
     public static void main(String[] args) {
-        int i = 110,o=0,c=0;
-        System.out.println(fun(i,o,c));
-
+        // INTRO
+        System.out.println("ciao");
+        // Area triangolo
+        int base=4;
+        int altezza=5;
+        System.out.println(base*altezza/2);
     }
-    public static int fun(int i,int o,int c){
-        if(i>0){
-            o+=i%10*Math.pow(2,c);
-            System.out.println(i+" "+o+" "+c);
-            return fun(i/10,o,c+1);
-        }
-        else return o;
+}*/
+
+/*import java.io.*;
+class ciao {
+ public static void main(String[] args)
+ throws IOException {
+ int penultimo, ultimo, contatore;
+ contatore = 0;
+ ultimo = System.in.read();
+ while (ultimo != '$') {
+ penultimo = ultimo;
+ ultimo = System.in.read();
+ if (ultimo == penultimo)
+ contatore = contatore + 1;
+ }
+ System.out.print("Numero di doppie: ");
+ System.out.println(contatore);
+ }
+}*/
+
+class ciao {
+    public static void main(String[] args) {       
+        int c = 5; // c tra 0 e 100
+       int z = c < 0 ? (c-1) : (c+1);
     }
 }

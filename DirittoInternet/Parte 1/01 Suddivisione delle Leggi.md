@@ -32,14 +32,14 @@ Il decreto legge è emanato dal governo in momento di emergenza ed è controllat
 Passati 60 giorni dal decreto legge o viene retificato dal parlamento (convertito in legge) o decade retroattivamente (non ha più valenza, neanche nei 60 giorni prima). Nulla vieta al termine dei 60 giorni la creazione di un decreto legge identico al precedente.
 Normazione a cascata: norma rivista e perfezionata da vari organi
 ### 5. Regolamenti (D.P.C.M.)
-DPCM : decreto del presidente del consiglio dei ministri: sempre applicato ad urgenza, ma non c'è lo stesso meccanismo di controllo, perchè sono a un livello inferiore alla legge.
-Per i DPCM il meccanimso di controllo (delle leggi) sono le leggi sovrastanti. Non può essere contrario alle L, DL, DLGS, altrimenti decade. Il DPCM è un atto esecutivo più veloce.
+DPCM : decreto del presidente del consiglio dei ministri: sempre applicato ad urgenza, ma non c'è lo stesso meccanismo di controllo, perché sono a un livello inferiore alla legge.
+Per i DPCM il meccanismo di controllo (delle leggi) sono le leggi sovrastanti. Non può essere contrario alle L, DL, DLGS, altrimenti decade. Il DPCM è un atto esecutivo più veloce.
 ### 6. Leggi regionali/Regolamenti comunali/Leggi delle province autonome
 Queste vengono votate da parti diverse della popolazione.
 L'articolo 5 della costituzione afferma che se ce un problema di ambito legislativo deve occuparsene chi è più vicino. Il caso varia se si sta parlando di regioni o comuni.
 Su determinate materie deve legiferare il governo, su altre le regioni. A volte entrambe.
 ### 7. Usi e Consuetudini
-Sono leggi non scritte ma rispettate dalla popolazione. Spesso punite con pene pubbliche (isolamento sociale, ... ).
+Sono leggi non scritte ma rispettate dalla popolazione. Spesso punite con pene pubbliche (isolamento sociale,... ).
 Consuetudine: comportamento ripetuto nel tempo che i consociati ritengono corretto. Le consuetudini variano in base al contesto storico e ai luoghi.
 ![[Suddivisione delle leggi.svg]]
 
@@ -49,7 +49,7 @@ Una legge posteriore deroga una legge anteriore. Se due leggi sono in contrasto 
 Questo per :
 - rendere piu semplice un processo di abrogazione (cancellazione di leggi)
 - la legge più recente è quella più adatta al determinato contesto storico. Documenti diversi sono stati interpretati in modo diverso dai giudici a seconda del periodo storico.
-Il diritto cambia inanzitutto alle basi della società. La necessità di una nuova legge nasce dai bisogni della popolazione. Dopo un determinato tempo, la legge si adegua.
+Il diritto cambia inanzitutto alle basi della società. La necessità di una nuova legge nasce dai bisogni della popolazione. Dopo un determinato tempo, la legge si adegua. (legge posteriore deroga legge anteriore)
 
 ### [[Illecito]]
 [[Sanzioni]]:
@@ -57,3 +57,4 @@ Il diritto cambia inanzitutto alle basi della società. La necessità di una nuo
 	C'è un attore, un convenuto, l'assicuratore (terzo)
 - Penale (reato), per cui si può andare in prigione, può accompagnare lesioni civilistiche
 - Amministrativo (multa, sanzione pecunaria): es, trattemanto illecito di dati personali.  
+### [[02 Diritto applicato ad Intenet|>> Diritto applicato ad internet]]

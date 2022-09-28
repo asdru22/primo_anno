@@ -1,22 +1,37 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:Dizionario",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:01_Bilancio",
+      "color": {
+        "a": 1,
+        "rgb": 7363798
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": false,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.38153846153846,
   "lineSizeMultiplier": 3.05675213675214,
   "collapse-forces": false,
-  "centerStrength": 0.423916270783848,
-  "repelStrength": 20,
-  "linkStrength": 0.418803418803419,
-  "linkDistance": 220,
-  "scale": 0.28165328146789453,
-  "close": false
+  "centerStrength": 0,
+  "repelStrength": 5.83333333333333,
+  "linkStrength": 0.204365079365079,
+  "linkDistance": 210,
+  "scale": 0.5652941363292814,
+  "close": true
 }

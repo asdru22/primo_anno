@@ -1,4 +1,5 @@
 {
   "cssTheme": "Atom",
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "baseFontSize": 20
 }

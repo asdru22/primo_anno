@@ -1,0 +1,1 @@
+Accordo di due o più parti per costituire, regolare o estinguere tra loro un [[rapporto giuridico patrimoniale]]. Questa definizione si può anche applicare online.

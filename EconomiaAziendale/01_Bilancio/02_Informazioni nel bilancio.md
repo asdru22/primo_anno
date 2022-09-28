@@ -31,7 +31,7 @@ Tu hai un credito nei confronti della banca (che ha un tuo conto corrente attivo
 - Consulenze 
 	- Legali: per definire al meglio le condizioni contrattuali (ad esempio se si sta vendendo macchinari costosi si vuole ottenere il miglior prezzo). Queste consulenze possono essere sia interne che esterne;
 	- Amministrative: associazioni che sono nate per venire in aiuto alle piccole realtà aziendali e gestire la loro contabilità. Le grandi imprese non si avvarranno di queste associazioni, bensì di personale interno.
-	- Fiscali: problematiche di vendite, all'estero...;
+	- Fiscali: problematiche di vendite, all'estero,... ;
 	- Tecniche: per realizzare specifiche strutture/macchinari funzionali all'azienda;
 	- Commerciali: per individuare al meglio il target del prodotto venduto dall'azienda;
 	- [[Consulenze Notarili|Notarili]]: nel caso si voglia modificare lo statuto per cambiare le modalità di organizzazione dell'azienda o variare il prodotto venduto;
@@ -108,3 +108,4 @@ Con la crisi il tempo d'incasso è aumentato sempre di più. Le PMI sono forti v
 
 ![[Informazioni Bilancio.svg]]
 ![[Mappa a T bilancio]]
+### [[03_Bilancio a Piani Contrapposti|>>Bilancio a piani contrapposti]]

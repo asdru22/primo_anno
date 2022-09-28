@@ -1,0 +1,1 @@
+Contratto col quale una parte assume, con gestione a proprio rischio, il compimento di un'opera o di un servizio dietro un corrispettivo in denaro.
