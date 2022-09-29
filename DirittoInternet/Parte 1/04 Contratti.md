@@ -2,6 +2,7 @@
 Perché sia valido non è necessaria la firma, e in alcuni casi neanche una dichiarazione (ad esempio le tariffe sull'autobus).
 Non serve che sia tracciabile, può essere perfezionato anche per via orale. Affinché il contratto sia valido, è necessario che i suoi termini siano conoscibili, e non conosciuti.
 Bisogna stabilire quando si conclude un contratto. Il contratto è concluso quando vi è un accordo tra i contraenti (in Italia).
+![[Contratti.svg]]
 ### Norme sui contratti online
 [[D.LGS n.70, 2003]]
 **Articolo 6**

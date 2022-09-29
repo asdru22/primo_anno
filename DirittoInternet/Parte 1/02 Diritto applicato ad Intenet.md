@@ -9,7 +9,7 @@ Fino a qualche anno fa, c'erano dubbi su quale fosse il diritto da applicare ad 
 	- Non si ha un parlamento di riferimento per legiferare
 	- Si possono creare conflitti con il diritto locale
 	- La **legge ha bisogno di un luogo**
-- Teoria della lex informatica: Le regole devono essere detta dalle possibilità del mezzo. Ad esempio uno sviluppatore software decide l'uso e le regole del proprio mezzo (il provider detta le leggi), usando limiti tecnologici. Non vale in tutto il mondo, ha bisogno di una comunità di riferimento che accetti questa legge.
+- Teoria della lex informatica: Le regole devono essere dettate dalle possibilità del mezzo. Ad esempio uno sviluppatore software decide l'uso e le regole del proprio mezzo (il provider detta le leggi), usando limiti tecnologici. Non vale in tutto il mondo, ha bisogno di una comunità di riferimento che accetti questa legge.
 	- Immediata
 	- Flessibile
 	- Uguale per tutti

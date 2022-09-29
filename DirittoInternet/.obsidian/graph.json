@@ -8,10 +8,10 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:/",
+      "query": "path:Dizionario",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 7935
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4566220706949863,
-  "close": true
+  "scale": 1.2583024633077566,
+  "close": false
 }
