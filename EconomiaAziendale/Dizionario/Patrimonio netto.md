@@ -10,6 +10,5 @@ Componenti:
 	- Patrimoniale
 - Utile (perdita)
 	L'utile prodotto da un impresa appartiene ai soci. Viene distribuito tra i soci quando l'azienda si trova in una situazione di stabilità.
-	In assemblea i soci possono votare per avere l'utile distribuito, ma se l'azienda deve sostenere altre spese può decidere di aspettare di trovarsi in una situazione migliore. I soci avranno più tardi il loro  denaro. Il denaro viene girocontato, e il ritorno di un socio aumenta.  
-
+	In assemblea i soci possono votare per avere l'utile distribuito, ma se l'azienda deve sostenere altre spese può decidere di aspettare di trovarsi in una situazione migliore. I soci avranno più tardi il loro denaro. Il denaro viene [[giroconto|girocontato]], e il ritorno di un socio aumenta.  
 Deve essere restituito ai soci quando uno di essi esce o l'azienda chiude permanentemente.

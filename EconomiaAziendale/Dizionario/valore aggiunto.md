@@ -1,0 +1,1 @@
+valore aggiunto = importo IVA riscossa sulle vendite - importo IVA pagata nell'acquisto (deduzione imposta da imposta)

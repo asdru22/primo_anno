@@ -1,0 +1,2 @@
+Compenso del lavoro che tenga conto degli oneri familiari del lavoratore e assicuri uguale tenore di vita alle famiglie i cui capi svolgano con pari rendimento lo stesso lavoro.
+Remunerare = pagare bene

@@ -4,8 +4,8 @@
   "showTags": false,
   "showAttachments": true,
   "hideUnresolved": false,
-  "showOrphans": true,
-  "collapse-color-groups": false,
+  "showOrphans": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Dizionario",
@@ -22,16 +22,16 @@
       }
     }
   ],
-  "collapse-display": false,
-  "showArrow": false,
+  "collapse-display": true,
+  "showArrow": true,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1.38153846153846,
   "lineSizeMultiplier": 3.05675213675214,
   "collapse-forces": false,
-  "centerStrength": 0,
-  "repelStrength": 5.83333333333333,
-  "linkStrength": 0.204365079365079,
-  "linkDistance": 210,
-  "scale": 0.5652941363292814,
-  "close": true
+  "centerStrength": 0.425641025641026,
+  "repelStrength": 20,
+  "linkStrength": 0.904273504273504,
+  "linkDistance": 301,
+  "scale": 0.24940368621922038,
+  "close": false
 }

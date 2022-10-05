@@ -1,0 +1,1 @@
+Operazione bancaria (detta anche bancogiro) che consiste nel trasferimento di una somma di denaro dal conto corrente intestato a un correntista, detto ordinante, al conto corrente di un altro correntista della stessa banca o di una banca diversa, detto beneficiario.

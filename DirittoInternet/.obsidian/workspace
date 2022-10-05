@@ -7,9 +7,11 @@
         "id": "be4412c8617e36e8",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Documenti/United Nations Commission on International Trade Law.pdf"
+            "file": "Parte 1/04 Contratti.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -68,7 +70,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/United Nations Commission on International Trade Law.pdf",
+                "file": "Parte 1/04 Contratti.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +90,15 @@
   },
   "active": "be4412c8617e36e8",
   "lastOpenFiles": [
-    "Documenti/Diritto applicato ad internet.svg",
+    "Dizionario/Illecito.md",
     "Documenti/Contratti.svg",
-    "Parte 1/04 Contratti.md",
-    "Parte 1/03 United Nations Commission on International Trade Law.md",
+    "Documenti/Suddivisione delle leggi.svg",
     "Documenti/D.LGS n.70, 2003.md",
-    "Dizionario/contratto.md",
-    "Documenti/Apputi.svg",
-    "Parte 1/02 Diritto applicato ad Intenet.md",
+    "Parte 1/04 Contratti.md",
+    "Untitled.md",
     "Parte 1/01 Suddivisione delle Leggi.md",
-    "Dizionario/Sanzioni.md"
+    "Parte 1/03 United Nations Commission on International Trade Law.md",
+    "Parte 1/02 Diritto applicato ad Intenet.md",
+    "Documenti/Apputi.svg"
   ]
 }

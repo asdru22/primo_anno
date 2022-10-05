@@ -1,0 +1,1 @@
+**Tasso che deve essere applicato alla base imponibile ai fini del calcolo dell'imposta**. È espresso in forma di percentuale nelle imposte ad valorem (quelle basate sul valore del bene), in termini di unità fisiche nelle imposte specifiche o accise.

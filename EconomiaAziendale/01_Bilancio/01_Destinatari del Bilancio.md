@@ -1,13 +1,13 @@
 ## Stakeholder Interni
-### I Propietari delle imprese
+### I Proprietari delle imprese
 Gli interessati sono i proprietari di un impresa. Coloro che hanno deciso di costruire l'impresa per avviare un'attività.
-Dal momento che compri un titolo azionario di un'azienda sei diventato (piccolo) propietario di un'impresa. Lo stesso vale per le carte soci. Nella vita quotidiana diventiamo propietari di un impresa. Per esempio dalla COOP viene fatto verso primavera un invito per partecipare al [[bilancio]] annuale della COOP, perche i soci, in quanto propietari, possono essere interessati a sapere il bilancio.
-Il propietario di una piccola azienda è interessato a sapere il propio bilancio.
+Dal momento che compri un titolo azionario di un'azienda sei diventato (piccolo) proprietario di un'impresa. Lo stesso vale per le carte soci. Nella vita quotidiana diventiamo proprietari di un impresa. Per esempio dalla COOP viene fatto verso primavera un invito per partecipare al [[bilancio]] annuale della COOP, perché i soci, in quanto proprietari, possono essere interessati a sapere il bilancio.
+Il proprietario di una piccola azienda è interessato a sapere il proprio bilancio.
 Lo stesso vale nel caso si compra un titolo azionario, ma nella realtà dei fatti non siamo interessati al bilancio di un azienda, ma solo se si può trarre guadagno dal proprio investimento. Si può capire se un investimento è vantaggioso in base al bilancio.
 
 ### Investitori Istituzionali
-Chi è nato negli anni 30-40 ha una grande pensione in quanto gli è riconosciuto il denaro guadagnato degli ultimi anni lavorativi. La pensione è correlata al denato guadagnato negli ultimi anni lavorativi. Il guadagno di 60-70 anni fa aveva un incremento esponenziale, ma al giorno d'oggi questo incremento è sempre più lento, risultante in pensioni sempre più basse.
-Quindi si viene invitati a creare dei fondi pensionistici, derivati da risparmi "forzati" del nostro stipendio. I fondi pensionistici vengono investiti dagli investitori istituzionari in titoli.
+Chi è nato negli anni 30-40 ha una grande pensione in quanto gli è riconosciuto il denaro guadagnato degli ultimi anni lavorativi. La pensione è correlata al denaro guadagnato negli ultimi anni lavorativi. Il guadagno di 60-70 anni fa aveva un incremento esponenziale, ma al giorno d'oggi questo incremento è sempre più lento, risultante in pensioni sempre più basse.
+Quindi si viene invitati a creare dei fondi pensionistici, derivati da risparmi "forzati" del nostro stipendio. I fondi pensionistici vengono investiti dagli investitori istituzionali in titoli.
 Gli investitori istituzionali si gettano in massa sui titoli che paiono più vantaggiosi e si tirano via appena vedono che il valore di un titolo sta andando in calo ("mordi e fuggi").
 Il proprietario di una piccola azienda ha un interesse lungo quanto la sua vita del bilancio della sua azienda, in quanto si auspica che possa trarne guadagno fino a quando resta in vita.
 Agli investitori istituzionali interessa il piano pluriennale, sono interessati a vedere non solo il bilancio passato e presente, ma anche quello futuro, in quanto devono sapere se devono tirarsi indietro.
@@ -64,10 +64,10 @@ Lo Stato può dare aiuti provenienti sia dalla comunità europea che dalla pubbl
 
 ### I Competitori
 Un competitore vuole vendere il proprio prodotto ad un determinato cliente, facendosi strada tra le altre aziende che vendono gli stessi prodotti.
-Si guarda dove sta investendo un competitore, in base a dove sta investendo si possono trarre informazioni sui competiori, sia per sgomitare con gli avversari, che per trovare modi per migliorarsi.
-Gli stakeholder interni hanno meno informazioni di quelli esterni. Possono conoscrere solamente il bilancio pubblico, informazioni succinte e standardizzate. Lo standard con il quale deve essere rappresentato il bilancio deve avere la stessa struttura, specialmente per grandi aziende che hanno piu sedi o settori.
+Si guarda dove sta investendo un competitore, in base a dove sta investendo si possono trarre informazioni sui competitori, sia per sgomitare con gli avversari, che per trovare modi per migliorarsi.
+Gli stakeholder interni hanno meno informazioni di quelli esterni. Possono conoscere solamente il bilancio pubblico, informazioni succinte e standardizzate. Lo standard con il quale deve essere rappresentato il bilancio deve avere la stessa struttura, specialmente per grandi aziende che hanno più sedi o settori.
 Ogni impresa deve comunicare presso la [[Camera di Commercio|camera di commercio]] le proprie informazioni, ed eventi storici legati alla propria impresa.
-Si può chidere una misura storica camerale alla camera del commercio prima di farso assumere da una azienda.
+Si può chiedere una misura storica camerale alla camera del commercio prima di farso assumere da una azienda.
 Gli stakeholder o i potenziali dipendenti possono anche ricercare online informazioni sui proprietari o soci.
 Un dipendente nel settore IT che ha accesso al bilancio sarà tra i primi a sapere l'andamento di un'impresa. Se vede che sta andando male, sarà tra i primi ad andarsene.
 La proprietà ha accesso a tutte le informazioni, tutti i dettagli informativi per sapere l'andamento della propria azienda.

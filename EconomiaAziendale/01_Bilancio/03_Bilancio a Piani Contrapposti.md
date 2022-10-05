@@ -12,11 +12,12 @@ Conto Economico
 |---|---|
 |Cost. 3|Ric. 4|
 |Util. 1 (utile = ricavi - costi)||
+
 Se l'azienda richiede denaro alla banca, deve pagare anche un interesse (costi).
-Serve un bilancio che descrive verosimilmente l'andamento dell'azienda. Se avviene un danno (quantità da pagare non precisa, pagamento effettivo avverrà tra qualche anno) occorre segnare il costo nel bilancio. Remunerazione del denaro dato dal socio (utile).
+Serve un bilancio che descrive verosimilmente l'andamento dell'azienda. Se avviene un danno (quantità da pagare non precisa, quantità da pagare determinata tra qualche anno da un giudice) occorre segnare il costo nel bilancio. Remunerazione del denaro dato dal socio (utile).
 **Bisogna produrre utile per darlo ai finanziatori (soci)**.
 Nella sostanza bisogna produrre utile per darlo ai finanziatori affinché non si ritirino. 
-La remunerazione del socio dipende utile totale ($\textup{= ricavi - costi + altri costi}$)
+La [[remunerazione]] del socio dipende utile totale ($\textup{= ricavi - costi + altri costi}$)
 ### Esempio 2
 Stato Patrimoniale
 
@@ -67,5 +68,7 @@ Un accantonamento è un valore stimato (costo nel conto economico). Fa nascere c
 Le imprese di grandi dimensioni (50+ dipendenti in questo contesto) sono obbligate a pagare il TFR (fondo perché non si sa quando verrà pagato) usando fondi esterni (fondo plastica).
 Questo pagamento è mensile, si crea cosi un debito nei confronti del fondo plastica.
 
-Accantonamento: debito perché non si sa il quando e/o quanto di un conto.
+Accantonamento: debito che si crea perché non si sa il quando e/o quanto di un conto.
 Ammortamento: ripartizione del costo di un bene in più esercizi.
+![[Bilancio 3 Anni.svg]]
+### [[04_IVA e Fatture|>>IVA]]

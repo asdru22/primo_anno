@@ -27,9 +27,20 @@ class ciao {
  }
 }*/
 
-class ciao {
+/*class ciao {
     public static void main(String[] args) {       
         int c = 5; // c tra 0 e 100
        int z = c < 0 ? (c-1) : (c+1);
+    }
+}*/
+
+class ciao {
+    public static void main(String[] args) {       
+        int m=2000000000;
+        int n=2000000000;
+        int r = m*n;
+        System.out.println(r);
+        r /=m;
+        System.out.println(r);
     }
 }

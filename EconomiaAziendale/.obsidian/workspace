@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b7ec6d4683dca629",
+        "id": "05a33f55e59dda80",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "01_Bilancio/03_Bilancio a Piani Contrapposti.md",
-            "mode": "source",
+            "file": "01_Bilancio/04_IVA e Fatture.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ammortamento",
+                "query": "remunerazione",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Bilancio/03_Bilancio a Piani Contrapposti.md",
+                "file": "01_Bilancio/04_IVA e Fatture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Bilancio/03_Bilancio a Piani Contrapposti.md",
+                "file": "01_Bilancio/04_IVA e Fatture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Bilancio/03_Bilancio a Piani Contrapposti.md"
+                "file": "01_Bilancio/04_IVA e Fatture.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b7ec6d4683dca629",
+  "active": "05a33f55e59dda80",
   "lastOpenFiles": [
-    "01_Bilancio/02_Informazioni nel bilancio.md",
-    "01_Bilancio/01_Destinatari del Bilancio.md",
-    "01_Bilancio/03_Bilancio a Piani Contrapposti.md",
-    "Dizionario/Immobilizzazioni.md",
-    "Dizionario/banca conto corrente.md",
-    "Dizionario/Patrimonio netto.md",
-    "Dizionario/stato patrimoniale.md",
-    "Dizionario/Conto Economico.md",
-    "Dizionario/Camera di Commercio.md",
-    "dispense ragioneria.pdf"
+    "01_Bilancio/Mappe/Bilancio 3 Anni.svg",
+    "01_Bilancio/Mappe/Registrazioni Contabili Liquidazione.svg",
+    "01_Bilancio/Mappe/Registrazioni Contabili.svg",
+    "01_Bilancio/04_IVA e Fatture.md",
+    "01_Bilancio/Mappa a T bilancio.md",
+    "01_Bilancio/Mappe/Compilazione Fattura con IVA.svg",
+    "01_Bilancio/Mappe/Destinatari del Bilancio.svg",
+    "01_Bilancio/Mappe/Informazioni Bilancio.svg",
+    "Dizionario/detrazione dell'IVA.md",
+    "Dizionario/saldo.md"
   ]
 }
