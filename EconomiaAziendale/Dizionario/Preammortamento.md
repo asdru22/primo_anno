@@ -1,0 +1,1 @@
+Il preammortamento è un accordo che precede la fase di [[ammortamento]] e consiste nel rimborsare alla banca rate di soli interessi. La differenza consiste nel fatto che nella fase di ammortamento si inizia a rimborsare il capitale oggetto del mutuo.

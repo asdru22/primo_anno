@@ -1,4 +1,4 @@
-Ammortamento:  rappresentazione del consumo di un bene con validità pluriennale. C'è un registro con i beni ammortizzabili 
+[[ammortamento]]:  rappresentazione del consumo di un bene con validità pluriennale. C'è un registro con i beni ammortizzabili 
 ### Esempio 1
 Stato Patrimoniale
 

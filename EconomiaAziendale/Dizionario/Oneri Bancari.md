@@ -1,0 +1,1 @@
+Oneri bancari: si tratta di tutti i costi legati al conto come le commissioni bancarie sulle operazioni, gli interessi, eventuali canoni delle carte di credito e di debito, spese di liquidazione periodica.

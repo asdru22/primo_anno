@@ -1,0 +1,1 @@
+La base imponibile è l'importo su cui viene applicata l'IVA e calcolato il relativo importo. Ad esempio se una sedia costa 60 euro + IVA al 22% compresa, l'IVA = 13,2 e la base imponibile è 60 - 13,2 = 46,8.

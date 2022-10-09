@@ -26,6 +26,7 @@ Consumatore: persona fisica che non agisce per scopi professionali.
 Contratti:
 - B2B: Business to business (D.LGS 70/2003)
 - B2C: Business to consumer (D.LGS 70/2003, codice del consumo). Spesso il consumatore ha meno vincoli del fornitore del servizio.
+- C2C: Consumer to Consumer (specialmente per brani musicali)
 ### Diritto di recesso (codice del consumo, **Articolo 52**)
 Il diritto di uscire dal contratto senza che ci sia una valida motivazione, valida per i consumatori europei.
 Il consumatore ha 14 giorni per recedere da un contratto a distanza o non negoziato nei locali commerciali.

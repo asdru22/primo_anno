@@ -1,7 +1,7 @@
 IVA ([[Imposta]] sul Valore Aggiunto): Imposta indiretta sul consumo, introdotta nell’ordinamento interno con d.p.r. 633/1972. Il valore aggiunto rappresenta il contributo alla formazione del prodotto (reddito) nazionale di ciascun operatore economico.
 
 ### DETERMINAZIONE DELL’IVA
-Ipotizziamo una cessione di merce di 1.000,00 euro (Imponibile), IVA ordinaria al 22% (220 eur) -> 1.220,00 totale fattura acquisto.
+Ipotizziamo una cessione di merce di 1.000,00 euro ([[imponibile]]), IVA ordinaria al 22% (220 eur) -> 1.220,00 totale fattura acquisto.
 Vendita merce: La stessa merce viene venduta a 3000 (imponibile),
 iva ordinaria al 22% (660 eur)-> 3660 totale fattura vendita.
 La base imponibile dell’IVA è il valore aggiunto prodotto da ciascun operatore meno gli investimenti effettuati. Essa è applicata con il metodo della ‘sottrazione imposta da imposta’. Il valore aggiunto è determinato per sottrazione dei compensi ai fattori della produzione; l’imposta da pagare, tuttavia, non viene determinata applicando l’[[aliquota]] alla differenza tra fatturato di vendita e fatturato di acquisto di beni intermedi (‘base da base’), bensì **sottraendo dall’imposta applicata sulle vendite quella pagata sugli acquisti** (‘imposta da imposta’). I due sistemi ‘base da base’ e ‘imposta da imposta’ hanno lo stesso valore in presenza di un’unica aliquota, ma se, come accade in tutti i Paesi europei, esistono settori cui si applica un’aliquota ridotta, il sistema ‘imposta da imposta’ consente di recuperare l’agevolazione a carico dei settori acquirenti i beni agevolati (che possono detrarre solo l’imposta minore calcolata con l’aliquota ridotta). Gravando sui consumi interni, l’IVA esenta le esportazioni, che saranno eventualmente tassate nel Paese di destinazione, e colpisce con le aliquote nazionali le importazioni. Ciò garantisce la neutralità dell’imposta sugli scambi internazionali, caratteristica che è stato il principale motivo della sua introduzione nella Comunità Europea. In Italia l’IVA si applica con 3 aliquote: una ordinaria (21%) e due ridotte (10% e 4%) sui beni ritenuti necessari. Si evita così un’eccessiva regressività dell’imposta rispetto al reddito.
@@ -23,7 +23,7 @@ L'IVA è:
 - Neutra: basata sul prezzo finale del bene e non tiene conto del numero dei passaggi.
 
 ### La Fattura 
-La fattura è un documento fiscale obbligatorio emesso da un soggetto titolare di partita IVA per comprovare l'avvenuta cessione di beni o servizi e il diritto a riscuoterne il prezzo. Se due aziende sono titolari di partita IVA, la fattura serve a provare la vendita del bene da una parte e attribuire all'altra il dovere di pagare i macchinari. Questo documento vincola entrambe le parti ad adempiere ai propri obblighi (consegnare la merce e versare il pagamento entro i limiti prestabiliti dalla fattura). L'emissione di questo documento non è sempre obbligatoria, a meno che non sia il cliente a chiederlo, a meno che non sia il cliente a chiederlo.
+La fattura è un documento fiscale obbligatorio emesso da un soggetto titolare di partita IVA per comprovare l'avvenuta cessione di beni o servizi e il diritto a riscuoterne il prezzo. Se due aziende sono titolari di partita IVA, la fattura serve a provare la vendita del bene da una parte e attribuire all'altra il dovere di pagare i macchinari. Questo documento vincola entrambe le parti ad adempiere ai propri obblighi (consegnare la merce e versare il pagamento entro i limiti prestabiliti dalla fattura). L'emissione di questo documento non è sempre obbligatoria, a meno che non sia il cliente a chiederlo.
 La fattura deve essere emessa in due esemplari:
 - L'originale che deve essere dato al cliente;
 - La copia che deve essere mantenuta dall'azienda per un periodo minimo di 10 anni
@@ -47,12 +47,12 @@ Struttura standard fattura di acquisto
 Esempio:
 ![[Compilazione Fattura con IVA.svg]]
 
-|n. reg|Dare resc|Avere desc|Dare num|Avere num|
+|n. reg|Dare descrizione|Avere descrizione|Dare num|Avere num|
 |---|---|---|---|---|
 |54|Merce acquistata|Debito v/fornitrore|1000|1220|
 ||IVA nostra||220||
 
-Il piano dei conti attribuisce un valore numerico d ogni conto contabile. Nel bilancio si vede il saldo complessivo.
+Il piano dei conti attribuisce un valore numerico a ogni conto contabile. Nel bilancio si vede il saldo complessivo.
 Segno che un impresa sta andando bene è che non ha credito IVA. Sotto i 400.000 l'IVA va dichiarata con cadenza trimestrale, altrimenti ogni mese.
 Liquidazione IVA = debito - credito (IVA).
 Il pagamento dell'IVA deve avvenire entro il 16 del mese successivo a quello di riferimento. Se è trimestrale bisogna pagare entro 45 giorni dalla fine dei 3 mesi (**ad agosto non la scadenza è il 20 non il 16**).
@@ -69,8 +69,8 @@ Imponibile di acquisto = costo, Imponibile di vendita = ricavo
 ![[Registrazioni Contabili.svg]]
 I dettagli delle somme dei conti sono nei mastrini, che possono essere visti come dei grafici a T dentro grafici a T.
 ![[Mastrini.svg]]
-Un impresa compra penne pagando 1220 (100+220 IVA). L'IVA non deve essere un costo, qualcuno (l'erario) gli deve restituire il denaro (si forma un credito). Comprare = formare credito.
-Queste penne vengono vendute a 3000+660 di IVA (pagato dal cliente finale). Questa IVA non è dall'azienda, ma è debito. Dal momento però che l'azienda è in credito di 220, deve pagare solamente 440.
+Un impresa compra penne pagando 1220 (1000+220 IVA). L'IVA non deve essere un costo, qualcuno (l'erario) gli deve restituire il denaro (si forma un credito). Comprare = generare credito.
+Queste penne vengono vendute a 3000+660 di IVA verso l'erario (pagato dal cliente finale). Questa IVA non è dell'azienda, ma è debito. Dal momento però che l'azienda è in credito di 220, deve pagare solamente 440.
 Il credito è un segnale dell'andamento di un'azienda.
 I sistemi informatici (delle PMI) consentono di rinumerare, modificare le date e riordinare le registrazioni in ordine cronologico.
 Dal momento che non possono esserci valori negativi nelle regolazioni contabili, si usa un metodo simile al $x-2=4$, dove si porta il 2 dall'altra parte.
@@ -80,9 +80,19 @@ L'IVA non è sempre detraibile, non si può sempre dedurre la totalità dell'IVA
 |100|100 (iva 50% detraibile)| credito iva|
 |---|---|---|
 |22|11|11|
-
+ 
 ![[Fattura vendita pagamento incasso.svg]]
+Differenza di pagamento tra società e singoli professionisti
+![[Fatture aziende e professionisti.svg]]
+Dal totale (stipendio lordo) vanno tolti il 20% del servizio (200) corrispondenti alla [[ritenuta d'acconto]] del fatturato, che vengono pagati all'erario dall'azienda per conto del professionista. Lo stipendio lordo sarà quindi $1268,80-200=1068,80$.
+
+### Spese aziendali per un lavoratore e stipendio (netto) dipendente
+![[Stipendi aziende lavoratore.svg]]
+Queste sono le spese per il dipendente e lo stipendio **mensili**. Il dipendente riceve $670\times 13=8710$/anno. L'impresa invece pagherà il dipendente $1.270\times(13+1)=17780/$anno. Quel mese in più è dovuto al TFR (contratto di fine lavoro). Questa differenza tra spese per il dipendente e stipendio netto è spesso causa di discussioni all'interno delle aziende.
+
+![[Pagamento dipendente.svg]]
 
 ---
 
 ![[Iva e Fatture.svg]]
+### [[05_Finanziamenti|>>Finanziamenti]]

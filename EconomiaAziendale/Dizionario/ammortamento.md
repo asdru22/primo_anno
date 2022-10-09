@@ -1,0 +1,1 @@
+L'ammortamento è un procedimento amministrativo-contabile con cui il costo di un bene viene ripartito nel corso di più esercizi. Oggetto del procedimento di ammortamento sono i cosiddetti beni a fecondità ripetuta, ovvero, che mantengono la loro utilità nel corso del tempo

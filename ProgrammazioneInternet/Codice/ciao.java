@@ -35,12 +35,11 @@ class ciao {
 }*/
 
 class ciao {
+    public ciao(String string) {
+    }
+
     public static void main(String[] args) {       
-        int m=2000000000;
-        int n=2000000000;
-        int r = m*n;
-        System.out.println(r);
-        r /=m;
-        System.out.println(r);
+        String b = args[0];
+        System.out.println("ciao" +b+".\tbbb");
     }
 }
