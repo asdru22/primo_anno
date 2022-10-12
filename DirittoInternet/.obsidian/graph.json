@@ -11,7 +11,7 @@
       "query": "path:Dizionario",
       "color": {
         "a": 1,
-        "rgb": 7935
+        "rgb": 2558719
       }
     }
   ],
@@ -25,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.2583024633077566,
+  "scale": 0.9774352731303173,
   "close": false
 }

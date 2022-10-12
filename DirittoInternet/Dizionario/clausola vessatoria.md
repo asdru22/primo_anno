@@ -1,0 +1,1 @@
+Si definiscono vessatorie le clausole che determinano uno squilibrio giuridico delle posizioni contrattuali tra le parti, vale a dire uno squilibrio  dei reciproci diritti e obblighi in misura significativa. Vessare significa indebolire, sfavorire qualcuno o qualcosa.

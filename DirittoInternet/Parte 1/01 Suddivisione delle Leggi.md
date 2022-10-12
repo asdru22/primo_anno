@@ -1,10 +1,10 @@
 ### Fonte di diritto
 Una fonte di diritto è un atto normativo o comportamento o consuetudine che produce una regola.
 Giurisdizione: Sentenza (precedente). Il sistema americano, indiano, australiano.
-Tutti i giudici che scelgono una causa simile a quella in considerazione, deve adattarsi al precedente (regola del presidente, solo nei stati di *common law*). Questa regola non c'è in italia.
+Tutti i giudici che scelgono una causa simile a quella in considerazione, deve adattarsi al precedente (regola del presidente, solo nei stati di *common law*). Questa regola non c'è in Italia.
 Due giudici possono decidere esiti diversi per casi analoghi.
 Un avvocato studia le sentenze precedenti dei giudici e in base alle sentenze precedenti informa i clienti dei possibili esiti.
-Le fonti del diritto in italia non vengono prodotte dai giudici, ma dal parlamento (potere legislativo) che retifica le leggi proposte dalle varie parti.
+Le fonti del diritto in Italia non vengono prodotte dai giudici, ma dal parlamento (potere legislativo) che rettifica le leggi proposte dalle varie parti.
 I giudici applicano le leggi.
 
 --- 
@@ -29,7 +29,7 @@ Il decreto legge e decreto legislativo sono prodotti dal governo (potere esecuti
 Tutta via sono sullo stesso gradino. Nel caso 2 leggi entrino in contrasto, prevale quella più recente.
 I decreti legislativi vengono adottati dal governo in seguito a linee guida del parlamento.
 Il decreto legge è emanato dal governo in momento di emergenza ed è controllato da esso.
-Passati 60 giorni dal decreto legge o viene retificato dal parlamento (convertito in legge) o decade retroattivamente (non ha più valenza, neanche nei 60 giorni prima). Nulla vieta al termine dei 60 giorni la creazione di un decreto legge identico al precedente.
+Passati 60 giorni dal decreto legge o viene rettificato dal parlamento (convertito in legge) o decade retroattivamente (non ha più valenza, neanche nei 60 giorni prima). Nulla vieta al termine dei 60 giorni la creazione di un decreto legge identico al precedente.
 Normazione a cascata: norma rivista e perfezionata da vari organi
 ### 5. Regolamenti (D.P.C.M.)
 DPCM : decreto del presidente del consiglio dei ministri: sempre applicato ad urgenza, ma non c'è lo stesso meccanismo di controllo, perché sono a un livello inferiore alla legge.
@@ -47,14 +47,14 @@ Consuetudine: comportamento ripetuto nel tempo che i consociati ritengono corret
 
 Una legge posteriore deroga una legge anteriore. Se due leggi sono in contrasto su un determinato argomento, prevale la più recente.
 Questo per :
-- rendere piu semplice un processo di abrogazione (cancellazione di leggi)
+- rendere più semplice un processo di abrogazione (cancellazione di leggi)
 - la legge più recente è quella più adatta al determinato contesto storico. Documenti diversi sono stati interpretati in modo diverso dai giudici a seconda del periodo storico.
-Il diritto cambia inanzitutto alle basi della società. La necessità di una nuova legge nasce dai bisogni della popolazione. Dopo un determinato tempo, la legge si adegua. (legge posteriore deroga legge anteriore)
+Il diritto cambia innanzitutto alle basi della società. La necessità di una nuova legge nasce dai bisogni della popolazione. Dopo un determinato tempo, la legge si adegua. (legge posteriore deroga legge anteriore)
 
 ### [[Illecito]]
 [[Sanzioni]]:
 - Civile (controversia tra due privati): danno economico tra due persone, lesione quantificabile in denaro. (lesione patrimoniale, morale). Il processo si inizia con un azione penale.
 	C'è un attore, un convenuto, l'assicuratore (terzo)
 - Penale (reato), per cui si può andare in prigione, può accompagnare lesioni civilistiche
-- Amministrativo (multa, sanzione pecunaria): es, trattemanto illecito di dati personali.  
+- Amministrativo (multa, sanzione pecuniaria): es, trattamento illecito di dati personali.  
 ### [[02 Diritto applicato ad Intenet|>> Diritto applicato ad internet]]

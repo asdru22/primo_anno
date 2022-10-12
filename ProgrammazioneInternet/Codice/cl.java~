@@ -1,8 +1,0 @@
-import java.awt.Rectangle;
-class cl{
-public static void main(String[] args){
-Rectangle p = new Rectangle(4,4,1,5);
-
-System.out.println(p.height);
-    }
-}

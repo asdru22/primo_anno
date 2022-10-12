@@ -43,6 +43,17 @@ class cl{public static void main(String[] args){
 		System.out.println(x);*/
 
 		/*Scanner in = new Scanner(System.in);
+		String str = in.nextLine();
+		String temp = str.trim();
+		System.out.println("Risultato: \""+str.substring(str.indexOf(temp))+"\"");*/
+
+		/*Scanner in = new Scanner(System.in);
+		String str = in.nextLine();
+		String temp = str.trim();
+		String spaces = str.substring(0,str.indexOf(temp.charAt(0)));
+		System.out.println(spaces+temp+"$");*/
+
+		/*Scanner in = new Scanner(System.in);
 		int x =in.nextInt();
 		int y =in.nextInt();
 		int out = (0<x&&x<y) ? (int)(x+Math.random()*y-x+1) : -1; 
