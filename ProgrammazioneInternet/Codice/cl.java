@@ -65,4 +65,4 @@ class cl{public static void main(String[] args){
 		int out = (0<=x&&x<y&&(x%2==1&&y%2==1)) ? ((int)((x+1)/2*Math.random()*(y-x)/2))*2 : -1; 
 		System.out.println(out);*/
 
-	}}
+	}}  

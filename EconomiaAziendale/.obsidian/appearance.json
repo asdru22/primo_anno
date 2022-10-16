@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Atom",
+  "cssTheme": "Prism",
   "baseFontSize": 22,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "accentColor": ""
 }

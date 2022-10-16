@@ -1,0 +1,115 @@
+{
+  "main": {
+    "id": "c46cd34258195206",
+    "type": "split",
+    "children": [
+      {
+        "id": "6703f5b55552aca6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1744f8e34bb94b5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parte 1/05 Estratti Codice del Consumo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7ef5ed500e2983b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "daccc092e32307c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5ac89e2b62e8f1e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "vessato",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bb3f38e3d293e5b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5
+  },
+  "right": {
+    "id": "376225e97223247d",
+    "type": "split",
+    "children": [
+      {
+        "id": "70a16bd094c2a5e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "011116d7a3a3e348",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Parte 1/05 Estratti Codice del Consumo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1744f8e34bb94b5c",
+  "lastOpenFiles": [
+    "Parte 1/04 Contratti.md",
+    "Parte 1/05 Estratti Codice del Consumo.md",
+    "Documenti/Codice del Consumo.svg",
+    "Documenti/Art 1141, comma 2.md",
+    "Parte 1/01 Suddivisione delle Leggi.md",
+    "Dizionario/rapporto giuridico patrimoniale.md",
+    "Documenti/Contratti.svg",
+    "Documenti/United Nations Commission on International Trade Law.pdf",
+    "Documenti/Suddivisione delle leggi.svg",
+    "Documenti/Diritto applicato ad internet.svg"
+  ]
+}

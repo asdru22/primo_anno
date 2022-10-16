@@ -1,6 +1,5 @@
 {
   "obsidian-prism-theme@@pt-disable-blur": true,
-  "obsidian-prism-theme@@pt-disable-custom-icons": false,
   "obsidian-prism-theme@@pt-hide-view-header": true,
   "obsidian-prism-theme@@h3-text-color-lt": "var(--h3-text-color-custom-lt)",
   "obsidian-prism-theme@@h3-text-color-custom-lt": "#3B5F63"

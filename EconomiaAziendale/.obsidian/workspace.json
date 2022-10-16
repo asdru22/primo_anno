@@ -4,14 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "be37960fa3f9a62a",
-        "type": "leaf",
-        "state": {
-          "type": "image",
-          "state": {
-            "file": "01_Bilancio/Esercitazioni/Esercitazione Piano dei conti.svg"
+        "id": "36fc05fe21a9d7e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be37960fa3f9a62a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "01_Bilancio/Esercitazioni/Esercitazione Piano dei conti.svg"
+              }
+            }
           }
-        }
+        ]
       }
     ],
     "direction": "vertical"
@@ -29,7 +35,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -125,6 +133,9 @@
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
   },
   "active": "be37960fa3f9a62a",
   "lastOpenFiles": [
