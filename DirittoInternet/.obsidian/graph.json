@@ -5,13 +5,34 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
+    {
+      "query": "path:\"Parte 1\"",
+      "color": {
+        "a": 1,
+        "rgb": 16711791
+      }
+    },
+    {
+      "query": "path:\"Parte 2\"",
+      "color": {
+        "a": 1,
+        "rgb": 12344534
+      }
+    },
     {
       "query": "path:Dizionario",
       "color": {
         "a": 1,
-        "rgb": 2558719
+        "rgb": 6184542
+      }
+    },
+    {
+      "query": "path:Documenti",
+      "color": {
+        "a": 1,
+        "rgb": 10729652
       }
     }
   ],
@@ -20,11 +41,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
+  "collapse-forces": false,
+  "centerStrength": 0.288194444444444,
+  "repelStrength": 13.3333333333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.9774352731303173,
+  "linkDistance": 288,
+  "scale": 0.28323500535876606,
   "close": false
 }

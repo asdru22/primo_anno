@@ -32,7 +32,7 @@ Sono clausole che creano uno squilibrio dei diritti e dei doveri tra le due part
 Si presumono vessatorie le seguenti clausole:
 - Il professionista non è responsabile (non deve pagare i danni) per eventuali danni o morte causati dal prodotto venduto.
 Articolo 34: In caso di [[clausola vessatoria]] a sfavore del consumatore, la clausola è nulla.
-#### Accertamento della vessatorietà delle clausole (Codice del consumo, Articolo 34)
+#### Accertamento della vessatorietà delle clausole (Articolo 34)
 Come si rende valida una clausola vessatoria?
 Comma 4: **Non sono vessatorie le clausole che sono state oggetto di una trattativa individuale** (Una clausola può non essere nulla se l'impresa può provare che è stata negoziata e concordata direttamente dal consumatore).
 Con trattativa si intende uno scambio di informazioni con le quali è stato stabilito il contratto.
@@ -55,3 +55,5 @@ L'arbitro è un giudice privato che sostituisce il giudice in un processo pubbli
 #### [[Art 1141, comma 2]]
 Una specifica approvazione di una clausola vessatoria da parte dell'utente deve avvenire con scambio di documenti con firma digitale o solamente con un qualsiasi input dell'utente su il proprio sito.
 ![[Codice del Consumo.svg]]
+#### [[01 Privacy|>>Privacy]]
+

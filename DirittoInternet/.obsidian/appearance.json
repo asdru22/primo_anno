@@ -1,6 +1,7 @@
 {
-  "cssTheme": "Prism",
+  "cssTheme": "",
   "theme": "moonstone",
   "baseFontSize": 18,
-  "accentColor": "#6be7ef"
+  "accentColor": "",
+  "textFontFamily": "Inter"
 }

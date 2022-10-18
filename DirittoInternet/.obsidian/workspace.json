@@ -8,14 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1744f8e34bb94b5c",
+            "id": "c6d56a8650e7b3d3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Parte 1/05 Estratti Codice del Consumo.md",
-                "mode": "source",
-                "source": false
+                "file": "Documenti/Codice del Consumo.svg"
               }
             }
           }
@@ -38,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "vessato",
+                "query": "14",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parte 1/05 Estratti Codice del Consumo.md",
+                "file": "Documenti/Codice del Consumo.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,17 +97,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "1744f8e34bb94b5c",
+  "active": "c6d56a8650e7b3d3",
   "lastOpenFiles": [
-    "Parte 1/04 Contratti.md",
-    "Parte 1/05 Estratti Codice del Consumo.md",
-    "Documenti/Codice del Consumo.svg",
-    "Documenti/Art 1141, comma 2.md",
+    "Documenti/Carta diritti fondamentali.pdf",
+    "Documenti/Apputi.svg",
+    "Parte 2/02 Regolamento generale sulla protezione dei dati.md",
+    "Parte 2/01 Privacy.md",
+    "Dizionario/persona giuridica.md",
     "Parte 1/01 Suddivisione delle Leggi.md",
-    "Dizionario/rapporto giuridico patrimoniale.md",
-    "Documenti/Contratti.svg",
-    "Documenti/United Nations Commission on International Trade Law.pdf",
-    "Documenti/Suddivisione delle leggi.svg",
-    "Documenti/Diritto applicato ad internet.svg"
+    "Dizionario/dato personale.md",
+    "Parte 1/05 Estratti Codice del Consumo.md",
+    "Dizionario/clausola vessatoria.md",
+    "Clausole vessatorie.md"
   ]
 }

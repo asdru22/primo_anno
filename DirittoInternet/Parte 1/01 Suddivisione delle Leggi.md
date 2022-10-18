@@ -20,7 +20,7 @@ La costituzione è la legge fondamentale dello stato italiano. Contiene articoli
 Diritto alla salute, istruzione, processo.
 ### 3. Regolamenti europei / Direttive europee
 Uno stato deve adattarsi ai regolamenti europei. Le direttive europee sono principi generali che lo stato singolo deve attuare o specificare (atto intero dettaglia la direttiva).
-I regolamenti sono norme direttamente applicabili per ogni individuo dell'unione europea, mentre le direttive sono indicazioni che devono essere elaborate in altri atti dal parlamento per poter essere emulgate (devono seguire gli stessi principi). 
+I regolamenti sono norme direttamente applicabili per ogni individuo dell'unione europea, mentre le direttive sono indicazioni che devono essere elaborate in altri atti dal parlamento per poter essere promulgate (devono seguire gli stessi principi). 
 Il regolamento europeo per la privacy afferma che ogni stato deve in modo proprio occuparsi di far rispettare le leggi.
 Trattato sulla costituzione dell'unione europea: le costituzioni dei singoli paesi seguono in linee di logica i trattati dell'unione europea.
 ### 4. Legge/ Decreti Legge (D.L) / Decreti Legislativi (D.L.G.S.)

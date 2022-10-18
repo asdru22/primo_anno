@@ -1,0 +1,4 @@
+La persona giuridica è un centro di imputazione di interessi (persone create artificialmente, che hanno un interesse proprio) condiviso spesso da più persone fisiche ma che non coincide con le persona fisiche. Ad esempio gli enti, associazioni, fondazioni, società. Sono soggetti "finti". Sono soggetti che giuridicamente possono fare qualcosa, hanno doveri giuridici, ma non esistono nella realtà come individui.
+Un'impresa può essere o può non essere una persona giuridica. Un imprenditore individuale non è una persona giuridica.
+Le persone fisiche sono invece solamente le persone "in carne ed ossa".
+Un dato personale non può riguardare le persone giuridiche.
