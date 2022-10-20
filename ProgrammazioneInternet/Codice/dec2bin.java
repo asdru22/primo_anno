@@ -1,7 +1,7 @@
 class dec2bin {  
   public static void main(String args[]) { 
-  int inp = 412;
-  int out=0;
+  int inp = 2141591;
+  long out=0;
   int bit=0;
   for(int i = 10; i>0;i--){
     inp /= 2;

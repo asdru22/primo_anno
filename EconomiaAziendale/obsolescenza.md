@@ -1,0 +1,1 @@
+Perdita di valore di un'immobilizzazione immateriale dovuta all'avanzamento tecnologico nel caso si voglia rivendere un prodotto
