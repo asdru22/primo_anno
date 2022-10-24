@@ -57,4 +57,6 @@ Il diritto cambia innanzitutto alle basi della società. La necessità di una nu
 	C'è un attore, un convenuto, l'assicuratore (terzo)
 - Penale (reato), per cui si può andare in prigione, può accompagnare lesioni civilistiche
 - Amministrativo (multa, sanzione pecuniaria): es, trattamento illecito di dati personali.  
+Capacità giuridica: capacità di un soggetto di essere soggetto di diritti e doveri (dal momento della concezione, prima della nascita).
+Capacità di agire: capacità di compiere atti giuridici (acquisita ai 18 anni). Un minore non può validamente sottoscrivere un contratto: tutti i contratti sono invalidi (vedi poi [[02 Regolamento generale sulla protezione dei dati (GDPR)|GDPR: liceità del trattamento]]).
 ### [[02 Diritto applicato ad Intenet|>> Diritto applicato ad internet]]

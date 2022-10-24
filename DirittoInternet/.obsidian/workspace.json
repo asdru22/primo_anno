@@ -11,9 +11,11 @@
             "id": "c6d56a8650e7b3d3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Documenti/Codice del Consumo.svg"
+                "file": "Parte 2/02 Regolamento generale sulla protezione dei dati (GDPR).md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Documenti/Codice del Consumo.svg",
+                "file": "Parte 2/02 Regolamento generale sulla protezione dei dati (GDPR).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,15 +101,15 @@
   },
   "active": "c6d56a8650e7b3d3",
   "lastOpenFiles": [
-    "Documenti/Carta diritti fondamentali.pdf",
-    "Documenti/Apputi.svg",
-    "Parte 2/02 Regolamento generale sulla protezione dei dati.md",
-    "Parte 2/01 Privacy.md",
-    "Dizionario/persona giuridica.md",
+    "Documenti/Art 1141, comma 2.md",
+    "Parte 2/02 Regolamento generale sulla protezione dei dati (GDPR).md",
+    "Documenti/Articolo 24 GDPR.md",
+    "Documenti/Privacy.svg",
     "Parte 1/01 Suddivisione delle Leggi.md",
-    "Dizionario/dato personale.md",
-    "Parte 1/05 Estratti Codice del Consumo.md",
-    "Dizionario/clausola vessatoria.md",
-    "Clausole vessatorie.md"
+    "Documenti/Articolo 7 GDPR.md",
+    "Documenti/GDPR.pdf",
+    "Documenti/Carta diritti fondamentali.pdf",
+    "Documenti/Codice del Consumo.svg",
+    "Documenti/Apputi.svg"
   ]
 }

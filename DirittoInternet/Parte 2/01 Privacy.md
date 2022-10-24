@@ -8,4 +8,4 @@ La fonte normativa fondamentale, a livello gerarchico più alto è la carta di N
 1. *Ogni persona ha diritto alla protezione dei dati di carattere personale che la riguardano.
 2. *Tali dati devono essere trattati secondo il principio di lealtà, per finalità determinate e in base al consenso della persona interessata o a un altro fondamento legittimo previsto dalla legge. Ogni persona ha il diritto di accedere ai dati raccolti che la riguardano e di ottenerne la rettifica.
 3. *Il rispetto di tali regole è soggetto al controllo di un'autorità indipendente.*
-#### [[02 Regolamento generale sulla protezione dei dati|>>Regolamento generale sulla protezione dei dati]]
+#### [[02 Regolamento generale sulla protezione dei dati (GDPR)|>>Regolamento generale sulla protezione dei dati]]

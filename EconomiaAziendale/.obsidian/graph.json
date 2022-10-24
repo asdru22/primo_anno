@@ -5,20 +5,27 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "path:Dizionario",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 4802942
       }
     },
     {
       "query": "path:01_Bilancio",
       "color": {
         "a": 1,
-        "rgb": 7363798
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:01_Bilancio/Mappe",
+      "color": {
+        "a": 1,
+        "rgb": 6631264
       }
     }
   ],
@@ -32,6 +39,6 @@
   "repelStrength": 20,
   "linkStrength": 0.904273504273504,
   "linkDistance": 301,
-  "scale": 0.147350211750439,
+  "scale": 0.5346977137033874,
   "close": false
 }
