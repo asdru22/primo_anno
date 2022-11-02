@@ -13,4 +13,4 @@ Ci sono 4 tipi di rimanente:
 - FIFO: Si assume che le quantità acquistate o prodotte in epoca più remota siano le prime ad essere vendute od utilizzate in produzione; per cui restano in magazzino le quantità relative agli acquisti o alle produzioni più recenti;
 - Costo Medio Ponderato: Le quantità acquistate o prodotte non sono più individualmente identificabili e fanno parte di un insieme in cui i beni sono ugualmente disponibili. Il costo di ciascun bene in rimanenza è pari alla ==media ponderata== del costo degli analoghi beni acquistati e prodotti durante l’esercizio.
 ![[Esercizio Piano Pluriennale.svg]]
-#### [[06_Scritture di Assestamento|>>Scritture di assestamento]]
+#### [[07_Scritture di Assestamento |>>Scritture di assestamento]]

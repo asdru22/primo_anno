@@ -4,18 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "62447a142c6b54d1",
+        "id": "ca727ba87a228b5f",
         "type": "tabs",
         "children": [
           {
-            "id": "6ba6b469913b879b",
+            "id": "2c3e987f47d00233",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "01_Bilancio/06_Spese Pluriennali.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cb8e9f52cbf59bbe",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "01_Bilancio/slide/11 - Le Registrazioni contabili - Simulazione di Esame 07 - Fatture di acquisto e vendita_Pagamenti_Incassi_Finanz._Fattura Professionista_Stipendi.pdf"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "7f10513d9fdc1dcd",
@@ -82,6 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "01_Bilancio/slide/11 - Le Registrazioni contabili - Simulazione di Esame 07 - Fatture di acquisto e vendita_Pagamenti_Incassi_Finanz._Fattura Professionista_Stipendi.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "01_Bilancio/slide/11 - Le Registrazioni contabili - Simulazione di Esame 07 - Fatture di acquisto e vendita_Pagamenti_Incassi_Finanz._Fattura Professionista_Stipendi.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +135,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "01_Bilancio/slide/11 - Le Registrazioni contabili - Simulazione di Esame 07 - Fatture di acquisto e vendita_Pagamenti_Incassi_Finanz._Fattura Professionista_Stipendi.pdf"
+              }
             }
           }
         ]
@@ -129,20 +147,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "6ba6b469913b879b",
+  "active": "cb8e9f52cbf59bbe",
   "lastOpenFiles": [
-    "01_Bilancio/slide/06 Spese Pluriennali.md",
-    "Excalidraw/Drawing 2022-10-24 11.29.52.excalidraw.md",
-    "01_Bilancio/Esercitazioni/Drawing 2022-10-24 11.29.36.excalidraw.md",
-    "01_Bilancio/Mappa a T bilancio.md",
+    "01_Bilancio/slide/10 - Le Registrazioni contabili - Simulazione di Esame 06 - Finanziamenti_Parcelle_Stipendi.pdf",
+    "01_Bilancio/06_Spese Pluriennali.md",
     "01_Bilancio/05_Finanziamenti.md",
-    "06_Scritture di Assestamento.md",
-    "01_Bilancio/Mappe/Fattura vendita pagamento incasso.svg",
-    "01_Bilancio/Mappe/Informazioni Bilancio.svg",
-    "Dizionario/Valore Netto Contabile.md",
-    "Dizionario/obsolescenza.md"
+    "01_Bilancio/04_IVA e Fatture.md",
+    "01_Bilancio/03_Bilancio a Piani Contrapposti.md",
+    "01_Bilancio/02_Informazioni nel bilancio.md",
+    "01_Bilancio/slide/09 - Le Registrazioni contabili - Simulazione di Esame 05 - Finanziamenti_Parcelle_Stipendi.pdf",
+    "01_Bilancio/slide/08 - Le Registrazioni contabili - Simulazione di Esame 04 - Fatture di acquisto e vendita_Liquidazione e pagamento IVA.pdf",
+    "01_Bilancio/slide/06 - Le Registrazioni contabili - Simulazione di Esame 02 - Fatture di acquisto_Fatture di vendita_Pagamenti_Incassi.pdf",
+    "01_Bilancio/slide/04 - Le Registrazioni contabili - Materiale didattico - Esempi di scritture.pdf"
   ]
 }

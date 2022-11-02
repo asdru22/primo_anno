@@ -37,8 +37,20 @@ Consente la libera circolazione dei dati, ma allo stesso tempo la riservatezza e
 -  Il DPO (data protection officer) fa da ponte tra i titolari e il Garante, se il titolare non si adegua alle misure indicate dal responsabile. Il responsabile è tenuto a denunciarlo al Garante. Serve al titolare per fare richieste al Garante su come comportarsi di fronte a determinate fattispecie. Spesso il garante pubblica risposte a domande rivolte al responsabile per conto di più aziende. 
 
 ![[Privacy.svg]]
-#### Designazione del responsabile della protezione dei dati, articolo 37
-#### Compiti del responsabile della protezione dei dati (DPO), articolo 39
+#### Designazione del responsabile della protezione dei dati (DPO), articolo 37
+Data protection officer: Il titolare del trattamento e il responsabile del trattamento designano sistematicamente un responsabile della protezione dei dati ogniqualvolta:
+1. il trattamento è effettuato da un'autorità pubblica o da un organismo pubblico, eccettuate le autorità giurisdizionali quando esercitano le loro funzioni giurisdizionali;
+2. le attività principali del titolare del trattamento o del responsabile del trattamento consistono in ==trattamenti che, per loro natura, ambito di applicazione e/o finalità, richiedono il monitoraggio regolare e sistematico degli interessati su larga scala==; oppure
+3. le attività principali del titolare del trattamento o del responsabile del trattamento consistono nel trattamento, su larga scala, di categorie particolari di dati personali di cui all'articolo 9 o di dati relativi a condanne penali e a reati di cui all'articolo 10.
+#### Compiti del DPO, articolo 39
+Il responsabile della protezione dei dati è incaricato almeno dei seguenti compiti:
+1. ==informare e fornire consulenza al titolare del trattamento o al responsabile del trattamento== nonché ai dipendenti che eseguono il trattamento in merito agli obblighi derivanti dal presente regolamento nonché da altre disposizioni dell'Unione o degli Stati membri relative alla protezione dei dati;
+2. sorvegliare l'osservanza del presente regolamento, di altre disposizioni dell'Unione o degli Stati membri relative alla protezione dei dati nonché delle politiche del titolare del trattamento o del responsabile del trattamento in materia di protezione dei dati personali, compresi l'attribuzione delle responsabilità, la sensibilizzazione e la formazione del personale che partecipa ai trattamenti e alle connesse attività di controllo;
+3. ==fornire, se richiesto, un parere in merito alla valutazione d'impatto sulla protezione dei dati e sorvegliarne lo svolgimento ai sensi dell'articolo 35==;
+4. cooperare con l'autorità di controllo;
+5. fungere da ==punto di contatto per l'autorità di controllo per questioni connesse al trattamento==, tra cui la consultazione preventiva di cui all'articolo 36, ed effettuare, se del caso, consultazioni relativamente a qualunque altra questione.
+
+---
 Come capire se un trattamento di dati è illecito o meno (quando e come deve essere fatto):
 - Come è stato fatto il trattamento
 - Su quale base giuridica
@@ -61,7 +73,7 @@ Il trattamento è lecito solo se ricorre almeno una delle seguenti condizioni:
 3. il trattamento è necessario per ==adempiere un obbligo legale al quale è soggetto il titolare del trattamento==;
 4. il trattamento è ==necessario per la salvaguardia degli interessi vitali dell'interessato== o di un'altra persona fisica;
 5. il trattamento è ==necessario per l'esecuzione di un compito di interesse pubblico o connesso all'esercizio di pubblici poteri di cui è investito il titolare== del trattamento;
-6. il trattamento è ==necessario per il perseguimento del legittimo interesse del titolare del trattamento o di terzi==, a condizione che non prevalgano gli interessi o i diritti e le libertà fondamentali dell'interessato che richiedono la protezione dei dati personali, in particolare se l'interessato è un minore
+6. il trattamento è ==necessario per il perseguimento del legittimo interesse del titolare del trattamento o di terzi==, a condizione che non prevalgano gli interessi o i diritti e le libertà fondamentali dell'interessato che richiedono la protezione dei dati personali, in particolare se l'interessato è un minore (**accountability**)
 
 Cos'è un trattamento? Sto prestando un contratto? Se io presto il consenso, dopo sono impegnato a consentire il trattamento dei miei dati personali? Ci si può sempre tirare indietro, quindi non è un vero e proprio contratto, bensì un autorizzazione (consenso autorizzativo).
 #### Consenso prestato dai minori, articolo 8
@@ -69,3 +81,26 @@ Cos'è un trattamento? Sto prestando un contratto? Se io presto il consenso, dop
 2. ==Il titolare== del trattamento ==si adopera in ogni modo ragionevole per verificare in tali casi che il consenso sia prestato== o autorizzato ==dal titolare della responsabilità genitoriale== sul minore, in considerazione delle tecnologie disponibili.
 3. Il paragrafo 1 non pregiudica le disposizioni generali del diritto dei contratti degli Stati membri, quali le norme sulla validità, la formazione o l'efficacia di un contratto rispetto a un minore.
 L'età per consentire il trattamento dei dati personali è diverso dal età necessaria per stabilire un contratto. Per concludere un contratto occorre la capacità di agire, che si acquisisce a 18 anni. Il contratto è invalido anche se viene usato un account che ha una data registrata maggiore ai 18 anni.
+#### Trattamento di categorie particolari di dati, articolo 9
+Dati considerati rischiosi, che se pubblicati mettono a rischio di discriminazione l'interessato. Le basi giuridiche per il trattamento di questi dati sono diverse da quelle degli altri, sono più limitate rispetto ai dati normali (il trattamento è consentito in meno casi).
+- è vietato trattare dati che rivelano l'origine razziale, etnia, orientamento religioso, ad eccezione che
+	- L'interessato abbia prestato il proprio consenso
+Non c'è il principio dell'accountability
+#### Informazioni da fornire qualora i dati personali siano raccolti presso l'interessato, articolo 13
+L'informativa **deve** contenere
+- Identità e contatti del titolare
+- Dati di contatto responsabile protezione dati (DPO)
+- Le finalità del trattamento cui sono destinati i dati personali e la base giuridica del trattamento
+- Se il trattamento si basa sull'articolo 6, paragrafo 1, lettera f ==anche gli interessi perseguiti dal titolare o terzi==
+- Destinatari o categorie di destinatari
+- eventuale intenzione di trasferire dati ad un paese terzo
+#### Diritti dell'interessato, articolo 15 e seguenti
+- Diritto di accesso (collegato al diritto di avere una copia): possibilità di avere l'accesso ai propri dati personali, richiedere alla piattaforma i dati raccolti.
+- Diritto di ottenere la rettifica (art 16): pretendere dal titolare che vengano corretti eventuali dati sbagliati;
+- Diritto alla cancellazione (art 17):
+- Diritto all'oblio
+- Diritto alla limitazione del trattamento dei dati (art.18): pretendere che una minor quantità di dati sia raccolta
+- Diritto alla portabilità dei dati (art.20): diritto che un soggetto ha di ottenere i propri dati collezionati e che questi dati vengano trasferiti da un'azienda ad un' altra. Il titolare "primo" non può chiedere denaro o altro per il trasferimento di dati ad un altro titolare.
+- Diritto di opposizione al trattamento dei dati (art.21): l'interessato ha il diritto di opporsi in qualsiasi momento al trattamento dei dati personali che lo riguardano ai sensi dell'articolo 6, paragrafo 1.
+
+![[Trattamento dei dati.svg]]

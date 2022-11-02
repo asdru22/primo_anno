@@ -13,3 +13,4 @@ Totale dovuto$=\frac{costo\times interessi\times mesi}{100\times base}=\frac{100
 
 ![[Registrazione contabile interessi.svg]]
 [[Preammortamento]]: pago solo gli interessi e non inizio a restituire la rata.
+#### [[06_Spese Pluriennali|>>Spese Pluriennali]]
