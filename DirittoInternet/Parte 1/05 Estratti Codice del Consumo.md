@@ -48,10 +48,10 @@ a) escludere o limitare la responsabilità del professionista in caso di morte o
 b) escludere o limitare le azioni del consumatore nei confronti del professionista o di un’altra parte in caso di inadempimento totale o parziale o di adempimento inesatto da parte del professionista;
 c) prevedere l’adesione del consumatore come estesa a clausole che non ha avuto, di fatto, la possibilità di conoscere prima della conclusione del contratto.
 #### Caso B2B
-**Regolamento Roma 3**: Le parti scelgono il foro di competenza e le leggi applicabili via contratti. Spesso vengono assunti avvocati che ricercano la legge più conveniente per l'azienda. Il contratto viene offerto dal servizio "vetrina" (quello che offre il servizio) assieme alla proposta di legge da usare. Se invece due imprese non si trovano in accordo sulle leggi da applicare si cerca di negoziare.
-La possibilità di recedere è specificata nel contratto, assieme alla legge applicabile.
+**Regolamento Roma 3**: ==Le parti scelgono il foro di competenza e le leggi applicabili via contratti==. Spesso vengono assunti avvocati che ricercano la legge più conveniente per l'azienda. Il contratto viene offerto dal servizio "vetrina" (quello che offre il servizio) assieme alla proposta di legge da usare. Se invece due imprese ==non si trovano in accordo sulle leggi da applicare si cerca di negoziare.
+La possibilità di recedere è specificata nel contratto, assieme alla legge applicabile==.
 "Prestazione caratteristica dedotta a contratto": Si riferisce all'impresa che offre il servizio (quella che più fortemente caratterizza il contratto). Si applicherà la legge della sede dell'impresa che ha la prestazione caratteristica.
-L'arbitro è un giudice privato che sostituisce il giudice in un processo pubblico. Il collegio arbitrario deve essere costituito da un numero dispari di arbitri.
+==L'arbitro è un giudice privato che sostituisce il giudice in un processo pubblico. Il collegio arbitrario deve essere costituito da un numero dispari di arbitri==.
 #### [[Art 1141, comma 2]]
 Una specifica approvazione di una clausola vessatoria da parte dell'utente deve avvenire con scambio di documenti con firma digitale o solamente con un qualsiasi input dell'utente su il proprio sito.
 ![[Codice del Consumo.svg]]

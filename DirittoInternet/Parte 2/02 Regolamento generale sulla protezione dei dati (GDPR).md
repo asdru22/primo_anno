@@ -49,8 +49,7 @@ Il responsabile della protezione dei dati è incaricato almeno dei seguenti comp
 3. ==fornire, se richiesto, un parere in merito alla valutazione d'impatto sulla protezione dei dati e sorvegliarne lo svolgimento ai sensi dell'articolo 35==;
 4. cooperare con l'autorità di controllo;
 5. fungere da ==punto di contatto per l'autorità di controllo per questioni connesse al trattamento==, tra cui la consultazione preventiva di cui all'articolo 36, ed effettuare, se del caso, consultazioni relativamente a qualunque altra questione.
-
----
+![[Trattamento dei dati.svg]]
 Come capire se un trattamento di dati è illecito o meno (quando e come deve essere fatto):
 - Come è stato fatto il trattamento
 - Su quale base giuridica
@@ -81,6 +80,8 @@ Cos'è un trattamento? Sto prestando un contratto? Se io presto il consenso, dop
 2. ==Il titolare== del trattamento ==si adopera in ogni modo ragionevole per verificare in tali casi che il consenso sia prestato== o autorizzato ==dal titolare della responsabilità genitoriale== sul minore, in considerazione delle tecnologie disponibili.
 3. Il paragrafo 1 non pregiudica le disposizioni generali del diritto dei contratti degli Stati membri, quali le norme sulla validità, la formazione o l'efficacia di un contratto rispetto a un minore.
 L'età per consentire il trattamento dei dati personali è diverso dal età necessaria per stabilire un contratto. Per concludere un contratto occorre la capacità di agire, che si acquisisce a 18 anni. Il contratto è invalido anche se viene usato un account che ha una data registrata maggiore ai 18 anni.
+
+![[Trattamento dei dati.svg]]
 #### Trattamento di categorie particolari di dati, articolo 9
 Dati considerati rischiosi, che se pubblicati mettono a rischio di discriminazione l'interessato. Le basi giuridiche per il trattamento di questi dati sono diverse da quelle degli altri, sono più limitate rispetto ai dati normali (il trattamento è consentito in meno casi).
 - è vietato trattare dati che rivelano l'origine razziale, etnia, orientamento religioso, ad eccezione che
@@ -96,11 +97,22 @@ L'informativa **deve** contenere
 - eventuale intenzione di trasferire dati ad un paese terzo
 #### Diritti dell'interessato, articolo 15 e seguenti
 - Diritto di accesso (collegato al diritto di avere una copia): possibilità di avere l'accesso ai propri dati personali, richiedere alla piattaforma i dati raccolti.
-- Diritto di ottenere la rettifica (art 16): pretendere dal titolare che vengano corretti eventuali dati sbagliati;
-- Diritto alla cancellazione (art 17):
-- Diritto all'oblio
-- Diritto alla limitazione del trattamento dei dati (art.18): pretendere che una minor quantità di dati sia raccolta
+- Diritto di ottenere la rettifica (art 16): pretendere dal titolare che ==vengano corretti eventuali dati sbagliati==;
+- Diritto alla ==cancellazione  e all'oblio== (art 17)
+- Diritto alla ==limitazione del trattamento dei dati== (art.18): pretendere che una minor quantità di dati sia raccolta
 - Diritto alla portabilità dei dati (art.20): diritto che un soggetto ha di ottenere i propri dati collezionati e che questi dati vengano trasferiti da un'azienda ad un' altra. Il titolare "primo" non può chiedere denaro o altro per il trasferimento di dati ad un altro titolare.
-- Diritto di opposizione al trattamento dei dati (art.21): l'interessato ha il diritto di opporsi in qualsiasi momento al trattamento dei dati personali che lo riguardano ai sensi dell'articolo 6, paragrafo 1.
-
-![[Trattamento dei dati.svg]]
+- Diritto di ==opposizione al trattamento dei dati== (art.21): l'interessato ha il diritto di opporsi in qualsiasi momento al trattamento dei dati personali che lo riguardano ai sensi dell'articolo 6, paragrafo 1.
+#### Diritto all'oblio, articolo 17
+Diritto alla cancellazione di dati qualora non siano più necessari.
+Se una notizia è vera, pubblica e attuale, ha il diritto di persistere all'interno di una testata giornalistica e non può essere cancellata, al massimo può essere aggiunto un link alla rettificazione/aggiornamento di quella notizia.
+Diritto di cronaca: consente la pubblicazione che riguarda una particolare persona
+Rievocazione storica di una notizia: a meno che sia ancora di interesse pubblico si può fare omettendo i dati personali del diretto interessato alla notizia: questo non danneggia gli interessi di una notizia particolare. La cassazione stabilisce se i dati di un individuo devono essere eliminati oppure no.
+I danni possono essere di tipo patrimoniale e non. Nel tipo di illeciti reputazionali, diffusioni di immagini senza consenso questi sono di tipologia non economica, ma vengono quantificati economicamente. Questi danni vengono valutati economicamente su base di decisione del giudice (danno morale). A volte si può ricorrere al [[pignoramento]].
+Il danno psicologico va distinto da quello patrimoniale. Il danno psicologico varia in base alla vita dell'interessato.
+Il diritto all'oblio ha 3 accezioni:
+- diritto alla non ripubblicazione di notizie vere ma non più attuali che provocano un danno di immagine
+- diritti di non ricontestazione.
+- diritto alla cancellazione di informazioni personali.
+La responsabilità amministrativa è quella in seguito alla quale il trasgressore paga una multa, quella civile è quella dove una delle due parti deve pagare un risarcimento all'altra.
+Responsabilità civile:
+Responsabilità penale:

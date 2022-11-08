@@ -43,8 +43,6 @@ Sono leggi non scritte ma rispettate dalla popolazione. Spesso punite con pene p
 Consuetudine: comportamento ripetuto nel tempo che i consociati ritengono corretto. Le consuetudini variano in base al contesto storico e ai luoghi.
 ![[Suddivisione delle leggi.svg]]
 
----
-
 Una legge posteriore deroga una legge anteriore. Se due leggi sono in contrasto su un determinato argomento, prevale la più recente.
 Questo per :
 - rendere più semplice un processo di abrogazione (cancellazione di leggi)

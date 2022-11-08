@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c6d56a8650e7b3d3",
+            "id": "03a63c0ac7d38f35",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parte 2/02 Regolamento generale sulla protezione dei dati (GDPR).md",
+                "file": "Parte 2/01 Privacy.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parte 2/02 Regolamento generale sulla protezione dei dati (GDPR).md",
+                "file": "Parte 2/01 Privacy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,20 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "c6d56a8650e7b3d3",
+  "active": "03a63c0ac7d38f35",
   "lastOpenFiles": [
+    "Parte 1/05 Estratti Codice del Consumo.md",
     "Parte 2/01 Privacy.md",
-    "Parte 2/02 Regolamento generale sulla protezione dei dati (GDPR).md",
-    "Documenti/Art 1141, comma 2.md",
-    "Documenti/Articolo 24 GDPR.md",
-    "Documenti/Privacy.svg",
+    "Parte 1/04 Contratti.md",
+    "Parte 1/03 United Nations Commission on International Trade Law.md",
+    "Documenti/United Nations Commission on International Trade Law.pdf",
+    "Parte 1/02 Diritto applicato ad Intenet.md",
     "Parte 1/01 Suddivisione delle Leggi.md",
-    "Documenti/Articolo 7 GDPR.md",
-    "Documenti/GDPR.pdf",
-    "Documenti/Carta diritti fondamentali.pdf",
-    "Documenti/Codice del Consumo.svg"
+    "Parte 2/02 Regolamento generale sulla protezione dei dati (GDPR).md",
+    "Dizionario/pignoramento.md",
+    "e.md"
   ]
 }

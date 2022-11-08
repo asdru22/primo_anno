@@ -1,6 +1,6 @@
 import java.util.*;
 class array {public static void main(String[] args) {
-final byte es =     9;
+final byte es =     12;
 Scanner scan = new Scanner (System.in);
 
 if(es == 1){
@@ -135,5 +135,46 @@ System.out.println();
 for(int i = 0; i <a.length;i++) System.out.print(a[i]+",");
 }
 
+if(es==10){ // ricerca LINEARre
+int trova = 2,indice=-1;
+int[] a = {5,7,2,4,7,1,2,5,712,5,523,3};
+for(int i = 0; i<a.length;i++){
+    if(a[i]==trova){
+        indice = i;
+        break;
+    }
+}
+System.out.println(indice);
+}
+
+if(es==11){
+int r = 6, c = 5;
+int[][] mat = new int [r][c];
+
+int npari;
+int colonnacon2pari=0;
+for(int i = 0; i <mat[i].length;i++){
+    npari = 0 ;
+    for(int j = 0; j <mat.length;j++){
+        if(mat[j][i]%2==0) npari++;
+        if(npari==2) break;
+    }
+    if(npari>=2) colonnacon2pari++;
+}
+System.out.println(colonnacon2pari);
+}
+
+if(es==12){
+int r = 6, c = 5;
+int[][] mat = new int [r][c];
+int somma100 =  0;
+int tot = 0;
+for(int i = 0; i <mat[i].length;i++){
+    somma100 = 0;
+    for(int j = 0; j <mat.length;j++) somma100+=mat[j][i];
+    if(somma100>=100) tot++;
+}
+System.out.println(tot);
+}
 
 }}

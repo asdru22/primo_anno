@@ -1,4 +1,4 @@
- [[contratto|Contratti]]: licenze, lavoro, sportivo, vendita online, abbonamenti, [[appalto|appalti]].
+[[contratto|Contratti]]: licenze, lavoro, sportivo, vendita online, abbonamenti, [[appalto|appalti]].
 Perché sia valido non è necessaria la firma, e in alcuni casi neanche una dichiarazione (ad esempio le tariffe sull'autobus).
 Non serve che sia tracciabile, può essere perfezionato anche per via orale. Affinché il contratto sia valido, è necessario che i suoi termini siano conoscibili, e non conosciuti.
 Bisogna stabilire quando si conclude un contratto. Il contratto è concluso quando vi è un accordo tra i contraenti (in Italia).
@@ -23,4 +23,4 @@ Contratti:
 - B2B: Business to business: si applica il d.lgs 70/2003 e tutte le norme del codice civile.
 - B2C: Business to consumer (codice del consumo). Spesso il consumatore ha meno vincoli del fornitore del servizio. Il consumatore (persona fisica) agisce per scopi personali. Tutti gli altri sono business. Si applica sempre i d.lgs 70/2003 e il codice dei consumatori
 - C2C: Consumer to Consumer (specialmente per brani musicali o siti tipo Ebay). Simili ai B2B perché stanno agendo due "pari".
-####[[05 Estratti Codice del Consumo|>>Codice del Consumo]]
+#### [[05 Estratti Codice del Consumo|>>Codice del Consumo]]
