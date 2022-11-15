@@ -1,0 +1,3 @@
+È qualsiasi scritto che sia idoneo a rappresentare o raffigurare un fatto per trasmettere la conoscenza a chi lo osserva. Si tratta di un mezzo di prova formato in sede extra-processuale ed avente una consistenza reale. Funge da contenitore di informazioni.
+I documenti hanno validità giuridica diversa in base alla firma.
+La firma serve per ricondurre un testo alla volontà di colui che l'ha firmata (paternità del documento).

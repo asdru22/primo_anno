@@ -1,5 +1,5 @@
-- Diritto alla riservatezza: diritto di escludere altri dall'accesso ai dati che riguardano la mia sfera intima. Elaborato a fine Ottocento da due studiosi statunitensi;
-- Diritto alla protezione dei [[dato personale|dati personali]]: diverso da quello alla riservatezza. Rientrano nei dati personali anche le tracce di ciò che mi interessa online. Non è il diritto di escludere gli altri dal trattamento dei propri dati personali, ma di avere il controllo dei propri dati. Diritto di divulgare, modificare, sapere chi è il responsabile del trattamento, che venga data una copia, che vengano cancellati una volta non più richiesti i dati.
+- Diritto alla riservatezza: diritto di ==escludere== altri dall'accesso ai dati che riguardano la mia sfera intima. Elaborato a fine Ottocento da due studiosi statunitensi;
+- Diritto alla protezione dei [[dato personale|dati personali]]: diverso da quello alla riservatezza. Rientrano nei dati personali anche le tracce di ciò che mi interessa online. Non è il diritto di escludere gli altri dal trattamento dei propri dati personali, ma di avere il ==controllo== dei propri dati. Diritto di divulgare, modificare, sapere chi è il responsabile del trattamento, che venga data una copia, che vengano cancellati una volta non più richiesti i dati.
 La fonte normativa fondamentale, a livello gerarchico più alto è la carta di Nizza (Carta dei diritti fondamentali dell'Unione Europea): l'insieme dei diritti e principi ritenuti fondamentali dagli stati che compongono l'Unione Europea.
 ![[Carta diritti fondamentali.pdf]]
 

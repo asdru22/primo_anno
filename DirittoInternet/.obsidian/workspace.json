@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6703f5b55552aca6",
+        "id": "da0dd49f58152fdd",
         "type": "tabs",
         "children": [
           {
-            "id": "03a63c0ac7d38f35",
+            "id": "e0f85520010ee5fe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parte 2/01 Privacy.md",
+                "file": "Mappe.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "14",
+                "query": "contratto",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +62,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "376225e97223247d",
@@ -78,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parte 2/01 Privacy.md",
+                "file": "Mappe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03a63c0ac7d38f35",
+  "active": "e0f85520010ee5fe",
   "lastOpenFiles": [
-    "Parte 1/05 Estratti Codice del Consumo.md",
-    "Parte 2/01 Privacy.md",
-    "Parte 1/04 Contratti.md",
-    "Parte 1/03 United Nations Commission on International Trade Law.md",
-    "Documenti/United Nations Commission on International Trade Law.pdf",
-    "Parte 1/02 Diritto applicato ad Intenet.md",
-    "Parte 1/01 Suddivisione delle Leggi.md",
+    "Parte 2/04 Validità del documento informatico.md",
+    "Parte 2/03 Responsabilità del Provider.md",
+    "Mappe.md",
+    "Dizionario/documento.md",
     "Parte 2/02 Regolamento generale sulla protezione dei dati (GDPR).md",
-    "Dizionario/pignoramento.md",
-    "e.md"
+    "Parte 2/01 Privacy.md",
+    "Dizionario/Forma di un contratto.md",
+    "Documenti/D.LGS n.70, 2003.md",
+    "Parte 1/05 Estratti Codice del Consumo.md",
+    "Parte 1/04 Contratti.md"
   ]
 }

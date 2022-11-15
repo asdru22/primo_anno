@@ -1,7 +1,5 @@
 Direttiva 46/1995: prima direttiva che tutela il trattamento dei dati personali.  Delineava la prima struttura sulla disciplina dei dati personali in Italia, poi riformata nel 2003 (codice della privacy). Questa normativa è diventata obsoleta con l'entrata in vigore del Regolamento Europeo generale (direttamente applicabile all'interno degli stati), abroga le norme di livello inferiore o non compatibili. Gli stati membri devono poi adeguarsi al nuovo regolamento. 
-Comma 3 art. 8 Carta dei diritti fondamentali
-> *Il rispetto di tali regole è soggetto al controllo di un'autorità indipendente*. 
-
+Comma 3 art. 8 Carta dei diritti fondamentali. Il rispetto di tali regole è soggetto al controllo di un'autorità indipendente. 
 Il garante ([G.P.D.P.](https://www.garanteprivacy.it/)) vigila sul rispetto di queste norme, indipendentemente dal governo. Si vuole che il governo non si intrometta troppo nel trattamento dei dati personali. L'autorità indipendente è eletta da,
 Il garante, composto da 4 membri che rimangono in carica per 7 anni, è eletto dal parlamento in base a meriti professionali.
 La guardia di finanzia si occupa di verificare che i regolamenti vengano rispettati.
@@ -9,7 +7,7 @@ La guardia di finanzia si occupa di verificare che i regolamenti vengano rispett
 
 Nei "considerando" vengono disciplinate le nuove normative.
 #### Ambito di applicazione materiale, articolo 2
-1. *Il presente regolamento si applica al trattamento interamente o parzialmente automatizzato di dati personali e al trattamento non automatizzato di dati personali contenuti in un archivio o destinati a figurarvi.* 
+1. *Il presente regolamento si applica al trattamento interamente o parzialmente automatizzato di ==dati personali== (persone fisiche) e al trattamento non automatizzato di dati personali contenuti in un archivio o destinati a figurarvi.* 
 2. *Il presente regolamento non si applica ai trattamenti di dati personali:*
 	1. *a) effettuati per attività che non rientrano nell'ambito di applicazione del diritto dell'Unione;*
 	2. *b) effettuati dagli Stati membri nell'esercizio di attività che rientrano nell'ambito di applicazione del titolo V, capo 2, TUE;*
@@ -32,9 +30,9 @@ Consente la libera circolazione dei dati, ma allo stesso tempo la riservatezza e
 - Dato anonimo:
 - Soggetti del trattamento: 
 - Interessato: non c'è una definizione (nell'art.4) di interessato, ma è la persona ==fisica== a cui sono riferiti i dati. ==Non esiste un proprietario== dei dati. La proprietà ha per definizione la qualità di essere esclusiva; questo non avviene per i dati personali. L'interessato non è proprietario dei suoi dati dal momento che ==non può prevenire l'accesso dei suoi dati== dagli altri. L'interessato è il titolare del trattamento (chi è in carica del trattamento dei dati).
-- Titolare del trattamento: organismo che singolarmente o insieme ad altri determina le finalità e i mezzi del trattamento dei dati personali.
-- Responsabile del trattamento: persona fisica o giuridica che si occupa di trattare dati personali per conto del titolare del trattamento. Il responsabile non è ritenuto responsabile di *data breach* nel caso abbia seguito esattamente le indicazioni del titolare.
--  Il DPO (data protection officer) fa da ponte tra i titolari e il Garante, se il titolare non si adegua alle misure indicate dal responsabile. Il responsabile è tenuto a denunciarlo al Garante. Serve al titolare per fare richieste al Garante su come comportarsi di fronte a determinate fattispecie. Spesso il garante pubblica risposte a domande rivolte al responsabile per conto di più aziende. 
+- ==Titolare== del trattamento: organismo che singolarmente o insieme ad altri ==determina le finalità e i mezzi del trattamento dei dati== personali.
+- ==Responsabile== del trattamento: persona fisica o giuridica che si occupa di ==trattare dati personali per conto del titolare== del trattamento. Il responsabile non è ritenuto responsabile di *data breach* nel caso abbia seguito esattamente le indicazioni del titolare.
+-  Il ==DPO== (data protection officer) fa da ==ponte tra i titolari e il Garante==, se il titolare non si adegua alle misure indicate dal responsabile. Il responsabile è tenuto a denunciarlo al Garante. Serve al titolare per fare richieste al Garante su come comportarsi di fronte a determinate fattispecie. Spesso il garante pubblica risposte a domande rivolte al responsabile per conto di più aziende. 
 
 ![[Privacy.svg]]
 #### Designazione del responsabile della protezione dei dati (DPO), articolo 37
@@ -57,15 +55,15 @@ Questo è spiegato meglio negli articolo 5,6 e 2.
 L'articolo 5 disciplina gli articoli del trattamento (il come),
 L'articolo 6 dice quando può essere fatto un trattamento dei dati personali (condizioni di liceità).
 #### Principi del trattamento dei dati personali, articolo 5
-- Trasparenza rispetto all'interessato, con una informativa corretta;
-- Limitazione delle finalità: le finalità devono essere esplicitate in modo preciso: se la finalità cambia bisogna ricevere una nuova informativa;
-- Principio di minimizzazione dei dati: bisogna limitare i dati trattati allo stretto indispensabile rispetto alle finalità per i quali sono stati trattati;
-- Principio di esattezza: il titolare è tenuto a conservare dei dati corretti e su questo si basano poi alcuni dei diritti dell'interessato (chiedere la rettifica, diritto all'oblio: cancellare dati non più attuali, non più corretti);
-- Principio di limitazione della conservazione (collegato al principio di minimizzazione dei dati): i dati devono essere conservati solo per il periodo nel quale sono richiesti
-- Principio di integrità e riservatezza: il titolare deve conservare i dati in maniera sicura e difficilmente accessibili.
+- ==Trasparenza== rispetto all'interessato, con una informativa corretta;
+- ==Limitazione delle finalità==: le finalità devono essere esplicitate in modo preciso: se la finalità cambia bisogna ricevere una nuova informativa;
+- Principio di ==minimizzazione== dei dati: bisogna limitare i dati trattati allo stretto indispensabile rispetto alle finalità per i quali sono stati trattati;
+- Principio di ==esattezza==: il titolare è tenuto a conservare dei dati corretti e su questo si basano poi alcuni dei diritti dell'interessato (chiedere la rettifica, diritto all'oblio: cancellare dati non più attuali, non più corretti);
+- Principio di ==limitazione della conservazione== (collegato al principio di minimizzazione dei dati): i dati devono essere conservati solo per il periodo nel quale sono richiesti
+- Principio di ==integrità e riservatezza==: il titolare deve conservare i dati in maniera sicura e ==difficilmente accessibili==.
 - Principio di responsabilizzazione (accountability): sotteso a tutto il regolamento (su cui si basa tutto l'impianto del regolamento). Non è il regolamento a dire quali comportamenti bisogna adottare per evitare la responsabilità, ma è ==il titolare== che ==deve decidere come comportarsi per assicurare di assolvere gli obblighi ai quali è soggetto==. Nel caso di data breach, verifiche, il titolare deve poter dimostrare che erano state adottate tutte le misure necessarie per i fini di una determinata azienda (vedi [[Articolo 24 GDPR]]). Il titolare deve essere in grado di dimostrare di aver applicato tutte le misure di sicurezza necessarie.
 #### Condizioni di liceità del trattamento, articolo 6
-Forma di un contratto: modo in cui viene espresso un trattamento
+[[Forma di un contratto]]: modo in cui viene espresso un trattamento
 Il trattamento è lecito solo se ricorre almeno una delle seguenti condizioni:
 1. l'interessato ha espresso il ==consenso== (vedi [[Articolo 7 GDPR]]: il consenso deve essere un atto volontario senza costrizione) al trattamento dei propri dati personali per una o più specifiche finalità;
 2. il trattamento è ==necessario all'esecuzione di un contratto di cui l'interessato è parte== o all'esecuzione di misure precontrattuali adottate su richiesta dello stesso;
@@ -84,9 +82,7 @@ L'età per consentire il trattamento dei dati personali è diverso dal età nece
 ![[Trattamento dei dati.svg]]
 #### Trattamento di categorie particolari di dati, articolo 9
 Dati considerati rischiosi, che se pubblicati mettono a rischio di discriminazione l'interessato. Le basi giuridiche per il trattamento di questi dati sono diverse da quelle degli altri, sono più limitate rispetto ai dati normali (il trattamento è consentito in meno casi).
-- è vietato trattare dati che rivelano l'origine razziale, etnia, orientamento religioso, ad eccezione che
-	- L'interessato abbia prestato il proprio consenso
-Non c'è il principio dell'accountability
+- è vietato trattare dati che rivelano l'origine razziale, etnia, orientamento religioso, ad eccezione che l'interessato abbia prestato il proprio consenso. Non c'è il principio dell'accountability
 #### Informazioni da fornire qualora i dati personali siano raccolti presso l'interessato, articolo 13
 L'informativa **deve** contenere
 - Identità e contatti del titolare
@@ -103,16 +99,15 @@ L'informativa **deve** contenere
 - Diritto alla portabilità dei dati (art.20): diritto che un soggetto ha di ottenere i propri dati collezionati e che questi dati vengano trasferiti da un'azienda ad un' altra. Il titolare "primo" non può chiedere denaro o altro per il trasferimento di dati ad un altro titolare.
 - Diritto di ==opposizione al trattamento dei dati== (art.21): l'interessato ha il diritto di opporsi in qualsiasi momento al trattamento dei dati personali che lo riguardano ai sensi dell'articolo 6, paragrafo 1.
 #### Diritto all'oblio, articolo 17
-Diritto alla cancellazione di dati qualora non siano più necessari.
+Diritto alla ==cancellazione di dati qualora non siano più necessari==.
 Se una notizia è vera, pubblica e attuale, ha il diritto di persistere all'interno di una testata giornalistica e non può essere cancellata, al massimo può essere aggiunto un link alla rettificazione/aggiornamento di quella notizia.
 Diritto di cronaca: consente la pubblicazione che riguarda una particolare persona
 Rievocazione storica di una notizia: a meno che sia ancora di interesse pubblico si può fare omettendo i dati personali del diretto interessato alla notizia: questo non danneggia gli interessi di una notizia particolare. La cassazione stabilisce se i dati di un individuo devono essere eliminati oppure no.
 I danni possono essere di tipo patrimoniale e non. Nel tipo di illeciti reputazionali, diffusioni di immagini senza consenso questi sono di tipologia non economica, ma vengono quantificati economicamente. Questi danni vengono valutati economicamente su base di decisione del giudice (danno morale). A volte si può ricorrere al [[pignoramento]].
 Il danno psicologico va distinto da quello patrimoniale. Il danno psicologico varia in base alla vita dell'interessato.
 Il diritto all'oblio ha 3 accezioni:
-- diritto alla non ripubblicazione di notizie vere ma non più attuali che provocano un danno di immagine
-- diritti di non ricontestazione.
-- diritto alla cancellazione di informazioni personali.
-La responsabilità amministrativa è quella in seguito alla quale il trasgressore paga una multa, quella civile è quella dove una delle due parti deve pagare un risarcimento all'altra.
-Responsabilità civile:
-Responsabilità penale:
+- Diritto alla non ripubblicazione di notizie vere ma non più attuali che provocano un danno di immagine
+- Diritto alla contestualizzazione di una notizia passata
+- Diritto alla cancellazione di informazioni personali.
+La responsabilità amministrativa è quella in seguito alla quale il trasgressore paga una multa, quella civile è quella dove una delle due parti deve pagare un risarcimento all'altra;
+#### [[03 Responsabilità del Provider |>>Responsabilità del provider]]

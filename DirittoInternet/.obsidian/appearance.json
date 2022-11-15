@@ -3,5 +3,7 @@
   "theme": "moonstone",
   "baseFontSize": 18,
   "accentColor": "",
-  "textFontFamily": "Inter"
+  "textFontFamily": "Inter",
+  "translucency": false,
+  "nativeMenus": false
 }

@@ -1,0 +1,1 @@
+ è la modalità esteriore con cui si manifesta l'accordo delle parti
