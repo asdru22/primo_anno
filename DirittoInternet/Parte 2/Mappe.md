@@ -23,3 +23,5 @@
 
 ---
 ![[Validità del documento informatico.svg]]
+---
+![[Tutela software.svg]]

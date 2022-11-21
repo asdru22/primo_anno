@@ -1,10 +1,10 @@
 public class fibiter {
     public static void main(String[] args){
-        int n = 2;
+        long n = 752;
         System.out.println(fibonacci(n));
     }
 
-    static int fibonacci(int n)  {
+    static long fibonacci(long n)  {
         if(n == 0)
             return 0;
         else if(n == 1)

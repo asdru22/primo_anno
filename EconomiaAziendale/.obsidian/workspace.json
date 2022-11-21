@@ -4,33 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "ca727ba87a228b5f",
+        "id": "c1964210c01b9ddf",
         "type": "tabs",
         "children": [
           {
-            "id": "2c3e987f47d00233",
+            "id": "41c262ae6232ff39",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Bilancio/06_Spese Pluriennali.md",
+                "file": "01_Bilancio/07_Scritture di Assestamento.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "cb8e9f52cbf59bbe",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "01_Bilancio/slide/11 - Le Registrazioni contabili - Simulazione di Esame 07 - Fatture di acquisto e vendita_Pagamenti_Incassi_Finanz._Fattura Professionista_Stipendi.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -96,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Bilancio/slide/11 - Le Registrazioni contabili - Simulazione di Esame 07 - Fatture di acquisto e vendita_Pagamenti_Incassi_Finanz._Fattura Professionista_Stipendi.pdf",
+                "file": "01_Bilancio/07_Scritture di Assestamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Bilancio/slide/11 - Le Registrazioni contabili - Simulazione di Esame 07 - Fatture di acquisto e vendita_Pagamenti_Incassi_Finanz._Fattura Professionista_Stipendi.pdf",
+                "file": "01_Bilancio/07_Scritture di Assestamento.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Bilancio/slide/11 - Le Registrazioni contabili - Simulazione di Esame 07 - Fatture di acquisto e vendita_Pagamenti_Incassi_Finanz._Fattura Professionista_Stipendi.pdf"
+                "file": "01_Bilancio/07_Scritture di Assestamento.md"
               }
             }
           }
@@ -147,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cb8e9f52cbf59bbe",
+  "active": "41c262ae6232ff39",
   "lastOpenFiles": [
-    "01_Bilancio/06_Spese Pluriennali.md",
+    "01_Bilancio/08_Analisi di bilancio secondo.md",
+    "Excalidraw/Drawing 2022-11-19 12.17.54.excalidraw.md",
+    "01_Bilancio/Mappe/Attività circolanti.svg",
+    "Dizionario/decurtare.md",
+    "01_Bilancio/07_Scritture di Assestamento.md",
     "01_Bilancio/slide/11 - Le Registrazioni contabili - Simulazione di Esame 07 - Fatture di acquisto e vendita_Pagamenti_Incassi_Finanz._Fattura Professionista_Stipendi.pdf",
+    "01_Bilancio/06_Spese Pluriennali.md",
     "01_Bilancio/slide/10 - Le Registrazioni contabili - Simulazione di Esame 06 - Finanziamenti_Parcelle_Stipendi.pdf",
     "01_Bilancio/slide/09 - Le Registrazioni contabili - Simulazione di Esame 05 - Finanziamenti_Parcelle_Stipendi.pdf",
-    "01_Bilancio/slide/05 - Le Registrazioni contabili - Simulazione di Esame 01 - Fatture di acquisto_Fatture di vendita_Pagamenti_Incassi.pdf",
-    "01_Bilancio/slide/06 - Le Registrazioni contabili - Simulazione di Esame 02 - Fatture di acquisto_Fatture di vendita_Pagamenti_Incassi.pdf",
-    "01_Bilancio/slide/03 - Classificazione Conti contabili in SP e CE - Materiale Didattico e Esercitazioni -.pdf",
-    "01_Bilancio/slide/02 - Le Registrazioni contabili - Materiale didattico - IVA.pdf",
-    "01_Bilancio/slide/02 - Classificazione Conti contabili in SP e CE - Esercitazione.pdf",
-    "01_Bilancio/slide/01 - Piano dei Conti - Sintetico e Dettagliato.pdf"
+    "01_Bilancio/slide/05 - Le Registrazioni contabili - Simulazione di Esame 01 - Fatture di acquisto_Fatture di vendita_Pagamenti_Incassi.pdf"
   ]
 }

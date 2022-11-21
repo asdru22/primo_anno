@@ -1,0 +1,1 @@
+rendere più piccola una somma di denaro

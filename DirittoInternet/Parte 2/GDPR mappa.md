@@ -1,0 +1,1 @@
+![[GDPR_mappa.svg]]

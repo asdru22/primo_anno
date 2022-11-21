@@ -1,4 +1,3 @@
-import java.awt.*;
 import java.util.Scanner;
 
 class es2 {

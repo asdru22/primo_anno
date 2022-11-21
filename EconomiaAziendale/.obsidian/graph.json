@@ -5,7 +5,7 @@
   "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": false,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:Dizionario",
@@ -39,6 +39,6 @@
   "repelStrength": 14.7157894736842,
   "linkStrength": 0.870526315789474,
   "linkDistance": 243,
-  "scale": 0.38138675910494546,
+  "scale": 0.6742059252975466,
   "close": false
 }

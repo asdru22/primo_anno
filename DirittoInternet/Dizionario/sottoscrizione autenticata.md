@@ -1,0 +1,1 @@
+Una scrittura autenticata è una firma fatta davanti al notaio (in presenza) che attesta e certifica la firma di un individuo e la associa ad esso. La firma autenticata **non può essere disconosciuta** e ha data certa.

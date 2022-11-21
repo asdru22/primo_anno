@@ -47,7 +47,7 @@ B: totale costo produzione
 A-B: differenza valore e costi di produzione
 C: gestione finanza
 D: rettifiche
-\---
+\---  
 Risultato altre imposte
 20: risultato d'esercizio
 
@@ -66,3 +66,4 @@ III Finanziarie
 	- Partecipazioni
 	- Crediti di finanziamento
 ![[Partecipazioni.svg]]
+#### [[08_Analisi di bilancio secondo]]
