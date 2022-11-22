@@ -1,5 +1,3 @@
-import java.awt.*;
-
 class es {
     public static void main(String[] args) {       
         /*Rectangle b1 = new Rectangle(1,1,1,1);

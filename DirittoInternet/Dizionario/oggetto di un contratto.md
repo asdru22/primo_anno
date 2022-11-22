@@ -1,0 +1,1 @@
+L'oggetto di un contratto è la prestazione dedotta in contratto.

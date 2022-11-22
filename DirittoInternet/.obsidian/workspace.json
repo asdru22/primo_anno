@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "54ece0652055d944",
+        "id": "91822c73f3599021",
         "type": "tabs",
         "children": [
           {
-            "id": "928ed109cdfab7d6",
+            "id": "e502f5d1c85e8a31",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Parte 2/Mappe.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Parte 2/Mappe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "928ed109cdfab7d6",
+  "active": "e502f5d1c85e8a31",
   "lastOpenFiles": [
-    "Parte 2/03 Responsabilità del Provider.md",
-    "Parte 2/04 Validità del documento informatico.md",
-    "Parte 2/Mappe.md",
+    "Parte 2/06 Legge sul diritto d'autore.md",
+    "Dizionario/contratto.md",
+    "Dizionario/forma contrattuale.md",
+    "causa di un contratto.md",
+    "Dizionario/oggetto di un contratto.md",
     "Parte 2/05 Tutela del codice e del programmatore.md",
-    "t.md",
+    "Dizionario/software open-source.md",
     "Parte 2/GDPR mappa.md",
-    "Dizionario/sottoscrizione autenticata.md",
-    "Parte 2/02 Regolamento generale sulla protezione dei dati (GDPR).md",
-    "Parte 1/05 Estratti Codice del Consumo.md",
-    "Parte 1/04 Contratti.md"
+    "Dizionario/banca dati.md",
+    "Parte 2/03 Responsabilità del Provider.md"
   ]
 }

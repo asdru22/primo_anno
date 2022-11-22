@@ -1,1 +1,0 @@
-intervallo(235, 1004,n)

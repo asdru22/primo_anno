@@ -1,0 +1,2 @@
+dal C.C.1023/50: 
+Modo in cui vengono espresse le dichiarazioni delle parti. Non c'è una forma minima necessaria per esprimere conclusione di un contratto (forma libera: oralmente, messaggio, email). Fanno eccezione l'acquisto e la vendita di immobili (diritti reali), richiesta la forma scritta o firma elettronica qualificata o avanzata. 

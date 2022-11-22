@@ -23,5 +23,9 @@
 
 ---
 ![[Validità del documento informatico.svg]]
+
 ---
 ![[Tutela software.svg]]
+
+---
+![[Legge sul diritto d'autore.svg]]

@@ -1,0 +1,2 @@
+Il software open-source può essere usato sulle basi delle regole dettate dalle licenze open source.
+Software gratuito scaricabile da chiunque con il codice sorgente visibile. Non ci si può guadagnare e non bisogna dichiararsi autore di quell'opera. Può essere modificato da chiunque. Software open source, se modificato, deve essere ripubblicato sempre come  open source. Il diritto morale d'autore permane nel software open-source. Il diritto 

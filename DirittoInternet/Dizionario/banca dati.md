@@ -1,0 +1,1 @@
+Sistema telematico per raccolta e mantenimento di dati, con un preciso fine

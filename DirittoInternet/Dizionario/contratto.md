@@ -1,1 +1,3 @@
 Accordo di due o più parti per costituire, regolare o estinguere tra loro un [[rapporto giuridico patrimoniale]]. Questa definizione si può anche applicare online.
+Causa contrattuale: importante da capire all'interno di un contratto qual'è la causa. 
+è uno degli elementi essenziali del contratto ([[causa di un contratto|causa]], oggetto, [[forma contrattuale|forma]], accordo tra le parti: esplicito o espresso. Fondamentale capire quando si conclude un contratto: quando il proponente riceve (viene ad effettiva conoscenza) l'accettazione (quando si presume che il proponente abbia ricevuto l'accettazione).
