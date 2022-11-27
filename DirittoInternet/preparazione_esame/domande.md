@@ -87,68 +87,70 @@ La firma digitale è un tipo di firma elettronica che utilizza un sistema di cri
 - What you know: pin, password;
 - What you are: dati biometrici (impronte digitali, riconoscimento facciale);
 - what you have: autenticazione a due fattori o tessere magnetiche.
-#### 36.
-#### 37.
-#### 38.
-#### 39.
-#### 40.
-#### 41.
-#### 42.
-#### 43.
-#### 44.
-#### 45.
-#### 46.
-#### 47.
-#### 48.
-#### 49.
-#### 50.
-#### 51.
-#### 52.
-#### 53.
-#### 54.
-#### 55.
-#### 56.
-#### 57.
-#### 58.
-#### 59.
-#### 60.
-#### 61.
-#### 62.
-#### 63.
-#### 64.
-#### 65.
-#### 66.
-#### 67.
-#### 68.
-#### 69.
-#### 70.
-#### 71.
-#### 72.
-#### 73.
-#### 74.
-#### 75.
-#### 76.
-#### 77.
-#### 78.
-#### 79.
-#### 80.
-#### 81.
-#### 82.
-#### 83.
-#### 84.
-#### 85.
-#### 86.
-#### 87.
-#### 88.
-#### 89.
-#### 90.
-#### 91.
-#### 92.
-#### 93.
-#### 94.
-#### 95.
-#### 96.
-#### 97.
-#### 98.
-#### 99.
-#### 100.
+#### 36. Qual è stata la prima legge emanata in materia di privacy in Italia e qual è quella attuale? **
+#### 37. Che cos'è un dato personale?
+#### 38. Che cos'è un dato anonimo?
+#### 39. Che cos'è un dato sensibile?
+#### 40. Quali sono i dati giudiziari?
+#### 41. Cosa si intende per trattamento dei dati?
+#### 42. Come avviene la comunicazione e la diffusione dei dati personali?
+#### 43. Chi è l'interessato?
+#### 44. Chi è il titolare del trattamento? È possibile che ce ne sia più di uno per lo stesso trattamento? *
+#### 45. Chi è il responsabile?
+#### 46. Chi è l'incaricato?
+#### 47. Quali sono i princìpi che devono essere rispettati da coloro che trattano i dati?
+#### 48. L'ente pubblico è tenuto ad informare l'interessato del trattamento? E a chiederne il consenso? E se fosse un privato?
+#### 49. Quando avviene la cessazione del trattamento?
+#### 50. In che modo le pubbliche amministrazioni possono trattare dati sensibili?
+#### 51. È lecito diffondere dati sensibili e giudiziari?
+#### 52. Come deve essere il consenso per essere ritenuto valido?
+#### 53. Quali sono gli obblighi di sicurezza?
+#### 54. Cosa comporta la mancata adozione delle misure minime di sicurezza?
+#### 55. Quando entra in causa la responsabilità civile? Cosa comporta? Come può essere evitata?
+#### 56. Qual è lo strumento che più di tutti garantisce il diritto alla protezione dei dati personali?
+#### 57. È obbligatorio fornire l'informativa all'interessato?
+#### 58. Quando e in che forma deve essere presentata l'informativa?
+#### 59. Cosa deve indicare per legge la normativa?
+#### 60. Cos'è la notificazione del trattamento? Quando e in che forma va effettuata?
+#### 61. Quali sono i principali diritti dell'interessato?
+#### 62. In che modo l'interessato può esercitare i suoi diritti?
+#### 63. Che cos'è l'outsourcing? Che problema comporta per il trattamento di dati personali?
+#### 64. Come si può ovviare a questo problema?
+#### 65. Che cos'è una rete telematica?
+#### 66. In che cosa si caratterizza la tutela cautelare?
+#### 67. Di che tipo di tutela si tratta e con quale strumento viene attuata?
+#### 68. La tutela cautelare è idonea ad evitare il verificarsi dell'evento dannoso?
+#### 69. Come può essere risarcito il danneggiato?
+#### 70. A quale condizione è ammissibile la pubblicazione della sentenza online?
+#### 71. Dove può essere esperita la tutela cautelare? 
+#### 72. Come possono essere tutelati il diritto all'immagine, il diritto al nome e il diritto d'autore?
+#### 73. Che cos'è un software dal punto di vista giuridico?
+#### 74. Che cos'è un invenzione industriale? Come viene tutelata?
+#### 75. Che cos'è un opera d'ingegno? Come viene tutelata?
+#### 76. Che differenze ci sono tra brevetto e diritto d'autore?
+#### 77. Con cosa si è deciso di tutelare il software?
+#### 78. Quali sono le forme di tutela del software principali e non?
+#### 79. Il software è brevettabile?
+#### 80. In che cosa consiste la tutela del firmware? Quanto dura?
+#### 81. In base al diritto d'autore, cosa viene tutelato?
+#### 82. Chi viene considerato autore di un software tutelabile?
+#### 83. In quali diritti si divide il diritto d'autore e quali sono le loro caratterstiche?
+#### 84. Come può essere fornita la prova che il programma sia stato sviluppato da un soggetto piuttosto che da un altro?
+#### 85. Cosa è autorizzato a fare il legittimo acquirente dei diritti di utilizzazione economica dell'opera?
+#### 86. Cosa comporta la violazione delle disposizioni sulla tutela del diritto d'autore?
+#### 87. Qual è la tutela giuridica della banca di dati?
+#### 88. Qual è la principale finalità della normativa comunitaria sui pagamenti elettronici?
+#### 89. Come può emergere una mancanza di fiducia durante la contrattazione online?
+#### 90. Chi è il consumatore?
+#### 91. Che cos'è un contratto a distanza?
+#### 92. Quando e in che modo devono essere comunicate le modalità di pagamento al consumatore?
+#### 93. A chi può rivolgersi il consumatore in caso di addebito eccessivo sulla propria carta di credito?
+#### 94. Quali sono le responsabilità che si possono additare all'emittente?
+#### 95. È vero che l'emittente è obbligato a fornire una lista dei movimenti al titolare?
+#### 96. Cosa si intende per moneta elettronica?
+#### 97. Il pagamento con moneta elettronica estingue un debito pecuniario? 
+#### 98. Quando è da considerarsi estinta un'obbligazione se il pagamento è avvenuto tramite moneta elettronica?
+#### 99. Quali strumenti adottano alcuni sistemi di moneta elettronica per garantire una maggiore sicurezza? Qual è il loro limite?
+#### 100. Come si danneggia un sistema informatico? 
+#### 101. Quando si ha un accesso abusivo ad un sistema informatico o telematico? È da considerarsi reato?
+#### 102. Cosa si intende per frode informatica? 
