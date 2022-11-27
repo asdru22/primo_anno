@@ -1,14 +1,18 @@
+### impostazioni
+questions = 34 ### numero di domande
+q_start = "#### " ### ogni linea che inizia con questo è domanda, il resto risposte
+path = 'preparazione_esame/domande.md'
+
+### setup roba
 from random import randrange
-file1 = open('preparazione_esame/domande.md', 'r', encoding="utf-8")
+file1 = open(path, 'r', encoding="utf-8")
 Lines = file1.readlines()
 filter = "####"
 domande = []
 risposte = []
 r = []
 
-questions = 34 ### numero di domande
-q_start = "#### " ### ogni linea che inizia con questo è domanda, il resto risposte
-
+### codice
 for line in Lines:
     if filter in line:
         risposte.append(''.join(r))
@@ -16,9 +20,7 @@ for line in Lines:
         r = []
     else: 
         r.append(line)
-
 risposte.pop(0)
-
 inp = 'n'
 while(inp!="e"):
     r = randrange(questions)
