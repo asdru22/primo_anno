@@ -4,22 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "91822c73f3599021",
+        "id": "9ad1de41bc8505f7",
         "type": "tabs",
         "children": [
           {
-            "id": "e502f5d1c85e8a31",
+            "id": "e3fa88d0eec9adae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Parte 2/Mappe.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "52f19354aea9b079",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Possibili domande.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35e7209e9e88f47a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Documenti/Possibili domande Diritto di internet.pdf"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -62,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5
+    "width": 257.5,
+    "collapsed": true
   },
   "right": {
     "id": "376225e97223247d",
@@ -78,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parte 2/Mappe.md",
+                "file": "Documenti/Possibili domande Diritto di internet.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,17 +120,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e502f5d1c85e8a31",
+  "active": "35e7209e9e88f47a",
   "lastOpenFiles": [
+    "Possibili domande.md",
+    "Parte 2/Mappe.md",
+    "Documenti/Possibili domande Diritto di internet.pdf",
+    "Parte 2/GDPR mappa.md",
+    "Documenti/Mappe.pdf",
+    "Dizionario/causa di un contratto.md",
     "Parte 2/06 Legge sul diritto d'autore.md",
     "Dizionario/contratto.md",
     "Dizionario/forma contrattuale.md",
-    "causa di un contratto.md",
-    "Dizionario/oggetto di un contratto.md",
-    "Parte 2/05 Tutela del codice e del programmatore.md",
-    "Dizionario/software open-source.md",
-    "Parte 2/GDPR mappa.md",
-    "Dizionario/banca dati.md",
-    "Parte 2/03 Responsabilità del Provider.md"
+    "Dizionario/oggetto di un contratto.md"
   ]
 }
