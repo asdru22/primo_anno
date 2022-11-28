@@ -1,23 +1,23 @@
-q = "####"
+q_start = "####"
 non_ripetere_domande = True
-###
+path = "C:/Users/Ale Uni/Documents/uni/primo_anno/DirittoInternet/preparazione_esame/domande.md"
+
 from random import randrange
-file1 = open('preparazione_esame/domande.md', 'r', encoding="utf-8")
+file1 = open(path, 'r', encoding="utf-8")
 Lines = file1.readlines()
 domande = []
 risposte = []
 r = []
 
+### codice
 for line in Lines:
-    if q in line:
+    if q_start in line:
         risposte.append(''.join(r))
-        domande.append(line.replace("#### ",""))
+        domande.append(line.replace(q_start,""))
         r = []
     else: 
         r.append(line)
-
 risposte.pop(0)
-
 inp = 'n'
 while(inp!="e"):
     r = randrange(len(risposte))
