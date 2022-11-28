@@ -4,41 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "9ad1de41bc8505f7",
+        "id": "004787b32d759b09",
         "type": "tabs",
         "children": [
           {
-            "id": "e3fa88d0eec9adae",
+            "id": "245e966e667240ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parte 2/Mappe.md",
+                "file": "Parte 2/07 Intelligenza artificiale e repsonsabilità penale.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "52f19354aea9b079",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "35e7209e9e88f47a",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Documenti/Possibili domande Diritto di internet.pdf"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +38,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "contratto",
+                "query": "soft law",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Parte 2/07 Intelligenza artificiale e repsonsabilità penale.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,10 +97,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "52f19354aea9b079",
+  "active": "245e966e667240ff",
   "lastOpenFiles": [
-    "Possibili domande.md",
     "Documenti/Possibili domande Diritto di internet.pdf",
+    "Possibili domande.md",
     "Parte 2/Mappe.md",
     "Parte 2/GDPR mappa.md",
     "Documenti/Mappe.pdf",

@@ -87,70 +87,145 @@ La firma digitale è un tipo di firma elettronica che utilizza un sistema di cri
 - What you know: pin, password;
 - What you are: dati biometrici (impronte digitali, riconoscimento facciale);
 - what you have: autenticazione a due fattori o tessere magnetiche.
-#### 36. Qual è stata la prima legge emanata in materia di privacy in Italia e qual è quella attuale? **
+#### 36. Qual è stata la prima legge emanata in materia di privacy in Italia e qual è quella attuale?
+La prima legge sulla privacy è stata emanata in Italia il 31 dicembre 1996. Attualmente è in vigore il Codice in materia di protezione di dati personali del 30 giugno 2003.
 #### 37. Che cos'è un dato personale?
+Il dato personale è una qualunque informazione riferibile a qualunque soggetto. È possibile distinguere tra quelli che identificano in maniera immediata un soggetto (es. dati anagrafici) e quelli che consentono di risalire allo stesso tramite un collegamento (es. codice sanitario)
 #### 38. Che cos'è un dato anonimo?
+È definito dato anonimo il dato che non può essere associato a un interessato identificato.
 #### 39. Che cos'è un dato sensibile?
+Un dato sensibile è un dato che riguarda la personalità etico-sociale di un individuo e le sue caratteristiche psico-fisiche e possono mettere l'interessato a rischio di discriminazioni.  Il trattamento illecito di questi dati è potenzialmente più grave e i soggetti pubblici possono compiere sui dati sensibili solo le operazioni di trattamento strettamente necessarie.
 #### 40. Quali sono i dati giudiziari?
+Sono definiti dati giudiziari quelle informazioni idonee a rivelare  i provvedimenti giudiziari intrapresi nei confronti di un individuo, come condanne, pene ecc. I dati giudiziari sono disciplinati in maniera analoga ai 
+dati sensibili.
 #### 41. Cosa si intende per trattamento dei dati?
+La definizione di trattamento comprende, in sostanza, qualunque operazione effettuata, con o senza mezzi informatici, sui dati.
 #### 42. Come avviene la comunicazione e la diffusione dei dati personali?
+Si considera comunicazione il dare conoscenza dei dati personali ad uno o più soggetti determinati, diversi dall'interessato. Questi dati vengono diffusi qualora siano destinati a soggetti indeterminati.
 #### 43. Chi è l'interessato?
-#### 44. Chi è il titolare del trattamento? È possibile che ce ne sia più di uno per lo stesso trattamento? *
+L'interessato è la persona fisica, ente o associazione i cui dati sono oggetto di trattamento. Nonostante i dati riguardino l'interessato, questo non è da ritenere proprietario.
+#### 44. Chi è il titolare del trattamento? È possibile che ce ne sia più di uno per lo stesso trattamento?
+Il titolare del trattamento è quella persona fisica, ente, associazione od organismo, cui compete le decisioni 
+in ordine alla finalità e alle modalitò del trattamento. L'autorità Garante ha stabilito che nell'ambito di una pubblica amministrazione, società o ente, deve considerarsi titolare la struttura nel suo complesso e non le singole persone fisiche che la amministrano. La contitolarità è configurabile allorché su un unico trattamento le decisioni siano assunte congiuntamente da più soggetti.
 #### 45. Chi è il responsabile?
+Il responsabile è la persona fisica preposta dal titolare al trattamento di dati personali. Il Codice 
+prevede la possibilità di designare uno o più responsabili. Tuttavia il titolare non può nominare 
+responsabile chiunque: esso deve infatti essere scelto per esperienza, capacità ed affidabilità. Il responsabile deve attenersi alle istruzioni del titolare, il quale ha l'obbligo di verificare periodicamente il suo operato.
 #### 46. Chi è l'incaricato?
+L'incaricato è la persona fisica autorizzata a compiere operazioni di trattamento dal titolare o dal responsabile. Può essere designato incaricato chiunque e, a differenza del responsabile, questo ruolo può essere ricoperto solo da una persona fisica.
 #### 47. Quali sono i princìpi che devono essere rispettati da coloro che trattano i dati?
+- Leicità e correttezza: i dati devono essere gestiti in modo lecito, ossia conforme alla legge e il trattamento deve essere da subito trasparente sugli scopi perseguiti.
+- Finalità: si intende la rispondenza del trattamento a finalità individuate e rese note all'interessato.
+- Necessità: il trattamento informatizzato deve essere effettuato in modo tale da ridurre al minimo l'uso di dati personali identificativi.
+- Esattezza: impone al titolare di verificare che i dati trattati siano veritieri.
+- Pertinenza e non eccedenza: devono essere registrati ed elaborati solo i dati strettamente necessari alle finalità perseguite.
 #### 48. L'ente pubblico è tenuto ad informare l'interessato del trattamento? E a chiederne il consenso? E se fosse un privato?
+Si, l'ente pubblico è obbligato ad informare l'interessato del trattamento, ma non è richiesto il consenso di quest'ultimo. Questo perché l'ente pubblico può trattare i dati personali solo per compiere le operazioni necessarie al raggiungimento dei fini istituzionali. I privati invece, devono informare l'interessato e richiedere anche il suo consenso.
 #### 49. Quando avviene la cessazione del trattamento?
+Si ha cessazione del trattamento quando il titolare  intende, per qualsiasi causa, interrompere in via 
+ĚĞĨŝŶŝƚŝǀĂů͛ŝŶƚero complesso di operazioni concernenti un determinato trattamento di dati personali. La cessazione del trattamento deve essere notificata all'autorità Garante.
 #### 50. In che modo le pubbliche amministrazioni possono trattare dati sensibili?
+Le pubbliche amministrazioni, nel trattare dati sensibili, non sono tenute a richiedere né il consenso scritto, nè l'autorizzazione preventiva del Garante: il presupposto di legittimità deriva dalla vigenza di una norma di legge che specifica i dati che possono essere trattali e le rilevanti finalità di interesse pubblico perseguite. I privati invece devono ottenere il consenso scritto dell'interessato e l'autorizzazione del Garante.
 #### 51. È lecito diffondere dati sensibili e giudiziari?
+La diffusione di dati sensibili e giudiziari è lecita solo se prevista da una espressa disposizione di legge.
 #### 52. Come deve essere il consenso per essere ritenuto valido?
+Il consenso è valido solo se è espresso liberamente, in forma specifica e documentato per iscritto. Inoltre il consenso deve anche essere informato, cioè dato dopo che l'interessato si sia informato tramite la cosiddetta informativa.
 #### 53. Quali sono gli obblighi di sicurezza?
+La custodia e il controllo dei dati sono obblighi di sicurezza.  Il fine è quello di ridurre al minimo i rischi di distruzione e perdita, anche accidentale, dei dati stessi, di accesso non autorizzato o di trattamento non 
+consentito
 #### 54. Cosa comporta la mancata adozione delle misure minime di sicurezza?
+La mancata adozione delle misure minime di sicurezza risulta in un reato, con arresto sino a due anni o con ammenda da 10.000 a 50.000 euro.
 #### 55. Quando entra in causa la responsabilità civile? Cosa comporta? Come può essere evitata?
+L'adozione delle misure minime di sicurezza, in caso di danno, permette di evitare la responsabilità penale, ma non quella civile. La responsabilità civile è la responsabilità per i danni conseguente ad un illecito civile e consiste nell'obbligo di risarcimento del danno, per liberarsi dovrà fornire la prova di aver adottato tutte le misure idonee ad evitare il danno.
 #### 56. Qual è lo strumento che più di tutti garantisce il diritto alla protezione dei dati personali?
+Il principale strumento attraverso cui garantire il diritto alla protezione dei dati personali, è costituito dall'informativa sul trattamento dei dati personali.
 #### 57. È obbligatorio fornire l'informativa all'interessato?
+Ogni soggetto pubblco o privato è tenuto a fornir l'informativa all'interessato. Chi non la fornisce è punito con la sanzione amministrativa del pagamento di una somma da tremila euro a diciottomila euro.
 #### 58. Quando e in che forma deve essere presentata l'informativa?
+Deve essere fornita all'interessato prima di procedere al trattamento e può essere in forma orale o scritta.
 #### 59. Cosa deve indicare per legge la normativa?
+L'informativa deve indicare le finalità e le modalità del trattamento, le conseguenze di un eventuale rifiuto di rispondere, i soggetti ai quali i dati dell'interessato possono essere comunicati, l'ambito di diffusione dei dati personali e gli estremi identificativi del titolare (e di almeno un responsabile, se designato).
 #### 60. Cos'è la notificazione del trattamento? Quando e in che forma va effettuata?
+
 #### 61. Quali sono i principali diritti dell'interessato?
+
 #### 62. In che modo l'interessato può esercitare i suoi diritti?
+
 #### 63. Che cos'è l'outsourcing? Che problema comporta per il trattamento di dati personali?
+
 #### 64. Come si può ovviare a questo problema?
+
 #### 65. Che cos'è una rete telematica?
+
 #### 66. In che cosa si caratterizza la tutela cautelare?
+
 #### 67. Di che tipo di tutela si tratta e con quale strumento viene attuata?
+
 #### 68. La tutela cautelare è idonea ad evitare il verificarsi dell'evento dannoso?
+
 #### 69. Come può essere risarcito il danneggiato?
+
 #### 70. A quale condizione è ammissibile la pubblicazione della sentenza online?
+
 #### 71. Dove può essere esperita la tutela cautelare? 
+
 #### 72. Come possono essere tutelati il diritto all'immagine, il diritto al nome e il diritto d'autore?
 #### 73. Che cos'è un software dal punto di vista giuridico?
+
 #### 74. Che cos'è un invenzione industriale? Come viene tutelata?
+
 #### 75. Che cos'è un opera d'ingegno? Come viene tutelata?
+
 #### 76. Che differenze ci sono tra brevetto e diritto d'autore?
+
 #### 77. Con cosa si è deciso di tutelare il software?
+
 #### 78. Quali sono le forme di tutela del software principali e non?
+
 #### 79. Il software è brevettabile?
+
 #### 80. In che cosa consiste la tutela del firmware? Quanto dura?
+
 #### 81. In base al diritto d'autore, cosa viene tutelato?
+
 #### 82. Chi viene considerato autore di un software tutelabile?
+
 #### 83. In quali diritti si divide il diritto d'autore e quali sono le loro caratterstiche?
+
 #### 84. Come può essere fornita la prova che il programma sia stato sviluppato da un soggetto piuttosto che da un altro?
+
 #### 85. Cosa è autorizzato a fare il legittimo acquirente dei diritti di utilizzazione economica dell'opera?
+
 #### 86. Cosa comporta la violazione delle disposizioni sulla tutela del diritto d'autore?
+
 #### 87. Qual è la tutela giuridica della banca di dati?
+
 #### 88. Qual è la principale finalità della normativa comunitaria sui pagamenti elettronici?
+
 #### 89. Come può emergere una mancanza di fiducia durante la contrattazione online?
+
 #### 90. Chi è il consumatore?
+
 #### 91. Che cos'è un contratto a distanza?
+
 #### 92. Quando e in che modo devono essere comunicate le modalità di pagamento al consumatore?
+
 #### 93. A chi può rivolgersi il consumatore in caso di addebito eccessivo sulla propria carta di credito?
+
 #### 94. Quali sono le responsabilità che si possono additare all'emittente?
+
 #### 95. È vero che l'emittente è obbligato a fornire una lista dei movimenti al titolare?
+
 #### 96. Cosa si intende per moneta elettronica?
+
 #### 97. Il pagamento con moneta elettronica estingue un debito pecuniario? 
+
 #### 98. Quando è da considerarsi estinta un'obbligazione se il pagamento è avvenuto tramite moneta elettronica?
+
 #### 99. Quali strumenti adottano alcuni sistemi di moneta elettronica per garantire una maggiore sicurezza? Qual è il loro limite?
+
 #### 100. Come si danneggia un sistema informatico? 
+
 #### 101. Quando si ha un accesso abusivo ad un sistema informatico o telematico? È da considerarsi reato?
+
 #### 102. Cosa si intende per frode informatica? 

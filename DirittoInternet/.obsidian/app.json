@@ -8,5 +8,9 @@
     "landscape": false,
     "margin": "1",
     "downscalePercent": 100
-  }
+  },
+  "spellcheckLanguages": [
+    "it",
+    "en-GB"
+  ]
 }
