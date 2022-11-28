@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parte 2/07 Intelligenza artificiale e repsonsabilità penale.md",
+                "file": "preparazione_esame/domande.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,8 +62,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 257.5,
-    "collapsed": true
+    "width": 257.5
   },
   "right": {
     "id": "376225e97223247d",
@@ -79,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parte 2/07 Intelligenza artificiale e repsonsabilità penale.md",
+                "file": "preparazione_esame/domande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,14 +99,14 @@
   "active": "245e966e667240ff",
   "lastOpenFiles": [
     "Documenti/Possibili domande Diritto di internet.pdf",
+    "Documenti/Diritto applicato ad internet.svg",
+    "preparazione_esame/domande.md",
+    "Parte 2/07 Intelligenza artificiale e repsonsabilità penale.md",
     "Possibili domande.md",
     "Parte 2/Mappe.md",
     "Parte 2/GDPR mappa.md",
     "Documenti/Mappe.pdf",
     "Dizionario/causa di un contratto.md",
-    "Parte 2/06 Legge sul diritto d'autore.md",
-    "Dizionario/contratto.md",
-    "Dizionario/forma contrattuale.md",
-    "Dizionario/oggetto di un contratto.md"
+    "Parte 2/06 Legge sul diritto d'autore.md"
   ]
 }

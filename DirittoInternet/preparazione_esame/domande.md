@@ -146,86 +146,99 @@ Deve essere fornita all'interessato prima di procedere al trattamento e può ess
 #### 59. Cosa deve indicare per legge la normativa?
 L'informativa deve indicare le finalità e le modalità del trattamento, le conseguenze di un eventuale rifiuto di rispondere, i soggetti ai quali i dati dell'interessato possono essere comunicati, l'ambito di diffusione dei dati personali e gli estremi identificativi del titolare (e di almeno un responsabile, se designato).
 #### 60. Cos'è la notificazione del trattamento? Quando e in che forma va effettuata?
-
+La notificazione è una comunicazione al Garante da effettuarsi telematicamente e per una sola volta prima di procedere al compimento di specifiche operazioni di trattamento di dati personali.
 #### 61. Quali sono i principali diritti dell'interessato?
-
+Sono tutti quei diritti che trovano compimento nella normativa, come il diritto di conoscere  l'esistenza del trattamento, di conoscere le finalità e modalità, gli estremi identificativi del titolare.
 #### 62. In che modo l'interessato può esercitare i suoi diritti?
-
+La richiesta dell'interessato dei suoi diritti può essere trasmessa mediante posta elettronica, via fax o con raccomandata.
 #### 63. Che cos'è l'outsourcing? Che problema comporta per il trattamento di dati personali?
-
+L'outsourcing è in economia l'insieme delle pratiche adottate dalle imprese per ricorrere ad altre imprese per lo svolgimento di alcune fasi del processo produttivo. L'outsourcer nella maggior parte dei casi tratta dati personali rispetto ai quali l'impresa committente è titolare di trattamento. L'outsourcer può quindi configurarsi come responsabile del trattamento. Il problema nasce quando l'outsourcer dovrebbe designare le persone fisiche che per la società terza trattano i dati personali, in fatti è problematica una situazione dove un soggetto diverso dal datore di lavoro impartisce istruzioni ai dipendenti di un terzo.
 #### 64. Come si può ovviare a questo problema?
-
+Qualora si tratti di network o di organizzazioni complesse (come nel caso di outsourcing), una soluzione possibile sarebbe quella di individuare un titolare per ogni ente coinvolto e un altro soggetto come referente dei titolari di trattamento, che rivesta il ruolo di controllore degli altri enti.
 #### 65. Che cos'è una rete telematica?
-
+La rete telematica è una struttura per la trasmissione di messaggi che si avvale di un sistema costituito da mezzi di comunicazione e strumenti informatici. Internet è senza dubbio la rete telematica di gran lunga più nota e diffusa.
 #### 66. In che cosa si caratterizza la tutela cautelare?
-
+La tutela cautelare si caratterizza per la provvisorietà dei provvedimenti. Essa infatti ha lo scopo di evitare il rischio che il provvedimento definitivo sia inefficace perché giunto troppo tardi.
 #### 67. Di che tipo di tutela si tratta e con quale strumento viene attuata?
-
+Poichè serve a prevenire un pericolo di taridività dell'intervento definitivo, possiamo definirla una tutela preventiva. Uno strumento di attuazione di tutela cautelare che assume una particolare rilevanza è l'azione inibitori, che riordian la cessazione del fatto lesivo, ed è volta ad eliminare il fatto che cagiona il danno nonchè ad evitare che l'evento dannoso possa ripetersi.
 #### 68. La tutela cautelare è idonea ad evitare il verificarsi dell'evento dannoso?
-
+No, può forse essere idonea ad evitare il perdurare o il ripetersi di tale evento.
 #### 69. Come può essere risarcito il danneggiato?
-
+Il danneggiato può chiedere il ripristino della situazione preesistente, qualora sia in tutto o in parte possibile. Ma per reintegrare il danno occorre anche portare a conoscenza del pubblico la notizia che il materiale era stato in precedenza diffuso illecitamente. Così nei casi in cui la pubblicità della decisione di merito può contribuire a riparare il danno, il giudice può ordinarla.
 #### 70. A quale condizione è ammissibile la pubblicazione della sentenza online?
-
+L'esercizio della rettifica deve ritenersi ammissibile se si tratta di giorale online scritto nel registro della stampa
 #### 71. Dove può essere esperita la tutela cautelare? 
-
+La tutela cautelare può essere esperita davanti al giudice ordinario o davanti al Garante.
 #### 72. Come possono essere tutelati il diritto all'immagine, il diritto al nome e il diritto d'autore?
+- Il diritto all'immagine può essere tutelato mediante sequestro o provvedimenti inibitori;
+- il diritto al nome mediante la richiesta di cessazione del fatto lesivo, oltre al risarcimento danni e alla pubblicazione della sentenza;
+- il diritto d'autore mediante il sequestro, sia a fini probatori che con funzioni di natura cautelare.
 #### 73. Che cos'è un software dal punto di vista giuridico?
-
+Dal punto di vista giuridico il software costituisce una creazione intellettuale. Le creazioni intellettuali sono distinte in due categorie: le invenzioni industriali e le opere d'ingegno.
 #### 74. Che cos'è un invenzione industriale? Come viene tutelata?
-
+L'invenzione industriale è un'invenzione atta ad avere un'applicazione industriale, viene tutelata attraverso il brevetto.
 #### 75. Che cos'è un opera d'ingegno? Come viene tutelata?
-
+Un'opera d'ingegno è un opera di carattere creativo che appartiene alle scienze, alla letteratura, alla musica o allo sviluppo software. Viene tutelata attraverso il diritto d'autore o copyright.
 #### 76. Che differenze ci sono tra brevetto e diritto d'autore?
-
+Per ottenere un brevetto è necessaria un'apposita domanda da presentare presso l'ufficio centrale brevetti, mentre per il diritto d'autore non è necessario presentare alcuna domanda. Inoltre la durata del brevetto è di 20 annidalla data di deposito della domanda, mentre il diritto d'autore va a scadere passati 70 anni dalla morte dell'autore.
 #### 77. Con cosa si è deciso di tutelare il software?
-
+Sia in Italia che all'estero è prevalsa la scelta a favore della tutela del software attraverso il diritto d'autore.
 #### 78. Quali sono le forme di tutela del software principali e non?
-
+Le forme principali sono dettate da due corpi di norme: Codice della proprietà industriale e legge sul diritto d'autore. Ci sono poi altre forme di tutela tra cui un generale obbligo di fedeltà che incombe sul lavoratore dipendente e alcune disposizioni sulla concorrenza sleale, che impongono agli imprenditori di attenersi ai 
+princìpi della correttezza professionale.
 #### 79. Il software è brevettabile?
-
+Nell'ordinamento italiano vige il divieto di brevettibilità del software. Tuttavia il software è tutelabile mediante brevetto nel caso in cui esso non costituisca l'oggetto dell'invenzione ma sia invece strumento per raggiungere il risultato inventivo.
 #### 80. In che cosa consiste la tutela del firmware? Quanto dura?
-
+L'oggetto di questa tutela è la topografia del prodotto a semiconduttori, cioè la firma mediante la quale il programma è fissato nel firmware. I diritti esclusivi dell'autore della topografia sono alienabili e trasmissibili. La protezione delle topografie ha la durata di 10 anni dalla fine dell'anno in cui è stata depositata la domanda di registrazione.
 #### 81. In base al diritto d'autore, cosa viene tutelato?
-
+L'oggetto di tutela del diritto d'autore è la forma espressiva del programma, non l'idea in esso contenuta. Questo impedisce la nascita di monopoli e allo stesso tempo crea più possibilità di innovazione.
 #### 82. Chi viene considerato autore di un software tutelabile?
-
+L'autore del software è tutelabile quando produce un risultato creativo, in quanto dia nuovi apporti in campo informatico, esprima soluzioni originali ai problemi di elaborazione dati e programmi in modo migliore rispetto al passato determinati contenuti di idee, seppure in misura appena apprezzabile.
 #### 83. In quali diritti si divide il diritto d'autore e quali sono le loro caratterstiche?
-
+Il contenuto del diritto d'autore è costituito da un insieme di diritti patrimoniali e morali sull'opera.
+- Diritti morali: pubblicazione dell'opera, diffusione, messa in commercio, elaborazione e traduzione (inalienabili).
+- Diritti patrimoniali: sono cedibili a terzi con prova scritta. 
 #### 84. Come può essere fornita la prova che il programma sia stato sviluppato da un soggetto piuttosto che da un altro?
-
+La prova del diritto può essere fornita mediante deposito del programma presso l'apposito registro pubblico speciale per i programmi per elaboratore, presso la SIAE. La registrazione è facoltativa e non è obbligatoria per l'autore e comporta il pagamento dei diritti fissi alla SIAE (registrazione onerosa).
 #### 85. Cosa è autorizzato a fare il legittimo acquirente dei diritti di utilizzazione economica dell'opera?
-
+Può riprodurre il programma e apportare modifiche solo se necessarie per farlo funzionare correttamente, può effettuare una copia di riserva, qualora sia necessaria per l'uso e può osservare studiare e sottoporre a prova di funzionamento il programma.
 #### 86. Cosa comporta la violazione delle disposizioni sulla tutela del diritto d'autore?
-
+Comporta l'applicazione di sanzioni civili e penali. I provvedimenti definitivi che possono essere adottati dall'autorità giudiziaria sono la rimozione o distruzione degli esemplari frutto dell'attività illegittima, il risarcimento del danno e la pubblicazione della sentenza.
 #### 87. Qual è la tutela giuridica della banca di dati?
-
+Il singolo dato o la singola informazione non è suscettibile di tutela; è, invece, tutelabile giuridicamente la banca dati nel suo complesso. Il creatore di una banca di dati ha il diritto di vietare operazioni di estrazione della totalità o di una parte sostanziale del contenuto della stessa.
 #### 88. Qual è la principale finalità della normativa comunitaria sui pagamenti elettronici?
-
+La principale finalità della normativa comunitaria sui pagamenti elettronici è quella di costruire la fiducia 
+dei consumatori.
 #### 89. Come può emergere una mancanza di fiducia durante la contrattazione online?
-
+Può emergere in varie fasi della contrattazione, ad esempio nella difficoltà di identificare con certezza l'altro contraente, ma in particolare si rivela al momento del pagamento.
 #### 90. Chi è il consumatore?
-
+Il consumatore è la persona che agisce per scopi non riferibili all'attività imprenditoriale o commerciale eventualmente svolta.
 #### 91. Che cos'è un contratto a distanza?
-
+È contratto a distanza il contratto che ha per oggetto beni o servizi, stipulato tra un professionista e un consumatore nell'ambito di un sistema di vendita organizzato dal professionista che impiega esclusivamente una o più tecniche di comunicazione a distanza fino alla conclusione del contratto.
 #### 92. Quando e in che modo devono essere comunicate le modalità di pagamento al consumatore?
-
+Le modalità di pagamento devono essere comunicate al consumatore in tempo utile, prima della conclusione del contratto, in modo chiaro e comprensibile.
 #### 93. A chi può rivolgersi il consumatore in caso di addebito eccessivo sulla propria carta di credito?
-
+In questo caso il consumatore si può rivolgere direttamente all'istituto di emissione della carta di pagamento, che è obbligato a riaccreditare i pagamenti dei quali questi dimostri l'eccedenza rispeto al prezzo stabilito, ovvero l'uso fraudolento della propria carta di pagamento da parte del professionista o di un terzo.
 #### 94. Quali sono le responsabilità che si possono additare all'emittente?
-
+La responsabilità dell'emittente è relativa all'inesecuzione o esecuzione inesatta delle operazioni di pagamento elettronico ed alle operazioni non autorizzate del titolare. Tale responsabilità è limitata all'importo necessario per ripristinare la situazione precedente all'operazione inesatta.
 #### 95. È vero che l'emittente è obbligato a fornire una lista dei movimenti al titolare?
-
+Si, l'emittente deve fornire al titolare alcune informazioni minime successive ad un'operazione effettuata mediante pagamento elettronico, redatte per iscritto in forma facilmente comprensibile e che comprendano almeno un riferimento che consenta al titolare di indentificare l'operazione.
 #### 96. Cosa si intende per moneta elettronica?
-
+La definizione di moneta elettronica è quella di "valore monetario rappresentato da un credito nei confronti dell'emittente che sia
+- memorizzato su un dispositivo elettronico;
+- emesso dietro ricezione di fondi;
+- accetttato come mezzo di pagamento da imprese diverse dall'emittente".
+La moneta elettronica rappresenta dunque un credito nei confronti dell'emittente e un mezzo di pagamento nei confronti del prenditore. Può dunque trattarsi di un file memorizzato su una smart card.
 #### 97. Il pagamento con moneta elettronica estingue un debito pecuniario? 
-
+I debiti pecuniari si estinguono con moneta avente corso legale nello Stato. La moneta elettronica è una moneta convenzionale e non moneta legale, anche se vi è una forte connessione tra di esse. Inoltre la moneta elettronica è uno strumento di pagamento di origne privata, mentre l'art.1277 del C.C. costituisce l'affermazione della sovranità monetaria dello stato. La moneta elettronica non si può quindi considerare denaro contante che il creditore è tenuto ad accettare. Per l'estinzione dele debito tramite moneta elettronica occorre dunque il consenso del creditore ad ottenere una prestazione diversa da quella dovuta, che in questo caso è proprio il pagamento con moneta elettronica.
 #### 98. Quando è da considerarsi estinta un'obbligazione se il pagamento è avvenuto tramite moneta elettronica?
-
+Quando la diversa prestazione è stata eseguita, quindi con l'accreditamento del valore monetario nel conto del creditore.
 #### 99. Quali strumenti adottano alcuni sistemi di moneta elettronica per garantire una maggiore sicurezza? Qual è il loro limite?
-
+Allo scopo di garantire una maggiore sicurezza, alcuni sistemi di moneta elettronica fanno ricorso a metodi di identificazione dell'utente, mediante ad esempio l'utilizzo della firma digitale o di un codice identificativo. Tuttavia, se l'identificazione dell'utente può costituire un'importante misura di sicurezza, certamente essa presenta il grave difetto di costituire anche una potenziale violazione della privacy. Si delinea dunque un contrasto fra la tutela dell'utente ed esigenze di sicurezza del sistema.
 #### 100. Come si danneggia un sistema informatico? 
-
+Il sistema informatico è considerato danneggiato quando viene alterato, modificato o cancellato. Ci sono disposizioni che puniscono l'autore di danneggiamenti ad un sistema informatico. Ci sono delle aggravanti nel caso di danneggiamento di informazioni, dati e programmi informatici utilizzati dallo Stato o da un altro ente pubblico o di pubblica utilità.
 #### 101. Quando si ha un accesso abusivo ad un sistema informatico o telematico? È da considerarsi reato?
-
+Si ha un accesso abusivo quando un soggetto si introduce abusivamente in un sistema informatico, protetto da misure di sicurezza, contro la volontà espressa e tacita di chi ha il diritto di escluderlo. Questo comportamento costituisce un reato ed è punito con la reclusione fino a tre anni. Da uno a cinque anni se commesso da un pubblico ufficiale. Sono punite anche le condotte di utilizzo abusivo di password o tessere di riconoscimento, indipendentemente dal fatto che l'accesso segua un danneggiamento, un furto o un altro reato. Non si configura il reato di accesso abusivo qualora si acceda ad un sistema informatico non 
+protetto.
 #### 102. Cosa si intende per frode informatica? 
+La condotta è quella di chi procura a sé o ad altri un ingiusto profitto con altrui danno, alterando in qualsiasi modo il funzionamento di un sistema informatico o intervenendo senza diritto in qualsiasi modo su dati, informazioni o programmi contenuti in un sistema informatico ad esso pertinenti.
