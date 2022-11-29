@@ -1,6 +1,6 @@
 #### 1. Differenza tra civil law e common law
 La civil law è prevalentemente usata in stati dell'Europa centrale, e si riferisce ad un ordinamento giuridico preciso, mentre la common law è utilizzata negli stati uniti, dove un giudice può fare riferimento a processi precedenti per stabilire l'esito di questi.
-#### 2. Qual è il problema di maggior rilievo che, fra le questioni sollevate dalla grande rete, si pone oggi al  giurista? E perché?
+#### 2. Qual è il problema di maggior rilievo che, fra le questioni sollevate dalla grande rete, si pone oggi al giurista? E perché?
 Il problema maggiore è individuare una legge valida applicabile su internet, in quanto i vari paesi hanno sistemi giudiziari diversi e la legge ha bisogno di un luogo fisico per poter essere applicata e riconosciuta
 #### 3. Parla della struttura di Internet. È facile ricostruire il luogo da dove è stato spedito un messaggio?
 Internet è un insieme di reti e sottoreti che mette in comunicazione il mondo, è basato sul modello client server dove un utente usurfruisce di un servizio prestato da altri. L'interconnetività di Internet è il motivo per cui è facile poter rintracciare il luogo "digitale" dalla quale proviene un messaggio, tuttavia trovare il luogo fisico può risultare più difficile in quanto Internet è stato originariamente creato dall'esericto Statunitense per comunicare sempre e ovunque.
@@ -22,7 +22,7 @@ Non sono vessatorie le clausole che sono state oggetto di trattativa individuale
 - se il consumatore abita all'interno dell'UE, la legge applicabile è quella del paese di residenza del consumatore, quella di un altro paese se può risultare più vantaggiosa ad esso.
 - il foro di competenza e il giudice è quello del luogo di residenza del consumatore
 #### 8. Quali sono le principali Convenzioni Internazionali riguardanti i contratti internazionali conclusi su Internet? Quando vengono applicate?
-Le principali Convenzioni Internazionali a riguardo sono la Convenzione di Vienna sulla vendita  internazionale di beni mobili (1980, ratificata 1985) e la Convenzione di Roma sulla legge applicabile alle  obbligazioni contrattuali (1980, ratificata 1984). La Convenzione di Vienna si applica ai contratti di vendita di beni mobili tra parti le cui sedi d'affari si trovino in stati differenti, aderenti alla convenzione. La Convenzione di Roma viene applicata per determinare la legge applicabile e la giurisdizione competente in caso di controversie su Internet.
+Le principali Convenzioni Internazionali a riguardo sono la Convenzione di Vienna sulla vendita internazionale di beni mobili (1980, ratificata 1985) e la Convenzione di Roma sulla legge applicabile alle obbligazioni contrattuali (1980, ratificata 1984). La Convenzione di Vienna si applica ai contratti di vendita di beni mobili tra parti le cui sedi d'affari si trovino in stati differenti, aderenti alla convenzione. La Convenzione di Roma viene applicata per determinare la legge applicabile e la giurisdizione competente in caso di controversie su Internet.
 #### 9. Quali particolarità hanno i contratti aventi ad oggetto il Software?
 I contratti aventi ad oggetto il Software non sono riconducibili a contratti di vendita di beni mobili, bensì a contratti di licenza.
 #### 10. Cos'è l'UNCITRAL?
@@ -39,7 +39,7 @@ I contratti elettronici o informatici sono contratti conclusi attraverso un mezz
 La disciplina dei contratti elettronici è costituita prevalentemente dal Codice civile, Codice del consumatore, D.LGS. 70/2003 e Regolamento Roma (vedi domande 6 e 8).
 #### 16. È possibile assegnare al sistema informatico una qualche soggettività giuridica?
 Al sistema informatico non sono attribuibili né volontà, né decisioni, né stati soggettivi. Il programma non esprime in alcun modo una propria volontà, ma si limita a comunicare una volontà già determinata.
-#### 17. Quando un errore del sistema informatico nel processo di trasmissione della volontà  è causa di annullamento del contratto?
+#### 17. Quando un errore del sistema informatico nel processo di trasmissione della volontà è causa di annullamento del contratto?
 L'errore è causa di annullamento di un contratto quando è essenziale e riconoscibile dall'altro contraente
 #### 18. Quando può considerarsi concluso un contratto stipulato via Internet?
 Il contratto è concluso quando chi ha fatto la proposta ha notizia dell'accettazione dell'altra parte, secondo il principio della cognizione. Il messaggio si intende ricevuto quando il ricevente ha modo di accedere ad esso.
@@ -60,7 +60,7 @@ Il danno informatico è un danno causato da errori del software o dal malfunzion
 Il dannno economico colpisce il patrimonio e risulta dalle mancate prestazioni del prodotto rispetto alle aspettative del compratore.
 #### 24. In cosa viene distinto il danno informatico?
 Il danno informatico si distingue in danno diretto e indiretto
-- I danni diretti sono costituiti dai danni fisici al  sistema informatico (es. incendio di un computer)
+- I danni diretti sono costituiti dai danni fisici al sistema informatico (es. incendio di un computer)
 - I danni indiretti sono invece costituiti da un danno conseguente all'utilizzazione di un sistema informatico.
 La valutazione del danno diretto è rapportabile al valore del bene. Il danno indiretto è molto più difficile da valutare, poiché non è direttamente rapportabile al valore del bene informatico.
 #### 25. Quali sono i contratti ad oggetto informatico? Descrivili brevemente.
@@ -94,9 +94,9 @@ Il dato personale è una qualunque informazione riferibile a qualunque soggetto.
 #### 38. Che cos'è un dato anonimo?
 È definito dato anonimo il dato che non può essere associato a un interessato identificato.
 #### 39. Che cos'è un dato sensibile?
-Un dato sensibile è un dato che riguarda la personalità etico-sociale di un individuo e le sue caratteristiche psico-fisiche e possono mettere l'interessato a rischio di discriminazioni.  Il trattamento illecito di questi dati è potenzialmente più grave e i soggetti pubblici possono compiere sui dati sensibili solo le operazioni di trattamento strettamente necessarie.
+Un dato sensibile è un dato che riguarda la personalità etico-sociale di un individuo e le sue caratteristiche psico-fisiche e possono mettere l'interessato a rischio di discriminazioni. Il trattamento illecito di questi dati è potenzialmente più grave e i soggetti pubblici possono compiere sui dati sensibili solo le operazioni di trattamento strettamente necessarie.
 #### 40. Quali sono i dati giudiziari?
-Sono definiti dati giudiziari quelle informazioni idonee a rivelare  i provvedimenti giudiziari intrapresi nei confronti di un individuo, come condanne, pene ecc. I dati giudiziari sono disciplinati in maniera analoga ai 
+Sono definiti dati giudiziari quelle informazioni idonee a rivelare i provvedimenti giudiziari intrapresi nei confronti di un individuo, come condanne, pene ecc. I dati giudiziari sono disciplinati in maniera analoga ai 
 dati sensibili.
 #### 41. Cosa si intende per trattamento dei dati?
 La definizione di trattamento comprende, in sostanza, qualunque operazione effettuata, con o senza mezzi informatici, sui dati.
@@ -122,7 +122,7 @@ L'incaricato è la persona fisica autorizzata a compiere operazioni di trattamen
 #### 48. L'ente pubblico è tenuto ad informare l'interessato del trattamento? E a chiederne il consenso? E se fosse un privato?
 Si, l'ente pubblico è obbligato ad informare l'interessato del trattamento, ma non è richiesto il consenso di quest'ultimo. Questo perché l'ente pubblico può trattare i dati personali solo per compiere le operazioni necessarie al raggiungimento dei fini istituzionali. I privati invece, devono informare l'interessato e richiedere anche il suo consenso.
 #### 49. Quando avviene la cessazione del trattamento?
-Si ha cessazione del trattamento quando il titolare  intende, per qualsiasi causa, interrompere in via 
+Si ha cessazione del trattamento quando il titolare intende, per qualsiasi causa, interrompere in via 
 ĚĞĨŝŶŝƚŝǀĂů͛ŝŶƚero complesso di operazioni concernenti un determinato trattamento di dati personali. La cessazione del trattamento deve essere notificata all'autorità Garante.
 #### 50. In che modo le pubbliche amministrazioni possono trattare dati sensibili?
 Le pubbliche amministrazioni, nel trattare dati sensibili, non sono tenute a richiedere né il consenso scritto, nè l'autorizzazione preventiva del Garante: il presupposto di legittimità deriva dalla vigenza di una norma di legge che specifica i dati che possono essere trattali e le rilevanti finalità di interesse pubblico perseguite. I privati invece devono ottenere il consenso scritto dell'interessato e l'autorizzazione del Garante.
@@ -131,7 +131,7 @@ La diffusione di dati sensibili e giudiziari è lecita solo se prevista da una e
 #### 52. Come deve essere il consenso per essere ritenuto valido?
 Il consenso è valido solo se è espresso liberamente, in forma specifica e documentato per iscritto. Inoltre il consenso deve anche essere informato, cioè dato dopo che l'interessato si sia informato tramite la cosiddetta informativa.
 #### 53. Quali sono gli obblighi di sicurezza?
-La custodia e il controllo dei dati sono obblighi di sicurezza.  Il fine è quello di ridurre al minimo i rischi di distruzione e perdita, anche accidentale, dei dati stessi, di accesso non autorizzato o di trattamento non 
+La custodia e il controllo dei dati sono obblighi di sicurezza. Il fine è quello di ridurre al minimo i rischi di distruzione e perdita, anche accidentale, dei dati stessi, di accesso non autorizzato o di trattamento non 
 consentito
 #### 54. Cosa comporta la mancata adozione delle misure minime di sicurezza?
 La mancata adozione delle misure minime di sicurezza risulta in un reato, con arresto sino a due anni o con ammenda da 10.000 a 50.000 euro.
@@ -148,7 +148,7 @@ L'informativa deve indicare le finalità e le modalità del trattamento, le cons
 #### 60. Cos'è la notificazione del trattamento? Quando e in che forma va effettuata?
 La notificazione è una comunicazione al Garante da effettuarsi telematicamente e per una sola volta prima di procedere al compimento di specifiche operazioni di trattamento di dati personali.
 #### 61. Quali sono i principali diritti dell'interessato?
-Sono tutti quei diritti che trovano compimento nella normativa, come il diritto di conoscere  l'esistenza del trattamento, di conoscere le finalità e modalità, gli estremi identificativi del titolare.
+Sono tutti quei diritti che trovano compimento nella normativa, come il diritto di conoscere l'esistenza del trattamento, di conoscere le finalità e modalità, gli estremi identificativi del titolare.
 #### 62. In che modo l'interessato può esercitare i suoi diritti?
 La richiesta dell'interessato dei suoi diritti può essere trasmessa mediante posta elettronica, via fax o con raccomandata.
 #### 63. Che cos'è l'outsourcing? Che problema comporta per il trattamento di dati personali?
@@ -238,7 +238,6 @@ Allo scopo di garantire una maggiore sicurezza, alcuni sistemi di moneta elettro
 #### 100. Come si danneggia un sistema informatico? 
 Il sistema informatico è considerato danneggiato quando viene alterato, modificato o cancellato. Ci sono disposizioni che puniscono l'autore di danneggiamenti ad un sistema informatico. Ci sono delle aggravanti nel caso di danneggiamento di informazioni, dati e programmi informatici utilizzati dallo Stato o da un altro ente pubblico o di pubblica utilità.
 #### 101. Quando si ha un accesso abusivo ad un sistema informatico o telematico? È da considerarsi reato?
-Si ha un accesso abusivo quando un soggetto si introduce abusivamente in un sistema informatico, protetto da misure di sicurezza, contro la volontà espressa e tacita di chi ha il diritto di escluderlo. Questo comportamento costituisce un reato ed è punito con la reclusione fino a tre anni. Da uno a cinque anni se commesso da un pubblico ufficiale. Sono punite anche le condotte di utilizzo abusivo di password o tessere di riconoscimento, indipendentemente dal fatto che l'accesso segua un danneggiamento, un furto o un altro reato. Non si configura il reato di accesso abusivo qualora si acceda ad un sistema informatico non 
-protetto.
+Si ha un accesso abusivo quando un soggetto si introduce abusivamente in un sistema informatico, protetto da misure di sicurezza, contro la volontà espressa e tacita di chi ha il diritto di escluderlo. Questo comportamento costituisce un reato ed è punito con la reclusione fino a tre anni. Da uno a cinque anni se commesso da un pubblico ufficiale. Sono punite anche le condotte di utilizzo abusivo di password o tessere di riconoscimento, indipendentemente dal fatto che l'accesso segua un danneggiamento, un furto o un altro reato. Non si configura il reato di accesso abusivo qualora si acceda ad un sistema informatico non protetto.
 #### 102. Cosa si intende per frode informatica? 
 La condotta è quella di chi procura a sé o ad altri un ingiusto profitto con altrui danno, alterando in qualsiasi modo il funzionamento di un sistema informatico o intervenendo senza diritto in qualsiasi modo su dati, informazioni o programmi contenuti in un sistema informatico ad esso pertinenti.
