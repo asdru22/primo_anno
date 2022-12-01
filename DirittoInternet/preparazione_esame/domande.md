@@ -67,7 +67,7 @@ La valutazione del danno diretto è rapportabile al valore del bene. Il danno in
 Sono così chiamati i contratti aventi ad oggetto beni e servizi informatici. La Giurisprudenza italiana se ne occupa dall'inizio degli anni Ottanta. Sono conclusi prevalentemente attraverso condizioni generali di contratto: questa modalità, se da un lato soddisfa l'esigenza di velocizzare i rapporti ommerciali, dall'altro può sollevare problematicità per quanto riguarda la tutela della parte debole del rapporto.
 #### 26. Licenze di Software Freeware e OpenSource. Cosa sono?
 Licenze di software freeware sono licenze di software di tipo proprietario a titolo gratuito. Altro è la licenza open-source in cui l'autore dl programma consente ad altri non solo di usarlo, ma nache di conoscerne il codice e modificare il programma ai fini di migliorarlo e potenziarlo.
-#### 27. Quali sono i maggiori problemi riguardanti ai contratti informatici?
+#### 27. Quali sono i maggiori problemi riguardanti i contratti informatici?
 Oltre ai problemi di individuazione della legge applicabile e della giurisdizione competente, parzialmente risolti dalle Convenzioni Internazionali, sono anche problemi inerenti alla forma e alla prova dei contratti, strettamente correlati alla disciplina della firma digitale.
 #### 28. Si può disconoscere una firma digitale? Se si, in che modo?
 Una firma digitale può essere disconosciuta dall'apparente sottoscrittore tramite un particolare tipo di disconoscimento: bisogna provare che non sia stato utilizzato il dispositivo di firma. Questo è dovuto alla particolare natura tecnologica della firma digitale, che è impersonale e priva di grafia e dunque impossibile da disconoscere con il tradizionale disconoscimento della firma autografa.
@@ -140,7 +140,7 @@ L'adozione delle misure minime di sicurezza, in caso di danno, permette di evita
 #### 56. Qual è lo strumento che più di tutti garantisce il diritto alla protezione dei dati personali?
 Il principale strumento attraverso cui garantire il diritto alla protezione dei dati personali, è costituito dall'informativa sul trattamento dei dati personali.
 #### 57. È obbligatorio fornire l'informativa all'interessato?
-Ogni soggetto pubblco o privato è tenuto a fornir l'informativa all'interessato. Chi non la fornisce è punito con la sanzione amministrativa del pagamento di una somma da tremila euro a diciottomila euro.
+Ogni soggetto pubblco o privato è tenuto a fornire l'informativa all'interessato. Chi non la fornisce è punito con la sanzione amministrativa del pagamento di una somma da tremila euro a diciottomila euro.
 #### 58. Quando e in che forma deve essere presentata l'informativa?
 Deve essere fornita all'interessato prima di procedere al trattamento e può essere in forma orale o scritta.
 #### 59. Cosa deve indicare per legge la normativa?
