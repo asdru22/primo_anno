@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1c1cdff6fa5b3252",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_Bilancio/04_IVA e Fatture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Bilancio/03_Bilancio a Piani Contrapposti.md",
+                "file": "01_Bilancio/04_IVA e Fatture.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Bilancio/03_Bilancio a Piani Contrapposti.md",
+                "file": "01_Bilancio/04_IVA e Fatture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Bilancio/03_Bilancio a Piani Contrapposti.md"
+                "file": "01_Bilancio/04_IVA e Fatture.md"
               }
             }
           }
@@ -136,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f1089f20f2393f5c",
+  "active": "1c1cdff6fa5b3252",
   "lastOpenFiles": [
-    "Dizionario/ammortamento.md",
     "01_Bilancio/03_Bilancio a Piani Contrapposti.md",
-    "01_Bilancio/08_Analisi di bilancio secondo.md",
-    "01_Bilancio/07_Scritture di Assestamento.md",
-    "Excalidraw/Drawing 2022-11-19 12.17.54.excalidraw.md",
-    "01_Bilancio/Mappe/Attività circolanti.svg",
-    "Dizionario/decurtare.md",
-    "01_Bilancio/slide/11 - Le Registrazioni contabili - Simulazione di Esame 07 - Fatture di acquisto e vendita_Pagamenti_Incassi_Finanz._Fattura Professionista_Stipendi.pdf",
-    "01_Bilancio/06_Spese Pluriennali.md",
-    "01_Bilancio/slide/10 - Le Registrazioni contabili - Simulazione di Esame 06 - Finanziamenti_Parcelle_Stipendi.pdf"
+    "01_Bilancio/05_Finanziamenti.md",
+    "01_Bilancio/02_Informazioni nel bilancio.md",
+    "01_Bilancio/01_Destinatari del Bilancio.md",
+    "Dizionario/Valore Netto Contabile.md",
+    "Dizionario/valore aggiunto.md",
+    "Dizionario/Validità Sfalsata.md",
+    "Dizionario/stato patrimoniale.md",
+    "Dizionario/saldo.md",
+    "Dizionario/Risultato di Esercizio.md"
   ]
 }

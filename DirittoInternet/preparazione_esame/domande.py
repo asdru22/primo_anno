@@ -43,3 +43,11 @@ leggifile(Lines,domande,risposte,r,q_start)
 salta_domande(domande,risposte)
 inp = 'n'
 while(inp!="e"): stampa_domande(domande,risposte)
+
+"""
+Dubbi:
+Differenza tra licenza freeware e open source
+Quando può considerarsi concluso un contratto stipulato via Internet?
+I B2B sono regolamentati dal C.C, art. 70/2003, Regolamento roma 3?
+Differenza conseguenze giuridiche tra Causa mista e collegamento negoziale
+"""

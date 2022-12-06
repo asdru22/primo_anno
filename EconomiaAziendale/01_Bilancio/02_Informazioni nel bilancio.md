@@ -104,7 +104,7 @@ Con la crisi il tempo d'incasso è aumentato sempre di più. Le PMI sono forti v
 	- Erario;
 	- Personale;
 	- INPS, INAIL;
-	- Dare acconti quando si ordina qualcosa in persona (debito cliente): il denaro per il prodotto aquistato dall'azienda non viene dato subito, spesso possono passare mesi.
+	- Dare acconti quando si ordina qualcosa in persona (debito cliente): il denaro per il prodotto acquistato dall'azienda non viene dato subito, spesso possono passare mesi.
 
 ![[Informazioni Bilancio.svg]]
 ![[Mappa a T bilancio]]

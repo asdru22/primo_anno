@@ -11,7 +11,9 @@ Nuovo diritto applicabile solo su internet: questo causerebbe conflitti con i di
 #### 5. Cosa dispone il Codice dell'amministrazione digitale circa l'operazione di trasmissione del documento informatico all'indirizzo elettronico? vale lo stesso per il diritto italiano?
 Il codice dispone che il documento informatico trasmesso per via telematica si intende spedito dal mittente se inviato al proprio gestore e si intende consegnato se reso disponibile all'indirizzo elettronico del destinatario. Secondo il diritto italiano, opera il principio della cognizione, in base al quale il contratto è concluso nel momento in cui chi ha fatto la proposta ha notizia dell'accettazione dell'altra parte.
 #### 6. In quante e quali parti vengono classificati i contratti conclusi via Internet?
-I contratti su Internet sono divisi in B2B (business to business), B2C (business to consumer) e C2C (consumer to consumer). I contratti B2B sono regolati dal D.LGS. 70/2003 e dal C.C., mentre i B2C sono regolati dal D.LGS 70/2003 e dal codice dei consumatori. I C2C sono simili ai B2B e riguardano compravendita di brani musicali, o acquisti/vendite su siti di terze parti come eBay.
+B2B (business to business): regolati dal D.LGS. 70/2003 e dal Codice Civile;
+B2C (business to consumer): regolati dal D.LGS 70/2003 e dal codice dei consumatori;
+C2C (consumer to consumer): simili ai B2B e riguardano compravendita di brani musicali, o acquisti/vendite su siti di terze parti come eBay.
 #### 7. Quali sono le clausole da considerare vessatorie nei contratti di tipo B2C? E perché?
 Le clausole da considerare vessatorie (e dunque nulle) in un contratto B2C sono tutte quelle che mettono il consumatore in una posizione di svantaggio, ad esempio:
 - limitare la responsabilità del professionista nel caso di danni al consumatore
@@ -30,12 +32,12 @@ UNCITRAL è la sigla che sta ad indicare la Commissione delle Nazioni Unite sul 
 #### 11. In che cosa consiste la Lex Informatica?
 La Lex Informatica consiste in un sistema di regole e norme parallelo, da implementare sul web attraverso mezzi tecnici.
 #### 12. Che cosa sono i cookie?
-I cookie sono programmi in grado di monitorare gli spostamenti di un utente su un sito, che vengono installati sul computre dell'utente, senza che questo nella maggior parte dei casi ne sia consapevole.
+I cookie sono programmi in grado di monitorare gli spostamenti di un utente su un sito, che vengono installati sul computer dell'utente, senza che questo nella maggior parte dei casi ne sia consapevole.
 #### 13. Che cos'è la Lex Mercatoria?
 La definizione maggiormente accettata di Lex Mercatoria è quella di un sistema di legge dettato da ciò che e possibile fare e non su internet in base a limitazioni riconducibili al codice sorgente. Questo insieme di leggi quindi è sovranazionale, dettato dal ceto imprenditoriale al rischio di entrare in conflitto con le leggi locali.
 #### 14. Che cosa sono i contratti elettronici/informatici?
 I contratti elettronici o informatici sono contratti conclusi attraverso un mezzo informatico, cioè in cui la volontà contrattuale è dichiarata mediante uno strumento informatico (es. contratti di borsa).
-#### 15. Da quali leggi sono regolati?
+#### 15. Da quali leggi sono regolati (i contratti informatici)?
 La disciplina dei contratti elettronici è costituita prevalentemente dal Codice civile, Codice del consumatore, D.LGS. 70/2003 e Regolamento Roma (vedi domande 6 e 8).
 #### 16. È possibile assegnare al sistema informatico una qualche soggettività giuridica?
 Al sistema informatico non sono attribuibili né volontà, né decisioni, né stati soggettivi. Il programma non esprime in alcun modo una propria volontà, ma si limita a comunicare una volontà già determinata.
@@ -43,7 +45,7 @@ Al sistema informatico non sono attribuibili né volontà, né decisioni, né st
 L'errore è causa di annullamento di un contratto quando è essenziale e riconoscibile dall'altro contraente
 #### 18. Quando può considerarsi concluso un contratto stipulato via Internet?
 Il contratto è concluso quando chi ha fatto la proposta ha notizia dell'accettazione dell'altra parte, secondo il principio della cognizione. Il messaggio si intende ricevuto quando il ricevente ha modo di accedere ad esso.
-#### 19. Quali sono i modelli contrattuali più importanti a riguardo?
+#### 19. Quali sono i modelli contrattuali più importanti a riguardo (un contratto stipulato via Internet)?
 I modelli contrattuali più importanti sono
 - European model EDI agreement: riguardante gli aspetti giuridici dello scambio di dati)
 - Model Law UNCITRAL: riguardante gli aspetti giuridici del commercio elettronico
@@ -66,7 +68,7 @@ La valutazione del danno diretto è rapportabile al valore del bene. Il danno in
 #### 25. Quali sono i contratti ad oggetto informatico? Descrivili brevemente.
 Sono così chiamati i contratti aventi ad oggetto beni e servizi informatici. La Giurisprudenza italiana se ne occupa dall'inizio degli anni Ottanta. Sono conclusi prevalentemente attraverso condizioni generali di contratto: questa modalità, se da un lato soddisfa l'esigenza di velocizzare i rapporti ommerciali, dall'altro può sollevare problematicità per quanto riguarda la tutela della parte debole del rapporto.
 #### 26. Licenze di Software Freeware e OpenSource. Cosa sono?
-Licenze di software freeware sono licenze di software di tipo proprietario a titolo gratuito. Altro è la licenza open-source in cui l'autore dl programma consente ad altri non solo di usarlo, ma nache di conoscerne il codice e modificare il programma ai fini di migliorarlo e potenziarlo.
+Licenze di software freeware sono licenze di software di tipo proprietario a titolo gratuito, ma non consente la modifica e la ridistribuzione da parte di altri. Altro è la licenza open-source in cui l'autore del programma consente ad altri non solo di usarlo, ma nache di conoscerne il codice e modificare il programma ai fini di migliorarlo e potenziarlo.
 #### 27. Quali sono i maggiori problemi riguardanti i contratti informatici?
 Oltre ai problemi di individuazione della legge applicabile e della giurisdizione competente, parzialmente risolti dalle Convenzioni Internazionali, sono anche problemi inerenti alla forma e alla prova dei contratti, strettamente correlati alla disciplina della firma digitale.
 #### 28. Si può disconoscere una firma digitale? Se si, in che modo?
@@ -109,8 +111,7 @@ Il titolare del trattamento è quella persona fisica, ente, associazione od orga
 in ordine alla finalità e alle modalitò del trattamento. L'autorità Garante ha stabilito che nell'ambito di una pubblica amministrazione, società o ente, deve considerarsi titolare la struttura nel suo complesso e non le singole persone fisiche che la amministrano. La contitolarità è configurabile allorché su un unico trattamento le decisioni siano assunte congiuntamente da più soggetti.
 #### 45. Chi è il responsabile?
 Il responsabile è la persona fisica preposta dal titolare al trattamento di dati personali. Il Codice 
-prevede la possibilità di designare uno o più responsabili. Tuttavia il titolare non può nominare 
-responsabile chiunque: esso deve infatti essere scelto per esperienza, capacità ed affidabilità. Il responsabile deve attenersi alle istruzioni del titolare, il quale ha l'obbligo di verificare periodicamente il suo operato.
+prevede la possibilità di designare uno o più responsabili. Tuttavia il titolare non può nominare responsabile chiunque: esso deve infatti essere scelto per esperienza, capacità ed affidabilità. Il responsabile deve attenersi alle istruzioni del titolare, il quale ha l'obbligo di verificare periodicamente il suo operato.
 #### 46. Chi è l'incaricato?
 L'incaricato è la persona fisica autorizzata a compiere operazioni di trattamento dal titolare o dal responsabile. Può essere designato incaricato chiunque e, a differenza del responsabile, questo ruolo può essere ricoperto solo da una persona fisica.
 #### 47. Quali sono i princìpi che devono essere rispettati da coloro che trattano i dati?
@@ -122,8 +123,7 @@ L'incaricato è la persona fisica autorizzata a compiere operazioni di trattamen
 #### 48. L'ente pubblico è tenuto ad informare l'interessato del trattamento? E a chiederne il consenso? E se fosse un privato?
 Si, l'ente pubblico è obbligato ad informare l'interessato del trattamento, ma non è richiesto il consenso di quest'ultimo. Questo perché l'ente pubblico può trattare i dati personali solo per compiere le operazioni necessarie al raggiungimento dei fini istituzionali. I privati invece, devono informare l'interessato e richiedere anche il suo consenso.
 #### 49. Quando avviene la cessazione del trattamento?
-Si ha cessazione del trattamento quando il titolare intende, per qualsiasi causa, interrompere in via 
-ĚĞĨŝŶŝƚŝǀĂů͛ŝŶƚero complesso di operazioni concernenti un determinato trattamento di dati personali. La cessazione del trattamento deve essere notificata all'autorità Garante.
+Si ha cessazione del trattamento quando il titolare intende, per qualsiasi causa, interrompere in via definitiva l'intero complesso di operazioni concernenti un determinato trattamento di dati personali. La cessazione del trattamento deve essere notificata all'autorità Garante.
 #### 50. In che modo le pubbliche amministrazioni possono trattare dati sensibili?
 Le pubbliche amministrazioni, nel trattare dati sensibili, non sono tenute a richiedere né il consenso scritto, nè l'autorizzazione preventiva del Garante: il presupposto di legittimità deriva dalla vigenza di una norma di legge che specifica i dati che possono essere trattali e le rilevanti finalità di interesse pubblico perseguite. I privati invece devono ottenere il consenso scritto dell'interessato e l'autorizzazione del Garante.
 #### 51. È lecito diffondere dati sensibili e giudiziari?
@@ -159,14 +159,14 @@ Qualora si tratti di network o di organizzazioni complesse (come nel caso di out
 La rete telematica è una struttura per la trasmissione di messaggi che si avvale di un sistema costituito da mezzi di comunicazione e strumenti informatici. Internet è senza dubbio la rete telematica di gran lunga più nota e diffusa.
 #### 66. In che cosa si caratterizza la tutela cautelare?
 La tutela cautelare si caratterizza per la provvisorietà dei provvedimenti. Essa infatti ha lo scopo di evitare il rischio che il provvedimento definitivo sia inefficace perché giunto troppo tardi.
-#### 67. Di che tipo di tutela si tratta e con quale strumento viene attuata?
-Poichè serve a prevenire un pericolo di taridività dell'intervento definitivo, possiamo definirla una tutela preventiva. Uno strumento di attuazione di tutela cautelare che assume una particolare rilevanza è l'azione inibitori, che riordian la cessazione del fatto lesivo, ed è volta ad eliminare il fatto che cagiona il danno nonchè ad evitare che l'evento dannoso possa ripetersi.
+#### 67. Di che tipo di tutela (cautelare) si tratta e con quale strumento viene attuata?
+Poichè serve a prevenire un pericolo di taridività dell'intervento definitivo, possiamo definirla una tutela preventiva. Uno strumento di attuazione di tutela cautelare che assume una particolare rilevanza è l'azione inibitoria, che riordina la cessazione del fatto lesivo, ed è volta ad eliminare il fatto che cagiona il danno nonchè ad evitare che l'evento dannoso possa ripetersi.
 #### 68. La tutela cautelare è idonea ad evitare il verificarsi dell'evento dannoso?
 No, può forse essere idonea ad evitare il perdurare o il ripetersi di tale evento.
 #### 69. Come può essere risarcito il danneggiato?
 Il danneggiato può chiedere il ripristino della situazione preesistente, qualora sia in tutto o in parte possibile. Ma per reintegrare il danno occorre anche portare a conoscenza del pubblico la notizia che il materiale era stato in precedenza diffuso illecitamente. Così nei casi in cui la pubblicità della decisione di merito può contribuire a riparare il danno, il giudice può ordinarla.
 #### 70. A quale condizione è ammissibile la pubblicazione della sentenza online?
-L'esercizio della rettifica deve ritenersi ammissibile se si tratta di giorale online scritto nel registro della stampa
+L'esercizio della rettifica deve ritenersi ammissibile se si tratta di giornale online scritto nel registro della stampa
 #### 71. Dove può essere esperita la tutela cautelare? 
 La tutela cautelare può essere esperita davanti al giudice ordinario o davanti al Garante.
 #### 72. Come possono essere tutelati il diritto all'immagine, il diritto al nome e il diritto d'autore?
@@ -218,7 +218,7 @@ Il consumatore è la persona che agisce per scopi non riferibili all'attività i
 #### 92. Quando e in che modo devono essere comunicate le modalità di pagamento al consumatore?
 Le modalità di pagamento devono essere comunicate al consumatore in tempo utile, prima della conclusione del contratto, in modo chiaro e comprensibile.
 #### 93. A chi può rivolgersi il consumatore in caso di addebito eccessivo sulla propria carta di credito?
-In questo caso il consumatore si può rivolgere direttamente all'istituto di emissione della carta di pagamento, che è obbligato a riaccreditare i pagamenti dei quali questi dimostri l'eccedenza rispeto al prezzo stabilito, ovvero l'uso fraudolento della propria carta di pagamento da parte del professionista o di un terzo.
+In questo caso il consumatore si può rivolgere direttamente all'istituto di emissione della carta di pagamento, che è obbligato a riaccreditare i pagamenti dei quali questi dimostri l'eccedenza rispetto al prezzo stabilito, ovvero l'uso fraudolento della propria carta di pagamento da parte del professionista o di un terzo.
 #### 94. Quali sono le responsabilità che si possono additare all'emittente?
 La responsabilità dell'emittente è relativa all'inesecuzione o esecuzione inesatta delle operazioni di pagamento elettronico ed alle operazioni non autorizzate del titolare. Tale responsabilità è limitata all'importo necessario per ripristinare la situazione precedente all'operazione inesatta.
 #### 95. È vero che l'emittente è obbligato a fornire una lista dei movimenti al titolare?

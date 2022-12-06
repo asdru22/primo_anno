@@ -7,12 +7,15 @@ class run{
         //System.out.println(s2.sayHello());
         //s3.setNome("giovanni");
         //System.out.println(s3.sayHello());
+        Persona bruh = new Persona("bling", "chilling");
+        Persona cacca = new Persona("caca", "sbura");
 
-        ContoCorrente mio = new ContoCorrente(124241, "isola", 1530);
-
-        mio.Preleva(-14500);
-        mio.Deposita(-1500);
-
-        mio.Informazioni();
+        //bruh.Presentati();
+        ContoCorrente mio = new ContoCorrente(124241, bruh, 1530);
+        ContoCorrente condiviso = new ContoCorrente(124241, bruh, 1530,cacca);
+        condiviso.Informazioni();
+        //mio.Deposita(42);
+        //mio.Preleva(3);
+        //mio.Informazioni();
     }
 }  
