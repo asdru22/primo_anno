@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Bilancio/04_IVA e Fatture.md",
+                "file": "01_Bilancio/08_Analisi di bilancio secondo.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ammort",
+                "query": " ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01_Bilancio/04_IVA e Fatture.md",
+                "file": "01_Bilancio/08_Analisi di bilancio secondo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01_Bilancio/04_IVA e Fatture.md",
+                "file": "01_Bilancio/08_Analisi di bilancio secondo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01_Bilancio/04_IVA e Fatture.md"
+                "file": "01_Bilancio/08_Analisi di bilancio secondo.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "1c1cdff6fa5b3252",
   "lastOpenFiles": [
+    "01_Bilancio/07_Scritture di Assestamento.md",
+    "01_Bilancio/08_Analisi di bilancio secondo.md",
+    "01_Bilancio/Mappa a T bilancio.md",
+    "01_Bilancio/06_Spese Pluriennali.md",
     "01_Bilancio/03_Bilancio a Piani Contrapposti.md",
-    "01_Bilancio/05_Finanziamenti.md",
     "01_Bilancio/02_Informazioni nel bilancio.md",
     "01_Bilancio/01_Destinatari del Bilancio.md",
-    "Dizionario/Valore Netto Contabile.md",
-    "Dizionario/valore aggiunto.md",
-    "Dizionario/Validità Sfalsata.md",
-    "Dizionario/stato patrimoniale.md",
-    "Dizionario/saldo.md",
-    "Dizionario/Risultato di Esercizio.md"
+    "01_Bilancio/Esercitazioni/Esercitazione Piano dei conti.svg",
+    "01_Bilancio/Esercitazioni/Drawing 2022-10-24 11.29.36.excalidraw.md",
+    "01_Bilancio/Esercitazioni/Esercitazione 7_10.svg"
   ]
 }

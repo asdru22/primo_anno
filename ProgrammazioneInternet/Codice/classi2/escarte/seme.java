@@ -1,0 +1,1 @@
+public enum seme{spade,denari,bastoni,coppe}

@@ -55,7 +55,7 @@ Risultato altre imposte
 |---|---|---|
 |A|crediti v/soci x versamenti ancora dovuti|Patrimonio netto (capitale sociale)|
 |B|Immobilizzazione|Fondi x rischio oneri|
-|C|Attivo circolare|Trattamento di fine rapporto|
+|C|Attivo circolante|Trattamento di fine rapporto|
 |D|Ratei e riscontri attivi|Debiti|
 |E|-|Ratei e riscontri passivi|
 

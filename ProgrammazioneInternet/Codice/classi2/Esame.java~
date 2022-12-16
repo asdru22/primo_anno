@@ -1,0 +1,14 @@
+import java.time.LocalDate;
+public class Esame {
+    private String nome;
+    private int voto;
+    private LocalDate data;
+    public Esame(String nome,int voto, LocalDate data){
+        this.nome = nome;
+        this.voto = voto;
+        this.data = data;
+    }
+    public String getName(){
+        return this.nome;
+    }
+}

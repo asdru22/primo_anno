@@ -1,0 +1,10 @@
+import java.util.Scanner;
+class run{
+	public static void main(String[] args){
+		es1();
+	}
+
+	public static void es1(){
+		Scanner in = new Scanner(System.in);
+	}
+}

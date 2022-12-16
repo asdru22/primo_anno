@@ -1,5 +1,6 @@
 {
   "theme": "system",
   "cssTheme": "Atom",
-  "translucency": true
+  "translucency": true,
+  "accentColor": ""
 }
