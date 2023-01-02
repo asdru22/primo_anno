@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Parte 2/08 Danno informatico.md",
+                "file": "preparazione_esame/domande.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Parte 2/08 Danno informatico.md",
+                "file": "preparazione_esame/domande.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,14 +96,23 @@
     "width": 300,
     "collapsed": true
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false
+    }
+  },
   "active": "245e966e667240ff",
   "lastOpenFiles": [
+    "preparazione_esame/Mappe.md",
+    "preparazione_esame/domande.md",
+    "Parte 2/08 Danno informatico.md",
     "Parte 2/06 Legge sul diritto d'autore.md",
     "Parte 2/07 Intelligenza artificiale e repsonsabilità penale.md",
-    "Parte 2/08 Danno informatico.md",
     "Documenti/Possibili domande Diritto di internet.pdf",
-    "preparazione_esame/domande.md",
-    "preparazione_esame/Mappe.md",
     "Parte 2/05 Tutela del codice e del programmatore.md",
     "Documenti/Diritto applicato ad internet.svg",
     "Possibili domande.md",
