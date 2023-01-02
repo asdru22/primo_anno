@@ -1,10 +1,9 @@
 q_start = "####"
 non_ripetere_domande = True
-path = "C:/Users/Ale Uni/Documents/uni/primo_anno/DirittoInternet/preparazione_esame/domande.md"
-domande_da_saltare = [2,5,100,101]
+domande_da_saltare = [100,101]
 
 from random import randrange
-file1 = open(path, 'r', encoding="utf-8")
+file1 = open("C:/Users/Ale/Documents/github/primo_anno/DirittoInternet/preparazione_esame/domande.md", 'r', encoding="utf-8")
 Lines = file1.readlines()
 domande = []
 risposte = []
