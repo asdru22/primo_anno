@@ -98,8 +98,7 @@ Il dato personale è una qualunque informazione riferibile a qualunque soggetto.
 #### 39. Che cos'è un dato sensibile?
 Un dato sensibile è un dato che riguarda la personalità etico-sociale di un individuo e le sue caratteristiche psico-fisiche e possono mettere l'interessato a rischio di discriminazioni. Il trattamento illecito di questi dati è potenzialmente più grave e i soggetti pubblici possono compiere sui dati sensibili solo le operazioni di trattamento strettamente necessarie.
 #### 40. Quali sono i dati giudiziari?
-Sono definiti dati giudiziari quelle informazioni idonee a rivelare i provvedimenti giudiziari intrapresi nei confronti di un individuo, come condanne, pene ecc. I dati giudiziari sono disciplinati in maniera analoga ai 
-dati sensibili.
+Sono definiti dati giudiziari quelle informazioni idonee a rivelare i provvedimenti giudiziari intrapresi nei confronti di un individuo, come condanne, pene ecc. I dati giudiziari sono disciplinati in maniera analoga ai dati sensibili.
 #### 41. Cosa si intende per trattamento dei dati?
 La definizione di trattamento comprende, in sostanza, qualunque operazione effettuata, con o senza mezzi informatici, sui dati.
 #### 42. Come avviene la comunicazione e la diffusione dei dati personali?
@@ -107,12 +106,10 @@ Si considera comunicazione il dare conoscenza dei dati personali ad uno o più s
 #### 43. Chi è l'interessato?
 L'interessato è la persona fisica, ente o associazione i cui dati sono oggetto di trattamento. Nonostante i dati riguardino l'interessato, questo non è da ritenere proprietario.
 #### 44. Chi è il titolare del trattamento? È possibile che ce ne sia più di uno per lo stesso trattamento?
-Il titolare del trattamento è quella persona fisica, ente, associazione od organismo, cui compete le decisioni 
-in ordine alla finalità e alle modalitò del trattamento. L'autorità Garante ha stabilito che nell'ambito di una pubblica amministrazione, società o ente, deve considerarsi titolare la struttura nel suo complesso e non le singole persone fisiche che la amministrano. La contitolarità è configurabile allorché su un unico trattamento le decisioni siano assunte congiuntamente da più soggetti.
+Il titolare del trattamento è quella persona fisica, ente, associazione od organismo, cui compete le decisioni in ordine alla finalità e alle modalità del trattamento. L'autorità Garante ha stabilito che nell'ambito di una pubblica amministrazione, società o ente, deve considerarsi titolare la struttura nel suo complesso e non le singole persone fisiche che la amministrano. La contitolarità è configurabile allorché su un unico trattamento le decisioni siano assunte congiuntamente da più soggetti.
 #### 45. Chi è il responsabile?
-Il responsabile è la persona fisica preposta dal titolare al trattamento di dati personali. Il Codice 
-prevede la possibilità di designare uno o più responsabili. Tuttavia il titolare non può nominare responsabile chiunque: esso deve infatti essere scelto per esperienza, capacità ed affidabilità. Il responsabile deve attenersi alle istruzioni del titolare, il quale ha l'obbligo di verificare periodicamente il suo operato.
-#### 46. Chi è l'incaricato?
+Il responsabile è la persona fisica preposta dal titolare al trattamento di dati personali. Il Codice prevede la possibilità di designare uno o più responsabili. Tuttavia il titolare non può nominare responsabile chiunque: esso deve infatti essere scelto per esperienza, capacità ed affidabilità. Il responsabile deve attenersi alle istruzioni del titolare, il quale ha l'obbligo di verificare periodicamente il suo operato.
+#### 46. Chi è l'incaricato (DPO)?
 L'incaricato è la persona fisica autorizzata a compiere operazioni di trattamento dal titolare o dal responsabile. Può essere designato incaricato chiunque e, a differenza del responsabile, questo ruolo può essere ricoperto solo da una persona fisica.
 #### 47. Quali sono i princìpi che devono essere rispettati da coloro che trattano i dati?
 - Leicità e correttezza: i dati devono essere gestiti in modo lecito, ossia conforme alla legge e il trattamento deve essere da subito trasparente sugli scopi perseguiti.
@@ -143,7 +140,7 @@ Il principale strumento attraverso cui garantire il diritto alla protezione dei 
 Ogni soggetto pubblco o privato è tenuto a fornire l'informativa all'interessato. Chi non la fornisce è punito con la sanzione amministrativa del pagamento di una somma da tremila euro a diciottomila euro.
 #### 58. Quando e in che forma deve essere presentata l'informativa?
 Deve essere fornita all'interessato prima di procedere al trattamento e può essere in forma orale o scritta.
-#### 59. Cosa deve indicare per legge la normativa?
+#### 59. Cosa deve indicare per legge l'informativa?
 L'informativa deve indicare le finalità e le modalità del trattamento, le conseguenze di un eventuale rifiuto di rispondere, i soggetti ai quali i dati dell'interessato possono essere comunicati, l'ambito di diffusione dei dati personali e gli estremi identificativi del titolare (e di almeno un responsabile, se designato).
 #### 60. Cos'è la notificazione del trattamento? Quando e in che forma va effettuata?
 La notificazione è una comunicazione al Garante da effettuarsi telematicamente e per una sola volta prima di procedere al compimento di specifiche operazioni di trattamento di dati personali.
