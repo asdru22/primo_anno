@@ -28,7 +28,7 @@ Comma 2:
 Il provider
 - è tenuto a fornire senza indugio, a richiesta delle autorità competenti, le informazioni in suo possesso che consentano l'identificazione del destinatario dei suoi servizi con cui ha accordi di memorizzazione dei dati, al fine di individuare e prevenire attività illecite.
 - è responsabile solo se l'autorità giudiziaria ha chiesto la rimozione di un contenuto e non l'ha fatto.
-#### Art. 14: Responsabilità  nell'attività   di   semplice  trasporto  -  Mere conduit (semplice trasporto)
+#### Art. 14: Responsabilità  nell'attività di semplice trasporto  -  Mere conduit
 #### Art. 15: Responsabilità nell'attività di memorizzazione temporanea - caching
 Il provider di caching non è responsabile dei dati immagazzinati a meno che non gli abbia attivamente modificati. Deve inoltre eliminare i dati in cache il prima possibile se questi dati sono stati rimossi dal luogo iniziale in rete.
 #### Art. 16: Responsabilità nell'attività di memorizzazione di informazioni -hosting-
