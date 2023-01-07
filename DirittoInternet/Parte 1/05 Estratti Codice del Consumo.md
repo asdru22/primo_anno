@@ -1,3 +1,4 @@
+
 #### Obblighi di Informazione (Articolo 49 e d.lgs 70/2003)
 Prima tutela nei confronti del cliente.
 Queste informazioni vanno dichiarate sempre per motivi di fiducia. Il consumatore va tutelato in quanto sta agendo per scopi personali (soggetto debole)

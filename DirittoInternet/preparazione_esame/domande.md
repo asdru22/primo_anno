@@ -128,8 +128,7 @@ La diffusione di dati sensibili e giudiziari è lecita solo se prevista da una e
 #### 52. Come deve essere il consenso per essere ritenuto valido?
 Il consenso è valido solo se è espresso liberamente, in forma specifica e documentato per iscritto. Inoltre il consenso deve anche essere informato, cioè dato dopo che l'interessato si sia informato tramite la cosiddetta informativa.
 #### 53. Quali sono gli obblighi di sicurezza?
-La custodia e il controllo dei dati sono obblighi di sicurezza. Il fine è quello di ridurre al minimo i rischi di distruzione e perdita, anche accidentale, dei dati stessi, di accesso non autorizzato o di trattamento non 
-consentito
+La custodia e il controllo dei dati sono obblighi di sicurezza. Il fine è quello di ridurre al minimo i rischi di distruzione e perdita, anche accidentale, dei dati stessi, di accesso non autorizzato o di trattamento non consentito
 #### 54. Cosa comporta la mancata adozione delle misure minime di sicurezza?
 La mancata adozione delle misure minime di sicurezza risulta in un reato, con arresto sino a due anni o con ammenda da 10.000 a 50.000 euro.
 #### 55. Quando entra in causa la responsabilità civile? Cosa comporta? Come può essere evitata?
@@ -181,8 +180,7 @@ Per ottenere un brevetto è necessaria un'apposita domanda da presentare presso 
 #### 77. Con cosa si è deciso di tutelare il software?
 Sia in Italia che all'estero è prevalsa la scelta a favore della tutela del software attraverso il diritto d'autore.
 #### 78. Quali sono le forme di tutela del software principali e non?
-Le forme principali sono dettate da due corpi di norme: Codice della proprietà industriale e legge sul diritto d'autore. Ci sono poi altre forme di tutela tra cui un generale obbligo di fedeltà che incombe sul lavoratore dipendente e alcune disposizioni sulla concorrenza sleale, che impongono agli imprenditori di attenersi ai 
-princìpi della correttezza professionale.
+Le forme principali sono dettate da due corpi di norme: Codice della proprietà industriale e legge sul diritto d'autore. Ci sono poi altre forme di tutela tra cui un generale obbligo di fedeltà che incombe sul lavoratore dipendente e alcune disposizioni sulla concorrenza sleale, che impongono agli imprenditori di attenersi ai princìpi della correttezza professionale.
 #### 79. Il software è brevettabile?
 Nell'ordinamento italiano vige il divieto di brevettibilità del software. Tuttavia il software è tutelabile mediante brevetto nel caso in cui esso non costituisca l'oggetto dell'invenzione ma sia invece strumento per raggiungere il risultato inventivo.
 #### 80. In che cosa consiste la tutela del firmware? Quanto dura?

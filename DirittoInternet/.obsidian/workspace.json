@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3b0e6843aebd3f24",
+        "id": "c6cdd453575fc9f8",
         "type": "tabs",
         "children": [
           {
-            "id": "7c20660caa734f7f",
+            "id": "5aca69595edb1712",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "preparazione_esame/domande.md",
+                "file": "Parte 1/05 Estratti Codice del Consumo.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "preparazione_esame/domande.md",
+                "file": "Parte 1/05 Estratti Codice del Consumo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,17 +105,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "7c20660caa734f7f",
+  "active": "5aca69595edb1712",
   "lastOpenFiles": [
-    "Parte 2/04 Validità del documento informatico.md",
-    "Parte 2/05 Tutela del codice e del programmatore.md",
+    "Parte 1/04 Contratti.md",
+    "Parte 1/05 Estratti Codice del Consumo.md",
+    "Parte 1/02 Diritto applicato ad Intenet.md",
+    "Parte 2/08 Danno informatico.md",
     "Parte 2/06 Legge sul diritto d'autore.md",
-    "Dizionario/firma digitale CAD.md",
-    "Dizionario/sottoscrizione autenticata.md",
+    "Parte 2/05 Tutela del codice e del programmatore.md",
+    "Parte 2/04 Validità del documento informatico.md",
     "Parte 2/03 Responsabilità del Provider.md",
     "Parte 2/02 Regolamento generale sulla protezione dei dati (GDPR).md",
-    "Parte 2/01 Privacy.md",
-    "Parte 1/05 Estratti Codice del Consumo.md",
-    "Parte 1/04 Contratti.md"
+    "Parte 2/01 Privacy.md"
   ]
 }
