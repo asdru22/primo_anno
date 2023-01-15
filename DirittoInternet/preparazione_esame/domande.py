@@ -1,6 +1,6 @@
 q_start = "####"
 non_ripetere_domande = True
-domande_da_saltare = [100,101]
+domande_da_saltare = [66,67,68,88,89,90,91,92,93,94,95,96,97,98,99]
 
 from random import randrange
 file1 = open("C:/Users/Ale/Documents/github/primo_anno/DirittoInternet/preparazione_esame/domande.md", 'r', encoding="utf-8")
@@ -8,6 +8,7 @@ Lines = file1.readlines()
 domande = []
 risposte = []
 r = []
+global ndomande
 
 def leggifile(Lines,domande,risposte,r,q_start):
     for line in Lines:
@@ -25,12 +26,12 @@ def salta_domande(domande,risposte):
         risposte.pop(q-c)
         domande.pop(q-c)
         c+=1
+    return len(domande)
 
 
-
-def stampa_domande(domande,risposte):
+def stampa_domande(domande,risposte,i,ndomande):
     r = randrange(len(risposte))
-    print("======================================\n"+domande[r])
+    print("["+str(i)+"/"+str(ndomande)+"]======================================\n"+domande[r])
     inp = input()
     print("RISPOSTA:\n"+risposte[r].replace("  "," "))
     inp = input("premi \"e\" per uscire o qualsiasi altro tasto per continuare\n")
@@ -39,14 +40,9 @@ def stampa_domande(domande,risposte):
         domande.pop(r)
 
 leggifile(Lines,domande,risposte,r,q_start)
-salta_domande(domande,risposte)
+ndomande = salta_domande(domande,risposte) 
 inp = 'n'
-while(inp!="e"): stampa_domande(domande,risposte)
-
-"""
-Dubbi:
-Differenza tra licenza freeware e open source
-Quando può considerarsi concluso un contratto stipulato via Internet?
-I B2B sono regolamentati dal C.C, art. 70/2003, Regolamento roma 3?
-Differenza conseguenze giuridiche tra Causa mista e collegamento negoziale
-"""
+i = 0
+while(inp!="e"):
+    i=i+1
+    stampa_domande(domande,risposte,i,ndomande)

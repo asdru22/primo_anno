@@ -30,7 +30,7 @@ In concorso formale: con la stessa condotta vengono commessi più reati (i reati
 Reato che comprende il 635-bis. Se si viene puniti per il bis non si può anche essere puniti per il quater.
 #### Art.615-ter: Accesso abusivo a sistema informatico
 Violazione della sede digitale di un individuo, punibile con reclusione fino a 3 anni.
-Se qualcuno conosce una password non è legittimato ad accedere ad un sistema informatico, specialmente quando date le circostanze l'accesso al dispostivo non è autorizzata.
+Se qualcuno conosce una password non è legittimato ad accedere ad un sistema informatico, specialmente quando date le circostanze l'accesso al dispositivo non è autorizzata.
 Pena massima aumentata a 5 anni se:
 - il colpevole è armato
 - il fatto è commesso da pubblico ufficiale o simile
