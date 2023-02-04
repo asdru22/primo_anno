@@ -11,7 +11,7 @@ class es{
         System.out.println(check(v,1));
     }
 
-    static boolean check(int[] v,int i){
+    static boolean check(int[] v,int i){  
         if(i==v.length) return true;
         return (v[i]==v[0])? check(v,i+1) : false;
     }
