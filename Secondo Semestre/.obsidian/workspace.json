@@ -1,0 +1,152 @@
+{
+  "main": {
+    "id": "86bb39adcaee5f4f",
+    "type": "split",
+    "children": [
+      {
+        "id": "cca83cc697536b9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "05c072d85e8edcf4",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b458bee927f7bb3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b62fece0e4d6ed39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad7fd8fc07b15b7e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c9bad18a7ca9ebae",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5975cb46720af9ff",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "c11a1a946bfdc420",
+    "type": "split",
+    "children": [
+      {
+        "id": "36e281672f1d9cf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe0079878956b0b5",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4489c643f317730f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5bd384eb00b56ef7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "3fb1768b13eabdf7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "05c072d85e8edcf4",
+  "lastOpenFiles": [
+    "Algebra/src/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf"
+  ]
+}
