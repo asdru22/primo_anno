@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "cca83cc697536b9e",
+        "id": "0f1156a1c77095b5",
         "type": "tabs",
         "children": [
           {
-            "id": "05c072d85e8edcf4",
+            "id": "d97b30ec7295e526",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf"
+                "file": "Programmazione/test.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "c11a1a946bfdc420",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf",
+                "file": "Programmazione/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf",
+                "file": "Programmazione/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf"
+                "file": "Programmazione/test.md"
               }
             }
           }
@@ -140,13 +141,18 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
+      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "05c072d85e8edcf4",
+  "active": "d97b30ec7295e526",
   "lastOpenFiles": [
+    "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf",
+    "Organizzazione Aziendale/02_20 (capitolo 1).md",
+    "Architettura Internet/pdf/02_22.pdf",
+    "Organizzazione Aziendale/Untitled.canvas",
+    "Excalidraw/Drawing 2023-02-20 19.23.44.excalidraw.md",
     "Algebra/src/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf"
   ]
 }
