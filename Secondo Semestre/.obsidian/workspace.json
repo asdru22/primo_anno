@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "0f1156a1c77095b5",
+        "id": "e8ccaef6496bc40d",
         "type": "tabs",
         "children": [
           {
-            "id": "d97b30ec7295e526",
+            "id": "fda7da007d9d5177",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programmazione/test.md",
+                "file": "Architettura Internet/02_22 (capitolo 1).md",
                 "mode": "source",
                 "source": false
               }
@@ -32,16 +32,6 @@
         "id": "b62fece0e4d6ed39",
         "type": "tabs",
         "children": [
-          {
-            "id": "ad7fd8fc07b15b7e",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical"
-              }
-            }
-          },
           {
             "id": "c9bad18a7ca9ebae",
             "type": "leaf",
@@ -64,12 +54,24 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "696f68cb34f38af8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "c11a1a946bfdc420",
@@ -85,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmazione/test.md",
+                "file": "Architettura Internet/02_22 (capitolo 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmazione/test.md",
+                "file": "Architettura Internet/02_22 (capitolo 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmazione/test.md"
+                "file": "Architettura Internet/02_22 (capitolo 1).md"
               }
             }
           }
@@ -141,18 +143,21 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": true,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "d97b30ec7295e526",
+  "active": "fda7da007d9d5177",
   "lastOpenFiles": [
-    "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf",
-    "Organizzazione Aziendale/02_20 (capitolo 1).md",
     "Architettura Internet/pdf/02_22.pdf",
-    "Organizzazione Aziendale/Untitled.canvas",
-    "Excalidraw/Drawing 2023-02-20 19.23.44.excalidraw.md",
-    "Algebra/src/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf"
+    "Architettura Internet/02_22 (capitolo 1).md",
+    "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf",
+    "Untitled.canvas",
+    "Untitled Diagram.svg",
+    "Excalidraw/Drawing 2023-02-22 14.12.07.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-22 14.12.06.excalidraw.md",
+    "Excalidraw/Drawing 2023-02-22 14.09.14.excalidraw.md",
+    "Organizzazione Aziendale/02_20 (capitolo 1).md",
+    "Programmazione/Array List.md"
   ]
 }

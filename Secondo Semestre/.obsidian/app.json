@@ -1,5 +1,10 @@
 {
   "spellcheck": true,
-  "spellcheckLanguages": null,
-  "rightToLeft": false
+  "spellcheckLanguages": [
+    "it",
+    "en"
+  ],
+  "rightToLeft": false,
+  "promptDelete": false,
+  "showInlineTitle": true
 }

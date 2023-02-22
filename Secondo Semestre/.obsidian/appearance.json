@@ -1,5 +1,11 @@
 {
   "accentColor": "#01937b",
   "interfaceFontFamily": "Arial Rounded MT",
-  "textFontFamily": "Arial Rounded MT"
+  "textFontFamily": "Arial Rounded MT",
+  "cssTheme": "Obsidianite",
+  "monospaceFontFamily": "",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "nativeMenus": false,
+  "translucency": true
 }
