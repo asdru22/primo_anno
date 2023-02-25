@@ -1,9 +1,9 @@
 import java.util.ArrayList;
-class es1{
+ class es1{
     public static void main(String[] args){
-        ArrayList<Integer> numeri = new ArrayList<Integer>();
-        numeri.add(4);
-        numeri.add(2);
+        ArrayList<Double> numeri = new ArrayList<Double>();
+        numeri.add(4.5);
+        numeri.add(2.0);
         System.out.println(numeri);
     }
 }

@@ -1,11 +1,12 @@
 {
   "accentColor": "#01937b",
-  "interfaceFontFamily": "Arial Rounded MT",
+  "interfaceFontFamily": "Cascadia Code",
   "textFontFamily": "Arial Rounded MT",
-  "cssTheme": "Obsidianite",
+  "cssTheme": "",
   "monospaceFontFamily": "",
   "baseFontSize": 16,
   "showViewHeader": true,
   "nativeMenus": false,
-  "translucency": true
+  "translucency": false,
+  "theme": "obsidian"
 }

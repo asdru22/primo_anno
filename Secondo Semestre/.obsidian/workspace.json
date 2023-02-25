@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e8ccaef6496bc40d",
+        "id": "d940c4bc05928a37",
         "type": "tabs",
         "children": [
           {
-            "id": "fda7da007d9d5177",
+            "id": "ac57af28c7de2e34",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Architettura Internet/02_22 (capitolo 1).md",
+                "file": "Organizzazione Aziendale/Capitolo 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "c11a1a946bfdc420",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architettura Internet/02_22 (capitolo 1).md",
+                "file": "Organizzazione Aziendale/Capitolo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architettura Internet/02_22 (capitolo 1).md",
+                "file": "Organizzazione Aziendale/Capitolo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architettura Internet/02_22 (capitolo 1).md"
+                "file": "Organizzazione Aziendale/Capitolo 1.md"
               }
             }
           }
@@ -147,17 +146,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fda7da007d9d5177",
+  "active": "ac57af28c7de2e34",
   "lastOpenFiles": [
-    "Architettura Internet/pdf/02_22.pdf",
     "Architettura Internet/02_22 (capitolo 1).md",
-    "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf",
+    "Architettura Internet/pdf/libro.pdf",
+    "Programmazione/Array List.md",
+    "Architettura Internet/pdf/02_22.pdf",
+    "Architettura Internet/mappe",
+    "Architettura Internet/22_02.xopp~",
+    "Organizzazione Aziendale/Capitolo 1.md",
+    "Organizzazione Aziendale/cap1.xopp~",
+    "Algebra/src/02_24.xopp",
+    "Organizzazione Aziendale/cap1.xopp",
     "Untitled.canvas",
+    "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf",
     "Untitled Diagram.svg",
     "Excalidraw/Drawing 2023-02-22 14.12.07.excalidraw.md",
     "Excalidraw/Drawing 2023-02-22 14.12.06.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-22 14.09.14.excalidraw.md",
-    "Organizzazione Aziendale/02_20 (capitolo 1).md",
-    "Programmazione/Array List.md"
+    "Excalidraw/Drawing 2023-02-22 14.09.14.excalidraw.md"
   ]
 }

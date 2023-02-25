@@ -11,9 +11,10 @@
   "templates",
   "note-composer",
   "command-palette",
-  "editor-status",
+  "slash-command",
   "starred",
   "outline",
   "word-count",
+  "slides",
   "file-recovery"
 ]
