@@ -1,4 +1,4 @@
-## Che cos'è Internet
+  ## Che cos'è Internet
 Internet è un insieme di
 - Dispositivi finali: dispositivi che possono in qualche modo accedere alla rete sui quali operano network applications.
 - Nucleo centrale costituito da link di comunicazione o router.
@@ -13,4 +13,13 @@ Negli anni '40 si decise di passare ad una struttura a stella, che aveva al cent
 Sicuramente la commutazione di circuito è più veloce e sicura, tuttavia comporta un grande spreco di risorse dal momento che un singolo cavo connette solamente due individui.
 Ci si chiede se fosse possibile trasformare il segnale elettrico in pacchetti digitali, costituiti da 1 e 0.
 Al giorno d'oggi, usando le fibre ottiche, la velocità di trasmissione del segnale è leggermente rallentata, meno sicura ma consuma molte meno risorse.
- 
+Commutazione a circuito vs Commutazione a pacchetti:
+- Circuit switching: circuito dedicato per utente.
+- Packet switching: dati trasferita attraverso la rete in gruppi discreti.
+Il protocollo TCP serve a risolvere eventuali perdite. I router non si accorgono quando i pacchetti presi in entrata vengono persi in uscita.
+All'epoca il packet switching era visto inefficace per il trasporto di dati audio, il fenomeno della ==congestione== (ritardo di invio dei pacchetti dovuto ad una *queue*) non era così inibitorio per altre applicazioni legate alla comunicazione in tempo reale. Questo problema non riguarda applicazioni come email, prenotazioni, acquisti, . . .
+Ormai i servizi di rete e anche le applicazioni sono diventate commodities che non ci si aspetta quasi di pagare, il loro valore è diminuito e quello che conta è solo il contenuto.
+
+> Virtual circuit network ogni pacchetto contiene un ID del circuito virtuale che determina il prossimo salto. Il percorso fissato determinato nell'inizializzazione è fisso, e lo rimane nel corso di tutta la chiamata grazie ai router. Alla base vi è il packet switching, ma opera come se fosse un circuito (virtuale).
+
+La frequenza massima della voce umana è di qualche migliaio di Hertz. Bisogna fare almeno 8000 campionamenti per trasformarla dall'analogico al digitale. Ogni campione è rappresentato almeno da un byte: $8000\times8\textup{b} = 64\textup{kb}$. Servono 64 kilobyte al secondo per convertire la voce in digitale.
