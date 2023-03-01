@@ -8,4 +8,4 @@ class run{
         System.out.println(n3.find(5).get_val());
         
     }
-}
+} 

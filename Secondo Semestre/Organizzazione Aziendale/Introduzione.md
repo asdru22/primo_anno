@@ -75,5 +75,7 @@ Un'impresa è chiamata ad organizzarsi in una struttura che più è complessa pi
 - semplici, nel caso delle piccole imprese: imprenditore che fa tutto, max 5 dipendenti. Vantaggio della prossimità, molto efficiente, molto dinamica. A volte c'è un ambigua divisione del lavoro che può rivelarsi vantaggiosa o meno. Lo svantaggio è che spesso in una piccola organizzazione non c'è un processo di selezione del personale. Capacità di sacrificarsi per la persona a me vicino.
 - piccole medie imprese: il  consiglio di amministrazione ha obiettivi non sempre legati alla longevità dell'impresa, bensì a generare utile: può divergere con gli obbiettivi dell'imprenditore. Crescono i costi associati al coordinamento e al controllo (in particolare se l'azienda si espande su più Paesi).
 - grandi aziende: totale assenza di personalizzazione all'interno della azienda/filiali. Tutto viene fatto secondo indicazioni di un organo centrale. Non prevede funzioni duplici e ridotte spese di controllo. Le grandi aziende sono di due tipi:
-	- Innovatrici di prodotti: piccoli miglioramenti
+	- Innovatrici di prodotti: piccoli miglioramenti;
 	- Innovatrici di processo: modificano spesso la propria struttura organizzativa, quindi il loro modo di lavorare. Spesso innovare vuole dire fare un passo indietro e semplificare dei processi.
+A seconda della dimensione del business le strutture possono essere più o meno diversificate. Un'impresa può decidere di avere modelli meno verticalmente sviluppati anche se è di grandi dimensioni. Questa scelta può essere dettata da costi, dall'idea di avere una struttura snella, dalla focalizzazione su certi progetti piuttosto che altri.
+Spesso è il prodotto che devo realizzare che detta la struttura dell'impresa.
