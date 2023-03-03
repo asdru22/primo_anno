@@ -7,7 +7,7 @@
   "rightToLeft": false,
   "promptDelete": false,
   "showInlineTitle": true,
-  "showLineNumber": false,
+  "showLineNumber": true,
   "foldHeading": true,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,

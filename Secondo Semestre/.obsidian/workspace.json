@@ -4,20 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "dd097ea8c63dc5b7",
+        "id": "3fb60a1028b52f1c",
         "type": "tabs",
         "children": [
           {
-            "id": "eadaeffe7e3f9228",
+            "id": "f2b37e8e3536ab23",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Architettura Internet/pdf/02_27.pdf"
+                "file": "Organizzazione Aziendale/Introduzione.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6c147edeeb98ccbd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.16"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -68,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "c11a1a946bfdc420",
@@ -84,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architettura Internet/pdf/02_27.pdf",
+                "file": "Organizzazione Aziendale/Introduzione.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architettura Internet/pdf/02_27.pdf",
+                "file": "Organizzazione Aziendale/Introduzione.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architettura Internet/pdf/02_27.pdf"
+                "file": "Organizzazione Aziendale/Introduzione.md"
               }
             }
           }
@@ -144,8 +158,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eadaeffe7e3f9228",
+  "active": "6c147edeeb98ccbd",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Organizzazione Aziendale/Introduzione.md",
+    "Architettura Internet/02_27 (capitolo 2).md",
+    "Architettura Internet/02_22 (capitolo 1).md",
+    "Programmazione/Array List.md",
+    "Organizzazione Aziendale/Organizzazioni ibride.md",
+    "Architettura Internet/pdf/03_01.pdf",
+    "Architettura Internet/pdf/02_27.pdf",
     "Programmazione/codice/eccezioni/es1.class",
     "Programmazione/codice/eccezioni/es1.java",
     "Programmazione/codice/eccezioni",
@@ -153,15 +175,8 @@
     "Architettura Internet/pdf/02_22.pdf",
     "Programmazione/codice/eccezzioni/Untitled.md",
     "Programmazione/codice/eccezzioni",
-    "Architettura Internet/02_22 (capitolo 1).md",
-    "Architettura Internet/pdf/02_27.pdf",
-    "Architettura Internet/02_27 (capitolo 2).md",
-    "Programmazione/Array List.md",
-    "Organizzazione Aziendale/Introduzione.md",
-    "Architettura Internet/pdf/03_01.pdf",
     "Architettura Internet/pdf/1_03.pdf",
     "Architettura Internet/pdf/27_02.pdf",
-    "Architettura Internet/pdf/libro.pdf",
     "Untitled.canvas",
     "Untitled Diagram.svg",
     "Excalidraw/Drawing 2023-02-22 14.12.07.excalidraw.md",
