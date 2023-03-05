@@ -1,4 +1,3 @@
-## Organizzazione
 Modo in cui ci si relaziona all'interno di organizzazioni, che possono essere legate alla formazione, al lavoro, alla modalità di ammissione e stili gerarchici.
 Spesso si è chiamati a lavorare su un progetto a fasi, dove la modalità con la quale si risolve un problema non interessa a chi ci ha incaricato il progetto.
 Spesso le modalità di organizzazione sono figlie del tempo in cui viviamo; siamo in una fase post industriale, post moderna, post fordista.

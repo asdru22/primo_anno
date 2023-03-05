@@ -18,19 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "6c147edeeb98ccbd",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.1.16"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -81,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "c11a1a946bfdc420",
@@ -158,25 +146,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6c147edeeb98ccbd",
+  "active": "f2b37e8e3536ab23",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Organizzazione Aziendale/Introduzione.md",
-    "Architettura Internet/02_27 (capitolo 2).md",
+    "Algebra/3_combinazioni_lineari.pdf",
+    "Algebra/2_spazi_vettoriali.pdf",
+    "Algebra/1_sistemi_lineari.pdf",
+    "Architettura Internet/pdf/03_01.pdf",
+    "Algebra/src/3_combinazioni_lineari.xopp~",
+    "Algebra/0_introduzione.pdf",
+    "Architettura Internet/mappe/22_02.xopp~",
+    "Architettura Internet/pdf/02_27.pdf",
+    "Architettura Internet/pdf/02_22.pdf",
     "Architettura Internet/02_22 (capitolo 1).md",
+    "Organizzazione Aziendale/Introduzione.md",
+    "Untitled.md",
+    "Architettura Internet/02_27 (capitolo 2).md",
     "Programmazione/Array List.md",
     "Organizzazione Aziendale/Organizzazioni ibride.md",
-    "Architettura Internet/pdf/03_01.pdf",
-    "Architettura Internet/pdf/02_27.pdf",
     "Programmazione/codice/eccezioni/es1.class",
     "Programmazione/codice/eccezioni/es1.java",
-    "Programmazione/codice/eccezioni",
-    "Programmazione/codice/eccezzioni/es1.java",
-    "Architettura Internet/pdf/02_22.pdf",
     "Programmazione/codice/eccezzioni/Untitled.md",
-    "Programmazione/codice/eccezzioni",
-    "Architettura Internet/pdf/1_03.pdf",
-    "Architettura Internet/pdf/27_02.pdf",
     "Untitled.canvas",
     "Untitled Diagram.svg",
     "Excalidraw/Drawing 2023-02-22 14.12.07.excalidraw.md",
