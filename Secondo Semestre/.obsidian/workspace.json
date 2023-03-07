@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f2b37e8e3536ab23",
+            "id": "1b5eff71c2668bbc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizzazione Aziendale/Introduzione.md",
+                "file": "Organizzazione Aziendale/Capitolo 3.md",
                 "mode": "source",
                 "source": false
               }
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "c11a1a946bfdc420",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizzazione Aziendale/Introduzione.md",
+                "file": "Organizzazione Aziendale/Capitolo 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizzazione Aziendale/Introduzione.md",
+                "file": "Organizzazione Aziendale/Capitolo 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizzazione Aziendale/Introduzione.md"
+                "file": "Organizzazione Aziendale/Capitolo 3.md"
               }
             }
           }
@@ -146,8 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f2b37e8e3536ab23",
+  "active": "1b5eff71c2668bbc",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Untitled.canvas",
+    "Organizzazione Aziendale/Capitolo 3.md",
+    "Organizzazione Aziendale/Capitoli 0-2.md",
     "Algebra/3_combinazioni_lineari.pdf",
     "Algebra/2_spazi_vettoriali.pdf",
     "Algebra/1_sistemi_lineari.pdf",
@@ -158,15 +163,11 @@
     "Architettura Internet/pdf/02_27.pdf",
     "Architettura Internet/pdf/02_22.pdf",
     "Architettura Internet/02_22 (capitolo 1).md",
-    "Organizzazione Aziendale/Introduzione.md",
-    "Untitled.md",
     "Architettura Internet/02_27 (capitolo 2).md",
     "Programmazione/Array List.md",
     "Organizzazione Aziendale/Organizzazioni ibride.md",
     "Programmazione/codice/eccezioni/es1.class",
-    "Programmazione/codice/eccezioni/es1.java",
     "Programmazione/codice/eccezzioni/Untitled.md",
-    "Untitled.canvas",
     "Untitled Diagram.svg",
     "Excalidraw/Drawing 2023-02-22 14.12.07.excalidraw.md",
     "Excalidraw/Drawing 2023-02-22 14.12.06.excalidraw.md",
