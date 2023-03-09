@@ -11,11 +11,9 @@
             "id": "1b5eff71c2668bbc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 3.md",
-                "mode": "source",
-                "source": false
+                "file": "Architettura Internet/pdf/03_01.pdf"
               }
             }
           }
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 3.md",
+                "file": "Architettura Internet/pdf/03_01.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 3.md",
+                "file": "Architettura Internet/pdf/03_01.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 3.md"
+                "file": "Architettura Internet/pdf/03_01.pdf"
               }
             }
           }
@@ -147,11 +145,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b5eff71c2668bbc",
+  "active": "696f68cb34f38af8",
   "lastOpenFiles": [
+    "Architettura Internet/mappe/22_02.xopp~",
+    "Organizzazione Aziendale/Capitolo 3.md",
     "Untitled.md",
     "Untitled.canvas",
-    "Organizzazione Aziendale/Capitolo 3.md",
     "Organizzazione Aziendale/Capitoli 0-2.md",
     "Algebra/3_combinazioni_lineari.pdf",
     "Algebra/2_spazi_vettoriali.pdf",
@@ -159,7 +158,6 @@
     "Architettura Internet/pdf/03_01.pdf",
     "Algebra/src/3_combinazioni_lineari.xopp~",
     "Algebra/0_introduzione.pdf",
-    "Architettura Internet/mappe/22_02.xopp~",
     "Architettura Internet/pdf/02_27.pdf",
     "Architettura Internet/pdf/02_22.pdf",
     "Architettura Internet/02_22 (capitolo 1).md",
