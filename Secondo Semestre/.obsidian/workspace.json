@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3fb60a1028b52f1c",
+        "id": "a3e02566ef0a5c52",
         "type": "tabs",
         "children": [
           {
-            "id": "1b5eff71c2668bbc",
+            "id": "03f71edbcc09fcbb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 3.md",
-                "mode": "source",
-                "source": false
+                "file": "Organizzazione Aziendale/pdf/Appunti_1.pdf"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 3.md",
+                "file": "Organizzazione Aziendale/pdf/Appunti_1.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 3.md",
+                "file": "Organizzazione Aziendale/pdf/Appunti_1.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 3.md"
+                "file": "Organizzazione Aziendale/pdf/Appunti_1.pdf"
               }
             }
           }
@@ -146,27 +144,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "696f68cb34f38af8",
+  "active": "03f71edbcc09fcbb",
   "lastOpenFiles": [
-    "Algebra/3_basi_dimensione.pdf",
-    "Organizzazione Aziendale/Capitoli 0-2.md",
     "Organizzazione Aziendale/Capitolo 3.md",
+    "Organizzazione Aziendale/Capitoli 0-2.md",
+    "Organizzazione Aziendale/pdf/Appunti_1.pdf",
+    "Organizzazione Aziendale/pdf/Capitoli 0-2.pdf",
+    "Organizzazione Aziendale/pdf/Capitoli 0-2.xopp~",
+    "Organizzazione Aziendale/pdf/Capitoli 0-2.xopp",
+    "Organizzazione Aziendale/pdf",
+    "Organizzazione Aziendale/Nuova cartella",
+    "Algebra/3_basi_dimensione.pdf",
     "Architettura Internet/pdf/03_01.pdf",
     "Architettura Internet/mappe/22_02.xopp~",
     "Untitled.md",
     "Untitled.canvas",
     "Algebra/2_combinazioni_lineari.pdf",
-    "Algebra/1_spazi_vettoriali.pdf",
-    "Algebra/4_sistemi_lineari.pdf",
-    "Algebra/src/3_combinazioni_lineari.xopp~",
-    "Algebra/0_introduzione.pdf",
-    "Architettura Internet/pdf/02_27.pdf",
-    "Architettura Internet/pdf/02_22.pdf",
     "Architettura Internet/02_22 (capitolo 1).md",
     "Architettura Internet/02_27 (capitolo 2).md",
     "Programmazione/Array List.md",
     "Organizzazione Aziendale/Organizzazioni ibride.md",
-    "Programmazione/codice/eccezioni/es1.class",
     "Programmazione/codice/eccezzioni/Untitled.md",
     "Untitled Diagram.svg",
     "Excalidraw/Drawing 2023-02-22 14.12.07.excalidraw.md",
