@@ -1,6 +1,6 @@
 Identificazione con il lavoro che faccio, mi riconosco nell'organizzazione e nelle sue regole. Agio e condivisione valoriale all'interno dell'azienda. Un rapporto di questo tipo è anche di natura sociale, scambio di beni sociali e relazionali.
 I legami valgono in quanto tali, la relazione è un bene dal momento che diventa una forma di capitale, che va poi a costituire il tessuto sociale che serve a funzionare la società. Il livello di commitment, coinvolgimento, desiderio di voler restare in un'azienda, in un determinato ambito sociale. Si sviluppa una "cittadinanza organizzativa", che ha una componente prevalentemente valoriale.
-I processi decisionali sono stati oggetto di studio, ed è per questo che ha studiato e messo in piedi il concetto di "razionalità". ll processo decisionale segue diverse fasi (p.78).
+I processi decisionali sono stati oggetto di studio, ed è per questo che ha studiato e messo in piedi il concetto di "razionalità". Il processo decisionale segue diverse fasi (p.78).
 - Definizione del problema; 
 - definizione degli obiettivi;
 - raccolta delle informazioni;
@@ -28,6 +28,7 @@ Modelli di scelte basati su esperienze sociali passate sono fatti in base ad un 
 Noi non siamo in grado di selezionare e valutare le informazioni, la difficoltà di selezionarle è dovuta anche dalla disponibilità di queste. 
 I problemi che sorgono nella fase di valutazione delle informazioni sono Salienza, disponibilità, intensità.
 Le aziende detengono denaro che va a contribuire direttamente alle pensioni dei dipendenti (*nudging*), questo viola le libertà individuali, tuttavia è stato regolamentato (e non viene più considerato "furto").
+
 >Errore di attribuzione legato allo stereotipaggio: via più semplice che usa il cervello per "conoscere" qualcosa che non conosciamo.
 >Ancoraggio: rimanere legati alle scelte formative che abbiamo acquisito nel corso della nostra vita. Possiamo comunque svolgere errori che sono dovuti al nostro senso di noi.
 
@@ -44,8 +45,10 @@ In gruppi omogenei, coesi si può originare un pensiero unificato, conformista. 
 Si associa al gruppo un comportamento individuale. La responsabilità individuale è il comportamento che permette alle organizzazioni di avanzare. Lavoro bene perché non voglio che gli altri facciano il mio lavoro. In un gruppo di lavoro se c'è qualcuno che non svolge il suo compito questo viene escluso.
 ## Motivazioni
 Ci muoviamo seguendo due tipologie di motivazioni
-- estrinseche: derivano dal fatto che noi svolgiamo un'azione per avere un feedback esterno. La motivazione rischia di cadere quando la reazione esterna è diversa da quella che vorrei;
-- intrinseche: feedback interno, motivazione individuale all'agire. Se mi interesso a quello che sto facendo farò qualcosa che è di più rispetto alle mie competenze normali. Sono consistenti ma possono essere distrutte in un attimo.
+- estrinseche: derivano dal fatto che noi svolgiamo un'azione per avere un feedback esterno. La motivazione rischia di cadere quando la reazione esterna è diversa da quella che vorrei: se non arriva il salario smetto di lavorare.
+- intrinseche: feedback interno, motivazione individuale all'agire. Se mi interesso a quello che sto facendo farò qualcosa che è di più rispetto alle mie competenze normali. Sono consistenti ma possono essere distrutte in un attimo. Nel momento in cui una condizione esterna cambia, il mio comportamento non muta, rimango emotivamente in equilibrio. Un elevato costo di attivazione mi permette di sostenere più a lungo un lavoro.
+I premi possono avere un effetto ambiguo e possono alterare le motivazioni intrinseche. Se i premi sono troppo ricchi le motivazioni possono diventare estrinseche, e si lavora solo per il premio. Pochissime aziende sono consapevoli dell'importanza delle motivazioni, che sono poi la spinta che porta le persone a lavorare.
+Costi di attivazione più elevati fanno sostenere carichi più elevati, ad avere tolleranza di lavoro maggiore ed essere meno dipendenti da feedback esterni. Questo genere di persone sono "pro-sociali", empatiche collaborative, che non hanno problemi a condividere le loro conoscenze con gli altri. Si può rimanere legati ad un'azienda o organizzazione da un punto di vista normativo (contratto), affettivo (lavoro bene con le persone), dei contenuti (sono interessato in quello che faccio).
 Le competenze delle persone derivano dai loro bisogni. Una volta risolti i bisogni biologici, sorgono bisogni legati all'autorappresentazione. I beni alla base della piramide sono quelli più fondamentali e diffusi per il maggior numero di persone. Abbiamo bisogni anche in quanto esseri sociali: esistenziali, relazionali e di crescita.
 Tra le cose che ci motivano vi sono anche elementi di natura esistenziale, di crescita. Un contesto lavorativo ostile ostacola le necessità relazionali di un individuo. L'insoddisfazione ha effetti psicosomatici forti, essere infelici abbassa il proprio sistema immunitario. Si sviluppano patologie legate all'insoddisfazione.
 ## Costi associati al reperire informazioni
@@ -60,3 +63,25 @@ Alcuni aspetti che hanno a che fare con le abitudini vengono presi in consideraz
 
 Gli errori che possiamo commettere nel nostro processo decisionale derivano principalmente dalle euristiche: le strade che il nostro cervello percorre per giungere più in fretta alla soluzione.
 Si possono compiere errori di definizione del panorama, i problemi da risolvere, gli obiettivi da raggiungere. Questi errori spesso derivano dal proprio punto di vista.
+## Teoria dei rinforzi
+- Rinforzo positivo: i premi hanno maggior effetto delle punizioni
+- Rinforzo negativo
+Un obiettivo troppo semplice da raggiungere è spesso sottovalutato, e l'impegno posto è basso. Con un obiettivo troppo difficile da raggiungere può capitare che le persone perdano fiducia in loro stessi. Spesso una sottovalutazione dello sforzo porta ad un risultato negativo, obiettivi troppo elevati creano dissidi cognitivi: non si hanno le basi adeguate per affrontare un problema.
+Un giusto modo di procedere è diventare sempre più ambiziosi, acquisendo col tempo sempre più informazioni. ==(pag.101)==
+Per ottenere il massimo livello di benessere io devo sapere quali sono le mie risorse, personalità, ambizioni,  e la probabilità che certi eventi si realizzano. 
+Si valutano le prestazioni in base alla probabilità che un certo evento si realizzi.
+Teoria della giustizia organizzativa: percezione dell'equità all'interno di un organizzazione. L'equità può essere di due tipi: 
+- Oggettiva
+- Soggettiva: io percepisco una retribuzione più bassa rispetto ad altri che fanno il mio lavoro.
+In che modo si può reagire di fronte ad una situazione di inequità sul luogo di lavoro? Riducendo il lavoro allo stretto necessario, fare richieste per avere più forme di riconoscimento, limitare interazioni con certe persone e lavorare con loro, boycottare il lavoro di gruppo, lasciare l'organizzazione.
+Un eccessivo cambio veloce dei dipendenti da informazioni su come è strutturata un'organizzazione. Sapere fare soft skill è il valore aggiunto che un'azienda ricerca nei lavoratori.
+Se io capisco che sono in un ambiente dove posso crescere, allora io mi sento allineato con l'ambiente e non sento l'inequità.
+Soddisfazione emotiva, razionale sul luogo di lavoro può rendere sopportabile la carenza di una o dell'altra. Se mi piace il lavoro che svolgo, continuo a farlo anche se sono circondato da persone che non mi piacciono, e viceversa.
+Ci sono 5 dimensioni che vengono valutate e combinate per arrivare a calcolare il livello di gratificazione a lavoro:
+- varietà: svolgere attività monotone non incentivano a lavorare e sviluppando pensieri atti al problem solving;
+- identificabilità: molto spesso quando il lavoro è cognitivo è possibile che io mi identifichi in ciò che sto facendo;
+- signficatività: il senso di quello che si sta facendo;
+- autonomia: noi vogliamo sentirci responsabili di noi stessi, proattivi, liberi, qual'è il contesto dove lavoriamo meglio?
+- feedback: riscontri chiari e periodici. Quando noi ci troviamo di fronte a costi cognitivi pesanti, vogliamo posticipare il momento di feedback. Cosa mi fa stare focalizzato sul obiettivo quando questo è in là, al punto tale da farmi procrastinare. Se so che il feedback sarà negativo, come faccio a non crollare emotivamente? Come posso allenarmi a sostenere questi costi? Con l'esperienza non si sente più la necessita di avere validazione, di temere un feedback negativo. Si lavora meglio con un feedback esterno positivo e duraturo.
+Imprese che favoriscono il commitment hanno uno scarso *turn-over*, tuttavia questo aspetto può formare gruppi troppo coesi, pensieri omologati, inibire la mia capacità di sviluppare idee nuove. Si può formare un problema di bilanciamento fra il tempo dedicato al lavoro e a fare altro.
+Quando si parla di cittadinanza si parla di buoni comportamenti etici, ovvero non ho bisogno di rispettare delle norme per adottare un comportamento proattivo all'interno della mia organizzazione. Si formano una serie di virtù civiche che hanno a che fare con la coscienziosità, sportività, altruismo, cortesia.
