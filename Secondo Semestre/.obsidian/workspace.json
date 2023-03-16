@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "494dee203ea3d257",
+            "id": "5e08226b4911abdf",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Organizzazione Aziendale/pdf/Appunti_2.pdf"
+                "file": "Architettura Internet/Formule.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizzazione Aziendale/pdf/Appunti_2.pdf",
+                "file": "Architettura Internet/Formule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizzazione Aziendale/pdf/Appunti_2.pdf",
+                "file": "Architettura Internet/Formule.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizzazione Aziendale/pdf/Appunti_2.pdf"
+                "file": "Architettura Internet/Formule.md"
               }
             }
           }
@@ -144,9 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "494dee203ea3d257",
+  "active": "5e08226b4911abdf",
   "lastOpenFiles": [
     "Organizzazione Aziendale/Capitolo 3.md",
+    "Architettura Internet/Formule.md",
+    "Architettura Internet/esercitazioni/03_15.xopp~",
+    "Architettura Internet/pdf/03_01.pdf",
+    "Architettura Internet/mappe/22_02.xopp~",
     "Organizzazione Aziendale/pdf/Appunti_2.pdf",
     "Organizzazione Aziendale/Capitolo 6.md",
     "Organizzazione Aziendale/pdf/Appunti_1.pdf",
@@ -156,19 +162,9 @@
     "Organizzazione Aziendale/pdf/Capitoli 0-2.xopp",
     "Organizzazione Aziendale/pdf",
     "Organizzazione Aziendale/Nuova cartella",
-    "Algebra/3_basi_dimensione.pdf",
-    "Architettura Internet/pdf/03_01.pdf",
-    "Architettura Internet/mappe/22_02.xopp~",
     "Untitled.md",
     "Untitled.canvas",
     "Architettura Internet/02_22 (capitolo 1).md",
-    "Architettura Internet/02_27 (capitolo 2).md",
-    "Programmazione/Array List.md",
-    "Organizzazione Aziendale/Organizzazioni ibride.md",
-    "Programmazione/codice/eccezzioni/Untitled.md",
-    "Untitled Diagram.svg",
-    "Excalidraw/Drawing 2023-02-22 14.12.07.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-22 14.12.06.excalidraw.md",
-    "Excalidraw/Drawing 2023-02-22 14.09.14.excalidraw.md"
+    "Architettura Internet/02_27 (capitolo 2).md"
   ]
 }
