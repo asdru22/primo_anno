@@ -1,0 +1,9 @@
+In generale il formato dei TCP/UDP è quello di oggetti formate da parole, a 32 bit. 16 bit sono dedicati a identificare la porta sorgente, gli altri 16 la porta destinazione. Il multiplexing e demultiplexing si basano sui numeri di porta e indirizzi IP del mittente e destinatario finale.
+Il TCP è connection oriented, usa socket differenti in funzione di 4 parametri: IP e porta di origine e destinazione.
+Tutte queste informazioni vengono tenute in un unico buffer.
+## Perché usare UDP?
+Non fa aggiunta di necessità di computazione, non fa aggiunta di richieste di stato e quindi è più veloce ed è usato per applicazioni real time. Tutto questo valeva fino a quando si aveva poca banda a disposizione, e questo influiva sulla perdita di pacchetti. Dal momento che le reti di tutto il mondo (anche wireless) hanno più banda, il problema di perdere pacchetti sparisce e quindi UDP è sempre meno usato.
+TCP richiede troppo, UDP fa troppo poco, quindi l'aumento di banda è un problema per entrambi i protocolli.
+R-UDP è una forma di UDP più affidabile, che si ottiene  garantendo controlli a livello di ricezione al di sopra del livello trasporto.
+L'UDP checksum rileva errori sui bit del segmento: il sender considera i dati come interi a 16 bit, la checksum somma gli interi e fa il complemento a 1 e inserisce il valore della somma nel campo checksum del segmento (metodo bit di parità) . Il receiver calcola la somma di controllo dei dati ricevuti e se ci sono errori elimina i dati. 
+Più garanzie vuoi sulle capacità di trovare errori, più bit devi avere a disposizione. Servirebbero 16 bit per rilevare gli errori su un una parola di 16 bit. Quindi essere in grado rilevare errori su tutto Internet, su tutti i dati in circolazione implicherebbe effettivamente raddoppiare la quantità di dati. 
