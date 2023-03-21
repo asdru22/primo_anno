@@ -7,7 +7,7 @@
   "rightToLeft": false,
   "promptDelete": false,
   "showInlineTitle": true,
-  "showLineNumber": true,
+  "showLineNumber": false,
   "foldHeading": true,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
@@ -20,5 +20,8 @@
     "landscape": false,
     "margin": "0",
     "downscalePercent": 100
-  }
+  },
+  "readableLineLength": true,
+  "strictLineBreaks": false,
+  "showIndentGuide": false
 }
