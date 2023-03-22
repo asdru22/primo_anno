@@ -1,5 +1,5 @@
-1 cacca
-2 po
-3 tette
-4 tet
-5 cctt
+1 cacca	1
+2 po	2
+3 tette	3
+4 tet	4
+5 cctt	5
