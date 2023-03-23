@@ -1,7 +1,7 @@
 {
   "accentColor": "#009b9e",
-  "interfaceFontFamily": "Cascadia Code",
-  "textFontFamily": "Arial Rounded MT",
+  "interfaceFontFamily": "",
+  "textFontFamily": "Segoe UI",
   "cssTheme": "",
   "monospaceFontFamily": "",
   "baseFontSize": 19,

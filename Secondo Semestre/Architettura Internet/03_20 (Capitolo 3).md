@@ -14,3 +14,7 @@ Come si fa a creare un servizio affidabile basato su un protocollo di trasferime
 ![](https://cdn.discordapp.com/attachments/709137329129914451/1087384707509014728/image.png)
 4. Eliminiamo NACK: tutte le informazioni gestite usando il NACK si possono gestire solamente con l'ACK. Se il ==sender riceve ACK duplicati li interpreta come NACK e ritrasmette il pacchetto successivo a quello a cui si riferisce l’ACK duplicato==.
 5. Rete con errori su bit e *perdita* di pacchetti: l'algoritmo visto finora funziona su una rete sincrona. Se ci si trova su una rete asincrona (Internet), dove per ogni spedizione non è dato il tempo massimo per ricevere una risposta, questo algoritmo non funziona più. Per ovviare a questo problema il sender attende l'ACK in un tempo ragionevole. Se il pacchetto dati arriva dopo il timeout allora si è trasmesso un duplicato, ma il numero di sequenza risolve già il problema sul receiver, che deve specificare il numero di pacchetto del quale invia l'ACK.
+## GoBackN e Selective Repeat
+Sender e receiver devono avere spazio in memoria: 
+Selective a differenza di go-Back ammette riempimento di buffer con buchi, che dal lato receiver significa che vengono accettati pacchetti anche in ordine non sequenziale. Selective riceve blocchi di pacchetti ordinati.
+Entrambe usano il principio di bufferizzazione per ricordare quali pacchetti sono già stati spediti.

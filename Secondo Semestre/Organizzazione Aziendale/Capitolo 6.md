@@ -11,3 +11,5 @@ Come si possono ridurre i disagi derivanti dal conflitto tra vita privata e vita
 Un'ambiente dove si lavora bene è un'ambiente dove le persone lavorano per evitare che l'azienda si trovi in difficoltà. Questo implica maggiore attenzione all'cambiamento e al mercato. Se i lavoratori si affezionano, si riducono i costi di formazione dovuti al turn-over: non bisogna assumere e formare nuovo personale. (no parte 6.3.2 pag.117)
 In Italia le aziende spesso non hanno i mezzi e le risorse per produrre analisi e autovalutazioni. Le piccole aziende adottano politiche di auto responsabilizzazione.
 L'azienda non può intervenire sulle conseguenze psicofisiche del lavoro svolto dai dipendenti. Al massimo può limare i livelli di stress. Una leadership illuminata può fare da esempio con il proprio comportamento, accrescere le sensibilità attraverso la cultura e la conoscenza. A volte un comportamento eccessivamente inclusivo toglie parole che non hanno sostituto. 
+
+[[Capitolo 7]]

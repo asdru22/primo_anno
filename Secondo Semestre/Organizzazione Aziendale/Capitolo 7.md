@@ -24,3 +24,5 @@ Per favorire il fluire del pensiero un'azienda deve limitare il conflitto, combi
 Anche il meccanismo delle ricompense è ambiguo: un'eccessiva motivazione estrinseca elimina quelle intrinseche.
 Il livello di suono basso può essere adatto a sviluppare determinati flussi di lavoro. Anche la struttura degli spazi è studiata: l'architettura deve essere funzionale allo scopo. Oggi non sono più considerati spazi funzionali quelli all'epoca innovativi.
 Gli spazi collaborativi sono i luoghi che favoriscono il pensiero creativo anche tramite l'utilizzo di terzi spazi. Molto spesso il lavoro flessibile e il lavoro smart favoriscono sia la creatività, ma abbattono anche i costi (dell'azienda). 
+
+[[Capitolo 8]]

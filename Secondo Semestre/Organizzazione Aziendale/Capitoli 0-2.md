@@ -118,3 +118,5 @@ Ci sono due linee di pensiero: una sostiene che i valori sono prevalenti in asso
 Competenze *hard skill*, che possono essere acquisite nel corso del tempo. Formare per un'impresa è sia un costo che un investimento. Tuttavia queste sono competenze che chiunque può dare o avere. 
 Sono diverse le *soft skill*, competenze trasversali che hanno a che fare con il modo di essere. Come possono le persone allenarsi a gestire contesti sociali e interagire con persone con caratteristiche sociali diverse.
 Empatia non è solo "soffrire con", ma sviluppare una sensibilità comune, ed è considerata oggi la abilità sociale principale da sviluppare. Tuttavia vi sono anche fasi del lavoro in cui bisogna essere distaccati e concentrati su quello che si sta facendo.
+
+[[Capitolo 3]]

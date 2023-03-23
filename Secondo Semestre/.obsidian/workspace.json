@@ -8,12 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a5af705f7c369ca0",
+            "id": "647e85354b3ea4e6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Architettura Internet/pdf/03_01.pdf"
+                "file": "Organizzazione Aziendale/Capitolo 8.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "c11a1a946bfdc420",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architettura Internet/pdf/03_01.pdf",
+                "file": "Organizzazione Aziendale/Capitolo 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architettura Internet/pdf/03_01.pdf",
+                "file": "Organizzazione Aziendale/Capitolo 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architettura Internet/pdf/03_01.pdf"
+                "file": "Organizzazione Aziendale/Capitolo 8.md"
               }
             }
           }
@@ -145,28 +146,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "696f68cb34f38af8",
+  "active": "647e85354b3ea4e6",
   "lastOpenFiles": [
-    "Architettura Internet/mappe/22_02.xopp~",
-    "Architettura Internet/pdf/03_20.pdf",
-    "Architettura Internet/03_20 (Capitolo 3).md",
-    "Organizzazione Aziendale/Capitolo 6.md",
-    "Organizzazione Aziendale/pdf/Appunti_3.pdf",
-    "Organizzazione Aziendale/Capitolo 7.md",
+    "Architettura Internet/02_22 (capitolo 1).md",
+    "Organizzazione Aziendale/Capitolo 8.md",
+    "Architettura Internet/Formule.md",
     "Organizzazione Aziendale/Capitolo 3.md",
+    "Organizzazione Aziendale/Capitolo 7.md",
     "Programmazione/Array List.md",
+    "Organizzazione Aziendale/Capitolo 6.md",
+    "Organizzazione Aziendale/Capitoli 0-2.md",
+    "Architettura Internet/03_20 (Capitolo 3).md",
+    "Architettura Internet/pdf/03_20.pdf",
+    "Architettura Internet/pdf/03_01.pdf",
+    "Architettura Internet/mappe/22_02.xopp~",
+    "Organizzazione Aziendale/pdf/Appunti_3.pdf",
     "Programmazione/codice/es_conto_corrente/Movimenti.java",
     "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf",
-    "Architettura Internet/Formule.md",
     "Architettura Internet/esercitazioni/03_15.xopp~",
-    "Architettura Internet/pdf/03_01.pdf",
     "Organizzazione Aziendale/pdf/Appunti_2.pdf",
     "Organizzazione Aziendale/pdf/Appunti_1.pdf",
-    "Organizzazione Aziendale/Capitoli 0-2.md",
     "Organizzazione Aziendale/pdf/Capitoli 0-2.pdf",
     "Untitled.md",
     "Untitled.canvas",
-    "Architettura Internet/02_22 (capitolo 1).md",
     "Architettura Internet/02_27 (capitolo 2).md"
   ]
 }
