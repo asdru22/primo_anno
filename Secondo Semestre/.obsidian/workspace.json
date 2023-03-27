@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3f1366ae4413c5ae",
+        "id": "d1d342a323683c15",
         "type": "tabs",
         "children": [
           {
-            "id": "647e85354b3ea4e6",
+            "id": "25bba470c1d1661d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 8.md",
+                "file": "Organizzazione Aziendale/Laboratorio.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 8.md",
+                "file": "Organizzazione Aziendale/Laboratorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 8.md",
+                "file": "Organizzazione Aziendale/Laboratorio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 8.md"
+                "file": "Organizzazione Aziendale/Laboratorio.md"
               }
             }
           }
@@ -146,11 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "647e85354b3ea4e6",
+  "active": "25bba470c1d1661d",
   "lastOpenFiles": [
-    "Architettura Internet/02_22 (capitolo 1).md",
-    "Organizzazione Aziendale/Capitolo 8.md",
+    "Organizzazione Aziendale/Laboratorio.md",
     "Architettura Internet/Formule.md",
+    "Architettura Internet/esercitazioni/03_27.xopp~",
+    "Architettura Internet/esercitazioni/Esercitazione2.pdf",
+    "Architettura Internet/esercitazioni/03_27.xopp",
+    "Algebra/appunti_prof.pdf",
+    "Algebra/appunti_prof.pdf.opdownload",
+    "Organizzazione Aziendale/Capitolo 8.md",
+    "Architettura Internet/02_22 (capitolo 1).md",
     "Organizzazione Aziendale/Capitolo 3.md",
     "Organizzazione Aziendale/Capitolo 7.md",
     "Programmazione/Array List.md",
@@ -162,11 +168,6 @@
     "Architettura Internet/mappe/22_02.xopp~",
     "Organizzazione Aziendale/pdf/Appunti_3.pdf",
     "Programmazione/codice/es_conto_corrente/Movimenti.java",
-    "Algebra/fioresi-morigi-introduzione-all-algebra-lineare-2-ed.pdf",
-    "Architettura Internet/esercitazioni/03_15.xopp~",
-    "Organizzazione Aziendale/pdf/Appunti_2.pdf",
-    "Organizzazione Aziendale/pdf/Appunti_1.pdf",
-    "Organizzazione Aziendale/pdf/Capitoli 0-2.pdf",
     "Untitled.md",
     "Untitled.canvas",
     "Architettura Internet/02_27 (capitolo 2).md"
