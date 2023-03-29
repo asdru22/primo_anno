@@ -1,7 +1,7 @@
 public class metano extends motore {
 
-    public metano(int cilindrata,int numero_cilindri){
-        super(cilindrata, numero_cilindri);
+    public metano(int cilindrata,int numero_cilindri,int maxDecibel){
+        super(cilindrata, numero_cilindri,maxDecibel);
     };
     @Override
     public double getPotenza(){

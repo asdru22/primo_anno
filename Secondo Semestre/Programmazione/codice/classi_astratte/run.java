@@ -1,6 +1,6 @@
 class run {
  public static void main(String[] args){
-        motore[] m = {new diesel(2,5),new benzina(5,3),new metano(34,6)};
+        motore[] m = {new diesel(2,5,23),new benzina(5,3,6),new metano(34,6,54)};
         System.out.println("Media: "+media(m));
     }
 static double media(motore m[]){

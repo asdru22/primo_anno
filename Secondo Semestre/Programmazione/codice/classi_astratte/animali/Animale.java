@@ -1,4 +1,4 @@
-public abstract class Animale {
+public abstract class Animale implements Riconoscibile {
     protected int Zampe;
     protected String Verso;
     protected String Nome;
@@ -20,5 +20,20 @@ public abstract class Animale {
 
     public String toString(){
         return Nome + " ha "+ Zampe+ " zampe, fa "+ Verso +" ed è nato nel " + AnnoNascita; 
+    }
+
+    public String getName(){
+        return Nome;
+    }
+    public int getAge(){
+        return AnnoNascita;
+    }
+
+    public int ageCheck(Riconoscibile r){
+        return (int)Math.abs((double) AnnoNascita-r.getAge());
+    }
+
+    public boolean nameLength(Riconoscibile r){
+        return Nome.length()>r.getName().length();
     }
 }

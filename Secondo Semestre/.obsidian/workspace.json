@@ -11,11 +11,9 @@
             "id": "25bba470c1d1661d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Organizzazione Aziendale/Laboratorio.md",
-                "mode": "source",
-                "source": false
+                "file": "Architettura Internet/pdf/03_20.pdf"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizzazione Aziendale/Laboratorio.md",
+                "file": "Architettura Internet/pdf/03_20.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizzazione Aziendale/Laboratorio.md",
+                "file": "Architettura Internet/pdf/03_20.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizzazione Aziendale/Laboratorio.md"
+                "file": "Architettura Internet/pdf/03_20.pdf"
               }
             }
           }
@@ -148,9 +146,10 @@
   },
   "active": "25bba470c1d1661d",
   "lastOpenFiles": [
-    "Organizzazione Aziendale/Laboratorio.md",
+    "Architettura Internet/pdf/02_27.pdf",
     "Architettura Internet/Formule.md",
     "Architettura Internet/esercitazioni/03_27.xopp~",
+    "Organizzazione Aziendale/Laboratorio.md",
     "Architettura Internet/esercitazioni/Esercitazione2.pdf",
     "Architettura Internet/esercitazioni/03_27.xopp",
     "Algebra/appunti_prof.pdf",
