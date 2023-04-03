@@ -18,3 +18,9 @@ Come si fa a creare un servizio affidabile basato su un protocollo di trasferime
 Sender e receiver devono avere spazio in memoria: 
 Selective a differenza di go-Back ammette riempimento di buffer con buchi, che dal lato receiver significa che vengono accettati pacchetti anche in ordine non sequenziale. Selective riceve blocchi di pacchetti ordinati.
 Entrambe usano il principio di bufferizzazione per ricordare quali pacchetti sono già stati spediti.
+
+TCP è un protocollo a pipeline basato su buffer tra sender e receiver.
+Come funzionano quei meccanismi che fanno si che TCP garantisca anche il controllo del flusso e della congestione.
+Per congestione si intende quando i vari router non si trovano in grado di ricevere pacchetti (finisce lo spazio in memoria) e quindi li scartano.
+Perché non si aggiunge un ulteriore protocollo suoi router per evitare la congestione?
+Perché rallenterebbe molto Internet, creerebbe ancora più congestione. La soluzione semplice adottata è quella di responsabilizzare i sender e receiver, che si autoregolano nella spedizione di pacchetti.
