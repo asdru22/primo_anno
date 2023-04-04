@@ -1,4 +1,4 @@
-  ## Che cos'è Internet
+## Che cos'è Internet
 Internet è un insieme di
 - Dispositivi finali: dispositivi che possono in qualche modo accedere alla rete sui quali operano network applications.
 - Nucleo centrale costituito da link di comunicazione o router.

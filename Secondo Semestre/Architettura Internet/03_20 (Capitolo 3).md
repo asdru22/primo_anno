@@ -24,3 +24,20 @@ Come funzionano quei meccanismi che fanno si che TCP garantisca anche il control
 Per congestione si intende quando i vari router non si trovano in grado di ricevere pacchetti (finisce lo spazio in memoria) e quindi li scartano.
 Perché non si aggiunge un ulteriore protocollo suoi router per evitare la congestione?
 Perché rallenterebbe molto Internet, creerebbe ancora più congestione. La soluzione semplice adottata è quella di responsabilizzare i sender e receiver, che si autoregolano nella spedizione di pacchetti.
+## Struttura del segmento TCP
+- Numero porta sorgente
+- Numero porta di destinazione
+- Numero di sequenza: è il valore successivo al numero che misura la quantità dei byte che finora sono stati spediti. un flusso di 500.000 byte e un MSS (maximum segment size) di 1000 byte, si hanno 500 segmenti numerati 0, 1000, 2000,...
+- Numero di riscontro: l'host A scrive nei propri segmenti il numero di sequenza del byte successivo che A attende dal host B.
+- Lunghezza intestazione (header)
+- TOS (type of service), non usato
+- ACK, RESET, SYN, FIN,... (byte)
+- Checksum (16 bit)
+In solito sono 20 byte
+## Trasferimento affidabile
+Se arrivano 3 ACK duplicati so già che c'è qualcosa che non va e quindi rispedisco il segmento e riavvio il timer
+## Troughtput TCP
+Semplificato:
+$w$ finestra di congestione
+$F_t=\frac w {RTT}$
+$W$ è il valore di $w$ al timeout (costante)

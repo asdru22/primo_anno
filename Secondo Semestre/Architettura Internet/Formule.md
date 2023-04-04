@@ -2,6 +2,7 @@
 ### Distanza ($D\ [m]$)
 ### Lunghezza pacchetto ($L\ [\textup{bit}]$)
 ### Dimensione pacchetto ($F\ [\textup{bit}]$)
+### Round Trip Time ($RTT\ [s]$)
 ### Numero di pacchetti ($N$)
 $$N=\frac{\textup{dimensione pacchetto}}{\textup{lunghezza pacchetto}}$$
 
@@ -51,3 +52,17 @@ $$d_{file\ par}=d_{conn}+N\times(d_{dati\ par}+d_{syn})$$
 Per i file che eventualmente avanzano:
 $$d_{file}=d_{conn}+N\times(d_{dati}+d_{syn})$$
 $$d_c=d_{file\ par}+d_{file}$$
+## RTT Stimato ($E_{RTT}$)
+$$E_{RTT}=(1-x)\times E_{RTT}'+x\times\textup{Sample RTT}\ [s]$$
+Solitamente $x=\frac{1}{8}$
+## Deviazione ($D_V$)
+$$D_V=(1-y)\times D_V'+y\times|\textup{Sample RTT}-E_{RTT}|\ [s]$$
+Solitamente $y=\frac 1 4$
+## Timeout ($T_O$)
+$$T_O=E_{RTT}+4\times D_V\ [s]$$
+## Finestra di congestione ($w\ [s]$)
+Diciamo $W$ il valore di $w$ al timeout (costante)
+## Frequenza trasmissiva ($F_t$)
+$$F_t=\frac w {RTT}$$
+Mediamente è 
+$$F_t=\frac{0,75\times W}{RTT}$$
