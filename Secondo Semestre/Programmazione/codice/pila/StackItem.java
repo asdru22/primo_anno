@@ -10,7 +10,7 @@ public class StackItem<T> {
 	
 	public T getVal(){
 		return this.val;
-	}run
+	}
 	
 	public StackItem<T> getNext(){
 		return this.next;

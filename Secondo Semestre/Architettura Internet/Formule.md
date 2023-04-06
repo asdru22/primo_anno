@@ -16,7 +16,7 @@ $$d_t=\frac{\textup{lunghezza pacchetto}\times N}{R}\ \Big[\frac{\textup{bit}}{\
 $$d_a=\textup{numero medio di pacchetti in coda}\cdot d_t\ [s]$$
 ### Delay end to end ($d_e$)
 $$d_e=d_p+d_t+d_a+\textup{ritardo di elaborazione}\ [s]$$
-Solitamente, $d_e=\frac{\textup{round trip time}}2$
+Solitamente, $d_e=\frac{RTT}2$
 ### Troughput ($T$)
 $$T_{max}=R\ \Big[\frac{\textup{bit}}{s}\Big]$$
 Nel caso di una rete con collegamenti multipli, si considera il collegamento con banda più bassa.
@@ -66,3 +66,7 @@ Diciamo $W$ il valore di $w$ al timeout (costante)
 $$F_t=\frac w {RTT}$$
 Mediamente è 
 $$F_t=\frac{0,75\times W}{RTT}$$
+## Finestra di congestione massima ($CW$)
+$$CW=RTT\times R\ [\textup{bit}]$$
+In segmenti:
+$$CW_{max}=\frac{RTT\times R}{L}\ (\textup{segmenti})$$
