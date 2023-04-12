@@ -11,11 +11,9 @@
             "id": "770da523d0e736e1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Architettura Internet/Formule.md",
-                "mode": "source",
-                "source": false
+                "file": "Architettura Internet/esercitazioni/Esercitazione 4.pdf"
               }
             }
           }
@@ -86,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architettura Internet/Formule.md",
+                "file": "Architettura Internet/esercitazioni/Esercitazione 4.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architettura Internet/Formule.md",
+                "file": "Architettura Internet/esercitazioni/Esercitazione 4.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architettura Internet/Formule.md"
+                "file": "Architettura Internet/esercitazioni/Esercitazione 4.pdf"
               }
             }
           }
@@ -149,27 +147,27 @@
   },
   "active": "770da523d0e736e1",
   "lastOpenFiles": [
-    "Architettura Internet/esercitazioni/04_05.xopp~",
-    "Organizzazione Aziendale/Ripasso.canvas",
-    "Programmazione/Array List.md",
-    "Organizzazione Aziendale/pdf/5_Comunità.pdf",
-    "Algebra/esercizi/esercizi-4.pdf",
-    "Organizzazione Aziendale/Capitolo 8.md",
-    "Organizzazione Aziendale/pdf/4_Creatività.pdf",
-    "Organizzazione Aziendale/Capitolo 7.md",
-    "Organizzazione Aziendale/pdf/3_Discriminazione.pdf",
-    "Organizzazione Aziendale/pdf/2_Identificazione.pdf",
-    "Algebra/src/7_spazi_euclidei.xopp~",
-    "Organizzazione Aziendale/Laboratorio.md",
-    "Pasted image 20230403145623.png",
+    "Architettura Internet/pdf/04_03.pdf",
+    "Algebra/src/prova_onenote/Nuova sezione 1.one",
+    "Algebra/src/prova_onenote/Apri blocco appunti.onetoc2",
+    "Algebra/src/prova_onenote",
     "Architettura Internet/Formule.md",
+    "Organizzazione Aziendale/Ripasso.canvas",
+    "Algebra/esercizi/esercizi-6.pdf",
+    "Algebra/esercizi/esercizi-6.pdf.opdownload",
+    "Algebra/6_sottospazi.pdf",
+    "Algebra/Spazi Vettoriali Euclidei.xopp~",
+    "Algebra/appunti_prof.pdf",
+    "Algebra/Spazi Vettoriali Euclidei.xopp",
+    "Organizzazione Aziendale/Laboratorio.md",
+    "Architettura Internet/esercitazioni/04_05.xopp~",
+    "Programmazione/Array List.md",
+    "Organizzazione Aziendale/Capitolo 8.md",
+    "Organizzazione Aziendale/Capitolo 7.md",
+    "Pasted image 20230403145623.png",
     "Architettura Internet/03_20 (Capitolo 3).md",
     "Architettura Internet/02_22 (capitolo 1).md",
-    "Architettura Internet/pdf/03_20.pdf",
     "Architettura Internet/04_03 (Capitolo 5).md",
-    "Architettura Internet/pdf/04_03.pdf",
-    "Architettura Internet/pdf/AdI6bis_2023.pdf",
-    "Organizzazione Aziendale/pdf/1_Introduzione_Organizzazione_Comportamento.pdf",
     "Organizzazione Aziendale/Capitoli 0-2.md",
     "Organizzazione Aziendale/Capitolo 6.md",
     "Organizzazione Aziendale/Capitolo 3.md",
