@@ -16,10 +16,18 @@ Gli altri hanno detto che:
 - Forzatura, controvoglia
 ### Brainstorming (soluzioni agli insight):
 2. Darsi dei premi, obiettivi
-7. Partire da un libro semplice, corto, anche un fumetto. Lavorare poi per andare a leggere libri sempre più complessi. Partire da un giornale, che è comunque un insieme di storie corte, di vari argomenti, scritte apposta per attirare l'attenzione dei lettori
+8. Partire da un libro semplice, corto, anche un fumetto. Lavorare poi per andare a leggere libri sempre più complessi. Partire da un giornale, che è comunque un insieme di storie corte, di vari argomenti, scritte apposta per attirare l'attenzione dei lettori
 4. Sfruttare i tempi morti della giornata
 6. Guardare il film prima di leggere il libro, non si esce dalla comfort zone
-5. Ascoltare un podcast, audiolibro, trama del libro per avere chiaro di cosa parla il libro
-4z. Andare a prendere in prestito il libro per avere una deadline
-3. Leggere in un ambiente apposito per la lettura, senza distrazioni e rumori esterni. O anche in aula studio
+5. Ascoltare un podcast, audiolibro, trama del libro per avere chiaro di cosa parla il libro (guida alla lettura)
+7. Andare a prendere in prestito il libro per avere una deadline
+3. Leggere in un ambiente apposito per la lettura, senza distrazioni e rumori esterni, o anche in aula studio
 1. Leggere ad alta voce con un amico alternandosi le parti e intrattenendosi a vicenda. Si dimezza anche lo sforzo. Discutere poi assieme del libro
+### Critiche
+1. Non sempre si ha un amico con cui leggere/che ha ==voglia==
+2. Richiede alto autocontrollo, ci si può premiare comunque
+3. Tempo spostamento e ==voglia==
+4. Non si ha ==voglia== di leggere nei tempi morti
+### Elaborazione critiche
+L'origine di tutti i problemi è la voglia che un individuo ha di leggere. Senza questa non ha senso provare a leggere. Deve esserci una motivazione intrinseca altrimenti indipendentemente dalle strategie che si possano pensare, non si svilupperà mai l'abitudine di leggere.
+### Scelta guida alla lettura

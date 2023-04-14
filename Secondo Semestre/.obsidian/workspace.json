@@ -11,9 +11,11 @@
             "id": "770da523d0e736e1",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Architettura Internet/esercitazioni/Esercitazione 4.pdf"
+                "file": "Organizzazione Aziendale/Laboratorio.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -68,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5
+    "width": 248.5,
+    "collapsed": true
   },
   "right": {
     "id": "c11a1a946bfdc420",
@@ -84,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Architettura Internet/esercitazioni/Esercitazione 4.pdf",
+                "file": "Organizzazione Aziendale/Laboratorio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Architettura Internet/esercitazioni/Esercitazione 4.pdf",
+                "file": "Organizzazione Aziendale/Laboratorio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Architettura Internet/esercitazioni/Esercitazione 4.pdf"
+                "file": "Organizzazione Aziendale/Laboratorio.md"
               }
             }
           }
@@ -147,25 +150,25 @@
   },
   "active": "770da523d0e736e1",
   "lastOpenFiles": [
+    "Algebra/pdf_prof/Spazi Vettoriali Euclidei.pdf",
+    "Algebra/pdf_prof/appunti_prof.pdf",
+    "Algebra/pdf_prof",
+    "Algebra/Nuova cartella",
+    "Organizzazione Aziendale/Laboratorio.md",
+    "Architettura Internet/esercitazioni/Esercitazione 4.pdf",
+    "Architettura Internet/pdf/04_12.pdf",
     "Architettura Internet/pdf/04_03.pdf",
-    "Algebra/src/prova_onenote/Nuova sezione 1.one",
-    "Algebra/src/prova_onenote/Apri blocco appunti.onetoc2",
-    "Algebra/src/prova_onenote",
+    "Architettura Internet/03_20 (Capitolo 3).md",
+    "Architettura Internet/appunti/Nuova sezione 1.one",
+    "Architettura Internet/appunti/Apri blocco appunti.onetoc2",
+    "Architettura Internet/appunti",
+    "Architettura Internet/pdf/AdI7-2023.pdf",
     "Architettura Internet/Formule.md",
     "Organizzazione Aziendale/Ripasso.canvas",
-    "Algebra/esercizi/esercizi-6.pdf",
-    "Algebra/esercizi/esercizi-6.pdf.opdownload",
-    "Algebra/6_sottospazi.pdf",
-    "Algebra/Spazi Vettoriali Euclidei.xopp~",
-    "Algebra/appunti_prof.pdf",
-    "Algebra/Spazi Vettoriali Euclidei.xopp",
-    "Organizzazione Aziendale/Laboratorio.md",
-    "Architettura Internet/esercitazioni/04_05.xopp~",
     "Programmazione/Array List.md",
     "Organizzazione Aziendale/Capitolo 8.md",
     "Organizzazione Aziendale/Capitolo 7.md",
     "Pasted image 20230403145623.png",
-    "Architettura Internet/03_20 (Capitolo 3).md",
     "Architettura Internet/02_22 (capitolo 1).md",
     "Architettura Internet/04_03 (Capitolo 5).md",
     "Organizzazione Aziendale/Capitoli 0-2.md",
