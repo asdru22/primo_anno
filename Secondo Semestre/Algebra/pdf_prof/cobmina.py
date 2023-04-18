@@ -15,5 +15,5 @@ for filename in os.listdir(path):
         merger.append(open(os.path.join(path, filename), "rb"))
 
 # write the merged PDF to a new file
-with open(os.path.join(out, "pdf_prof.pdf"), "wb") as output_file:
+with open(os.path.join(out, "appuntato.pdf"), "wb") as output_file:
     merger.write(output_file)

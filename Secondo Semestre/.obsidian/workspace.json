@@ -4,18 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "28088aaebf3096f4",
+        "id": "c7c3600c6bc0ef9c",
         "type": "tabs",
         "children": [
           {
-            "id": "770da523d0e736e1",
+            "id": "0259c9e432fb32be",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Organizzazione Aziendale/Laboratorio.md",
-                "mode": "source",
-                "source": false
+                "file": "Algebra/pdf_prof.pdf"
               }
             }
           }
@@ -87,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizzazione Aziendale/Laboratorio.md",
+                "file": "Algebra/pdf_prof.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizzazione Aziendale/Laboratorio.md",
+                "file": "Algebra/pdf_prof.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizzazione Aziendale/Laboratorio.md"
+                "file": "Algebra/pdf_prof.pdf"
               }
             }
           }
@@ -148,24 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "770da523d0e736e1",
+  "active": "0259c9e432fb32be",
   "lastOpenFiles": [
-    "Algebra/pdf_prof/Spazi Vettoriali Euclidei.pdf",
-    "Algebra/pdf_prof/appunti_prof.pdf",
-    "Algebra/pdf_prof",
-    "Algebra/Nuova cartella",
-    "Organizzazione Aziendale/Laboratorio.md",
-    "Architettura Internet/esercitazioni/Esercitazione 4.pdf",
-    "Architettura Internet/pdf/04_12.pdf",
-    "Architettura Internet/pdf/04_03.pdf",
-    "Architettura Internet/03_20 (Capitolo 3).md",
-    "Architettura Internet/appunti/Nuova sezione 1.one",
-    "Architettura Internet/appunti/Apri blocco appunti.onetoc2",
-    "Architettura Internet/appunti",
-    "Architettura Internet/pdf/AdI7-2023.pdf",
-    "Architettura Internet/Formule.md",
-    "Organizzazione Aziendale/Ripasso.canvas",
+    "Algebra/Dimostrazioni.md",
+    "Algebra/dimostrazioni/proposizioni.one",
+    "Algebra/dimostrazioni/OneNote_RecycleBin/Nuova sezione 1.one",
+    "Algebra/dimostrazioni/OneNote_RecycleBin/OneNote_DeletedPages.one",
+    "Algebra/dimostrazioni/OneNote_RecycleBin/Apri blocco appunti.onetoc2",
+    "Algebra/dimostrazioni/OneNote_RecycleBin",
+    "Algebra/dimostrazioni/Nuova sezione 1.one",
+    "Algebra/dimostrazioni/Pag 13.one",
+    "Algebra/dimostrazioni/Spazio Vettoriale.one",
+    "Algebra/dimostrazioni/Nuova sezione 2.one",
+    "Algebra/dimostrazioni/Apri blocco appunti.onetoc2",
+    "Programmazione/Ripasso.md",
     "Programmazione/Array List.md",
+    "Organizzazione Aziendale/Ripasso.canvas",
+    "Organizzazione Aziendale/Laboratorio.md",
+    "Architettura Internet/03_20 (Capitolo 3).md",
+    "Architettura Internet/Formule.md",
     "Organizzazione Aziendale/Capitolo 8.md",
     "Organizzazione Aziendale/Capitolo 7.md",
     "Pasted image 20230403145623.png",
