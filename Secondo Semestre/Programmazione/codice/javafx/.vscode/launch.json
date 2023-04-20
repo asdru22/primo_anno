@@ -1,0 +1,20 @@
+{
+    "vmArgs": "--module-path \"C:/Users/Ale/Documents/GitHub/primo_anno/Secondo Semestre/Programmazione/lib\" --add-modules javafx.controls,javafx.fxml",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "run",
+            "request": "launch",
+            "mainClass": "run",
+            "projectName": "javafx_61f75162"
+        },
+        {
+            "type": "java",
+            "name": "app",
+            "request": "launch",
+            "mainClass": "app",
+            "projectName": "javafx_61f75162"
+        }
+    ]
+
+}

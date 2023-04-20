@@ -1,0 +1,15 @@
+{
+    "java.project.referencedLibraries": {
+        "include": [
+            "lib/**/*.jar",
+            "c:\\Users\\Ale\\Documents\\GitHub\\primo_anno\\Secondo Semestre\\Programmazione\\lib\\javafx.base.jar",
+            "c:\\Users\\Ale\\Documents\\GitHub\\primo_anno\\Secondo Semestre\\Programmazione\\lib\\javafx.controls.jar",
+            "c:\\Users\\Ale\\Documents\\GitHub\\primo_anno\\Secondo Semestre\\Programmazione\\lib\\javafx.fxml.jar",
+            "c:\\Users\\Ale\\Documents\\GitHub\\primo_anno\\Secondo Semestre\\Programmazione\\lib\\javafx.graphics.jar",
+            "c:\\Users\\Ale\\Documents\\GitHub\\primo_anno\\Secondo Semestre\\Programmazione\\lib\\javafx.media.jar",
+            "c:\\Users\\Ale\\Documents\\GitHub\\primo_anno\\Secondo Semestre\\Programmazione\\lib\\javafx.swing.jar",
+            "c:\\Users\\Ale\\Documents\\GitHub\\primo_anno\\Secondo Semestre\\Programmazione\\lib\\javafx.web.jar",
+            "c:\\Users\\Ale\\Documents\\GitHub\\primo_anno\\Secondo Semestre\\Programmazione\\lib\\javafx-swt.jar"
+        ]
+    }
+}
