@@ -13,7 +13,7 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "Algebra/pdf_prof.pdf"
+                "file": "Algebra/pdf_prof/Ortogonalità e Ortonormalità.pdf"
               }
             }
           }
@@ -68,8 +68,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5,
-    "collapsed": true
+    "width": 248.5
   },
   "right": {
     "id": "c11a1a946bfdc420",
@@ -85,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/pdf_prof.pdf",
+                "file": "Algebra/pdf_prof/Ortogonalità e Ortonormalità.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +101,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/pdf_prof.pdf",
+                "file": "Algebra/pdf_prof/Ortogonalità e Ortonormalità.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/pdf_prof.pdf"
+                "file": "Algebra/pdf_prof/Ortogonalità e Ortonormalità.pdf"
               }
             }
           }
@@ -148,6 +147,7 @@
   },
   "active": "0259c9e432fb32be",
   "lastOpenFiles": [
+    "Algebra/pdf_prof.pdf",
     "Algebra/Dimostrazioni.md",
     "Algebra/dimostrazioni/proposizioni.one",
     "Algebra/dimostrazioni/OneNote_RecycleBin/Nuova sezione 1.one",
