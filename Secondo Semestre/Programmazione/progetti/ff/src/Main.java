@@ -31,4 +31,8 @@ public static void main(String[] args) {launch(args);}
 		 }
 		 root.setAlignment(Pos.CENTER);
 		 primaryStage.show();
-	 }	 }
+	 }
+	 }
+
+
+	 

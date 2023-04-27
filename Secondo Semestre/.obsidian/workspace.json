@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c7c3600c6bc0ef9c",
+        "id": "f8c2fec5caa45e1a",
         "type": "tabs",
         "children": [
           {
-            "id": "0259c9e432fb32be",
+            "id": "135069b543d4ce72",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Algebra/pdf_prof/Ortogonalità e Ortonormalità.pdf"
+                "file": "Organizzazione Aziendale/Capitolo 8.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algebra/pdf_prof/Ortogonalità e Ortonormalità.pdf",
+                "file": "Organizzazione Aziendale/Capitolo 8.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algebra/pdf_prof/Ortogonalità e Ortonormalità.pdf",
+                "file": "Organizzazione Aziendale/Capitolo 8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Algebra/pdf_prof/Ortogonalità e Ortonormalità.pdf"
+                "file": "Organizzazione Aziendale/Capitolo 8.md"
               }
             }
           }
@@ -145,8 +147,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0259c9e432fb32be",
+  "active": "135069b543d4ce72",
   "lastOpenFiles": [
+    "Organizzazione Aziendale/Ripasso.canvas",
+    "Organizzazione Aziendale/Capitolo 7.md",
+    "Architettura Internet/esercitazioni/Esercitazione 5.pdf",
+    "Architettura Internet/esercitazioni/Esercitazione 4.pdf",
+    "Architettura Internet/pdf/04_12.pdf",
+    "Programmazione/Ripasso.md",
+    "Algebra/pdf_prof/Ortogonalità e Ortonormalità.pdf",
     "Algebra/pdf_prof.pdf",
     "Algebra/Dimostrazioni.md",
     "Algebra/dimostrazioni/proposizioni.one",
@@ -154,19 +163,11 @@
     "Algebra/dimostrazioni/OneNote_RecycleBin/OneNote_DeletedPages.one",
     "Algebra/dimostrazioni/OneNote_RecycleBin/Apri blocco appunti.onetoc2",
     "Algebra/dimostrazioni/OneNote_RecycleBin",
-    "Algebra/dimostrazioni/Nuova sezione 1.one",
-    "Algebra/dimostrazioni/Pag 13.one",
-    "Algebra/dimostrazioni/Spazio Vettoriale.one",
-    "Algebra/dimostrazioni/Nuova sezione 2.one",
-    "Algebra/dimostrazioni/Apri blocco appunti.onetoc2",
-    "Programmazione/Ripasso.md",
     "Programmazione/Array List.md",
-    "Organizzazione Aziendale/Ripasso.canvas",
     "Organizzazione Aziendale/Laboratorio.md",
     "Architettura Internet/03_20 (Capitolo 3).md",
     "Architettura Internet/Formule.md",
     "Organizzazione Aziendale/Capitolo 8.md",
-    "Organizzazione Aziendale/Capitolo 7.md",
     "Pasted image 20230403145623.png",
     "Architettura Internet/02_22 (capitolo 1).md",
     "Architettura Internet/04_03 (Capitolo 5).md",
