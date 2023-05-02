@@ -1,0 +1,2 @@
+cazzoImmat:2, marca: sa, alimentazione: safd, cilinadreata:4, porte: 2
+cazzoImmat:2, marca: sdas, alimentazione: af, cilinadreata:4, carico: 2

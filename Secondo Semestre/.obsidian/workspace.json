@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 8.md",
+                "file": "Programmazione/Ripasso.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 8.md",
+                "file": "Programmazione/Ripasso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 8.md",
+                "file": "Programmazione/Ripasso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organizzazione Aziendale/Capitolo 8.md"
+                "file": "Programmazione/Ripasso.md"
               }
             }
           }
@@ -149,25 +149,26 @@
   },
   "active": "135069b543d4ce72",
   "lastOpenFiles": [
+    "Programmazione/prep_esame/prova_esame/javac.20230502_132127.args",
+    "Programmazione/prep_esame/classi/box.java",
+    "Programmazione/prep_esame/classi/parallelogram.class",
+    "Programmazione/prep_esame/classi/parallelogram.java",
+    "Programmazione/prep_esame/classi/square.class",
+    "Programmazione/prep_esame/classi/trapezoid.java",
+    "Programmazione/prep_esame/classi/square.java",
+    "Programmazione/prep_esame/classi/prarallelogram.java",
+    "Programmazione/prep_esame/classi/shape.class",
+    "Programmazione/prep_esame/classi/circle.class",
+    "Programmazione/prep_esame/classi/run.class",
+    "Organizzazione Aziendale/Capitolo 8.md",
     "Organizzazione Aziendale/Ripasso.canvas",
     "Organizzazione Aziendale/Capitolo 7.md",
-    "Architettura Internet/esercitazioni/Esercitazione 5.pdf",
-    "Architettura Internet/esercitazioni/Esercitazione 4.pdf",
-    "Architettura Internet/pdf/04_12.pdf",
     "Programmazione/Ripasso.md",
-    "Algebra/pdf_prof/Ortogonalità e Ortonormalità.pdf",
-    "Algebra/pdf_prof.pdf",
     "Algebra/Dimostrazioni.md",
-    "Algebra/dimostrazioni/proposizioni.one",
-    "Algebra/dimostrazioni/OneNote_RecycleBin/Nuova sezione 1.one",
-    "Algebra/dimostrazioni/OneNote_RecycleBin/OneNote_DeletedPages.one",
-    "Algebra/dimostrazioni/OneNote_RecycleBin/Apri blocco appunti.onetoc2",
-    "Algebra/dimostrazioni/OneNote_RecycleBin",
     "Programmazione/Array List.md",
     "Organizzazione Aziendale/Laboratorio.md",
     "Architettura Internet/03_20 (Capitolo 3).md",
     "Architettura Internet/Formule.md",
-    "Organizzazione Aziendale/Capitolo 8.md",
     "Pasted image 20230403145623.png",
     "Architettura Internet/02_22 (capitolo 1).md",
     "Architettura Internet/04_03 (Capitolo 5).md",
