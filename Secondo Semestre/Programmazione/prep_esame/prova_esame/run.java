@@ -6,7 +6,8 @@ class run{
         g.add(new Motocicletta(2,"sdas","af",4,"asdas",2));
 
         //System.out.println(g.conta(0));
-        g.stampa();
-        //g.export(5);
+        //g.stampa();
+        g.estrai();
+        g.export(5);
     }
 }

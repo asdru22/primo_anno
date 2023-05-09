@@ -34,8 +34,9 @@ public class Garage implements IGarage{
         try{
             PrintWriter out = new PrintWriter(new FileWriter("output.txt"));
             Iterator<Posto> iter = posti.iterator();
-            while(iter.hasNext()){
-                out.println("cazzo"+iter.next().getVeicolo().toString());
+            while(iter.hasNext()&&n>0){
+                out.println(iter.next().getVeicolo().toString());
+                n--;
             }
             out.close();
         }

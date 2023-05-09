@@ -64,6 +64,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "0e7f403620112400",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -149,21 +157,21 @@
   },
   "active": "135069b543d4ce72",
   "lastOpenFiles": [
-    "Programmazione/prep_esame/prova_esame/javac.20230502_132127.args",
-    "Programmazione/prep_esame/classi/box.java",
-    "Programmazione/prep_esame/classi/parallelogram.class",
-    "Programmazione/prep_esame/classi/parallelogram.java",
-    "Programmazione/prep_esame/classi/square.class",
-    "Programmazione/prep_esame/classi/trapezoid.java",
-    "Programmazione/prep_esame/classi/square.java",
-    "Programmazione/prep_esame/classi/prarallelogram.java",
-    "Programmazione/prep_esame/classi/shape.class",
-    "Programmazione/prep_esame/classi/circle.class",
-    "Programmazione/prep_esame/classi/run.class",
-    "Organizzazione Aziendale/Capitolo 8.md",
+    "Programmazione/prep_esame/sim2/out.txt",
+    "Programmazione/prep_esame/sim2/Operaio.class",
+    "Programmazione/prep_esame/sim2/Impiegato.java",
+    "Programmazione/prep_esame/sim2/Persona.class",
+    "Programmazione/prep_esame/sim2/Lavoratore.class",
+    "Programmazione/prep_esame/sim2/Squadra.class",
+    "Programmazione/prep_esame/sim2/run.class",
+    "Programmazione/prep_esame/sim2/in.tsv",
     "Organizzazione Aziendale/Ripasso.canvas",
-    "Organizzazione Aziendale/Capitolo 7.md",
+    "Organizzazione Aziendale/appunti/ripasso.one",
+    "Organizzazione Aziendale/appunti/Nuova sezione 1.one",
+    "Organizzazione Aziendale/appunti/Apri blocco appunti.onetoc2",
     "Programmazione/Ripasso.md",
+    "Organizzazione Aziendale/Capitolo 8.md",
+    "Organizzazione Aziendale/Capitolo 7.md",
     "Algebra/Dimostrazioni.md",
     "Programmazione/Array List.md",
     "Organizzazione Aziendale/Laboratorio.md",

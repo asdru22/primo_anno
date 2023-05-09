@@ -9,4 +9,7 @@ public class Posto{
     public Veicolo getVeicolo(){
         return veicolo;
     }
+    public int getNumero(){
+        return numero;
+    }
 }
