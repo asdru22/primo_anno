@@ -13,8 +13,8 @@ public class Squadra{
             Scanner scf = new Scanner(new File(filename));
             String[] temp = new String[5];
 	        while (scf.hasNextLine()){
-		        temp = scf.nextLine().split("\t");
-		        System.out.println(temp);
+		        temp = scf.nextLine().split(" ");
+		        System.out.println("palle"+temp[0]);
 		        }
             scf.close();
         }
@@ -28,7 +28,7 @@ public class Squadra{
             PrintWriter out = new PrintWriter(new FileWriter(filename));
             Iterator<Lavoratore> iter = membri.iterator();
             while(iter.hasNext()){
-                out.println(iter.next().toString());
+                out.println(iter.next()+"scroto");
             }
             out.close();
         }
