@@ -9,7 +9,7 @@
 ### Banda ($R\ \Big[\frac{\textup{bit}}{s}\Big]$)
 ### Distanza ($D\ [m]$)
 ### Lunghezza pacchetto ($L\ [\textup{bit}]$)
-### Dimensione pacchetto ($F\ [\textup{bit}]$)
+### Dimensione file ($F\ [\textup{bit}]$)
 ### Round Trip Time ($RTT\ [s]$)
 ### Velocità di propagazione ($v_p\ [\frac{m}{s}]$)
 ### Numero di pacchetti ($N$)
@@ -46,11 +46,11 @@ $$N_{persi}=N\times P_{perdita}$$
 ==Tempo totale impiegato per la trasmissione di un file supponendo che i pacchetti possano essere persi==
 $$T_{perdita}=(N+N_{persi})\times(d_p+d_t)\ [s]$$
 ### Tempo per eseguire *3-way handshake* ($d_{conn}$/$3WH$)
-$$d_{conn}=3\times N\times d_p\ [s]$$
-$$d_{conn}=3\times d_{syn}$$
+$$d_{conn}=3WH=3\times d_{syn}=3\times d_p\ [s]$$
 ### Tempo richiesto ai segmenti di ACK per arrivare a destinazione ($d_{syn}$/$d_{ack}$)
-$$d_{syn}=N\times d_p\ [s]$$
+$$d_{syn}=d_{ack}=d_p\ [s]$$
 ### Connessioni parallele e non, persistenti e non
+$$d_{dati} = d_{tot}=d_e\ [s]$$
 - Connessione ==non persistente e non parallela==:
 Per ogni file:
 $$d_{file}=d_{conn}+N\times(d_{dati}+d_{syn})$$

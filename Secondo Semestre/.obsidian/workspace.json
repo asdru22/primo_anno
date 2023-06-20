@@ -11,11 +11,9 @@
             "id": "5250b787aea8b2dd",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Programmazione/Ripasso.md",
-                "mode": "source",
-                "source": false
+                "file": "Architettura Internet/esercitazioni/Esercitazione 2.pdf"
               }
             }
           }
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programmazione/Ripasso.md",
+                "file": "Architettura Internet/esercitazioni/Esercitazione 2.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Programmazione/Ripasso.md",
+                "file": "Architettura Internet/esercitazioni/Esercitazione 2.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +132,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programmazione/Ripasso.md"
+                "file": "Architettura Internet/esercitazioni/Esercitazione 2.pdf"
               }
             }
           }
@@ -157,6 +155,15 @@
   },
   "active": "5250b787aea8b2dd",
   "lastOpenFiles": [
+    "Architettura Internet/esercitazioni/Esercitazione 3.pdf",
+    "Architettura Internet/Formule.md",
+    "Architettura Internet/esercitazioni/Esercitazione 4.pdf",
+    "Architettura Internet/esercitazioni/Esercitazione 2.pdf",
+    "Architettura Internet/esercitazioni/Esercitazione 5.pdf",
+    "Pasted image 20230518152317.png",
+    "Pasted image 20230521174724.png",
+    "Architettura Internet/esercitazioni/Esercitazione 1.pdf",
+    "Programmazione/Ripasso.md",
     "Programmazione/prep_esame/sim2/e.class",
     "Programmazione/prep_esame/sim2/e.java",
     "Organizzazione Aziendale/Ripasso.canvas",
@@ -164,16 +171,6 @@
     "Organizzazione Aziendale/pdf/1_Introduzione_Organizzazione_Comportamento.pdf",
     "Organizzazione Aziendale/pdf/5_Comunità.pdf",
     "Organizzazione Aziendale/pdf/4_Creatività.pdf",
-    "Organizzazione Aziendale/pdf/3_Discriminazione.pdf",
-    "Organizzazione Aziendale/pdf/2_Identificazione.pdf",
-    "Architettura Internet/Formule.md",
-    "Pasted image 20230521174724.png",
-    "Pasted image 20230518152317.png",
-    "Algebra/Sol.pdf",
-    "Algebra/Sol.pdf.opdownload",
-    "Architettura Internet/esercitazioni/Esercitazione 4.pdf",
-    "Architettura Internet/esercitazioni/Esercitazione 5.pdf",
-    "Programmazione/Ripasso.md",
     "Organizzazione Aziendale/Capitolo 8.md",
     "Organizzazione Aziendale/Capitolo 7.md",
     "Algebra/Dimostrazioni.md",
